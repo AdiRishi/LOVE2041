@@ -1,0 +1,63 @@
+password:
+	hotdog
+name:
+	Tom Daschle
+height:
+	1.81m
+favourite_books:
+	No Longer Human
+	Charlotte's Web
+	The Exorcist
+	Charlie and the Chocolate Factory
+	Love Story
+	The Da Vinci Code
+	Frank Merriwell
+	The Giver
+favourite_movies:
+	Independence Day
+	Divergent
+	Grown Ups
+	The Hunger Games
+	Up
+	World War Z
+	The Incredibles
+	The Amazing Spider-Man 2
+	The Lion King
+gender:
+	male
+favourite_hobbies:
+	Urban exploration
+	Jewelry making
+	Aircraft spotting
+	Sleeping
+	Debugging
+	Embroidery
+	Animal showing
+	Horseback Riding
+	Color Guard
+	Exercise
+favourite_TV_shows:
+	Teen Wolf
+	Wentworth
+	Offspring
+	Revenge
+	Game of Thrones
+	Underbelly Squizzy launch
+hair_colour:
+	blonde
+email:
+	T.Daschle@ugrad.unsw.edu.au
+weight:
+	58kg
+favourite_bands:
+	James Blake
+	Kingswood
+	Foals
+	Disclosure
+	Panama
+	The Kite String Tangle
+	Fatboy Slim & Riva Starr
+username:
+	RomanticBadboy88
+birthdate:
+	1947/12/09

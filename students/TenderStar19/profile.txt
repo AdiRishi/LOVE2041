@@ -1,0 +1,35 @@
+name:
+	Gordon Brown
+password:
+	junior
+username:
+	TenderStar19
+favourite_hobbies:
+	Couponing
+degree:
+	Computer Science
+email:
+	G.Brown@ugrad.unsw.edu.au
+birthdate:
+	1951/02/20
+courses:
+	2010 S2 COMP4161
+favourite_TV_shows:
+	Elementary
+hair_colour:
+	brown
+gender:
+	male
+favourite_movies:
+	Kung Fu Panda
+	The Lord of the Rings: The Two Towers
+	Iron Man 3
+	2012
+	The Incredibles
+	Mamma Mia!
+	The Hunger Games: Catching Fire
+	Frozen
+	Shrek the Third
+	Toy Story 3
+height:
+	1.77m

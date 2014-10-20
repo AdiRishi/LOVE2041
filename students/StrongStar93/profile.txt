@@ -1,0 +1,52 @@
+password:
+	fire
+favourite_TV_shows:
+	Blue Heelers
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+	2014 S2 COMP9511
+degree:
+	Electrical Engineering
+email:
+	O.Osbourne@ugrad.unsw.edu.au
+birthdate:
+	1948/12/03
+favourite_hobbies:
+	Baton Twirling
+	Computer Games
+	Coding
+	Magic
+	Model Building
+	Gymnastics
+	Kayaking
+	Creative writing
+	Antiquing
+weight:
+	61kg
+favourite_books:
+	Man's Search for Meaning
+	The Diary of a Young Girl, The Diary of Anne Frank
+	Chicken Soup for the Soul
+name:
+	Ozzy Osbourne
+hair_colour:
+	red
+username:
+	StrongStar93
+gender:
+	female
+favourite_bands:
+	John Newman
+	Rudimental
+	Foals
+	London Grammar
+	The Kite String Tangle
+	Arctic Monkeys
+	James Blake
+	Daft Punk
+	Kingswood
+favourite_movies:
+	Finding Nemo
+	Fast & Furious 6

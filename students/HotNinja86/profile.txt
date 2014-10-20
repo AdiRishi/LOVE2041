@@ -1,0 +1,75 @@
+name:
+	Vicente Fox
+username:
+	HotNinja86
+password:
+	smokey
+gender:
+	male
+favourite_TV_shows:
+	Upper Middle Bogan
+	Hemlock Grove
+	The Elephant Princess
+	Buckwild
+	Doctor Who
+	NCIS
+	McLeod's Daughters
+courses:
+	2012 S1 ACCT1501
+	2012 S1 INFS1602
+	2012 S1 INFS1603
+	2012 S1 MGMT1001
+	2012 S2 ECON1101
+	2012 S2 ECON1203
+	2012 S2 INFS1609
+	2012 S2 INFS2603
+	2013 S1 GENS4010
+	2013 S1 GENS9005
+	2013 S1 INFS2605
+	2013 S1 INFS2608
+	2013 S2 COMP1917
+	2013 S2 MATH1081
+	2013 S2 MATH1131
+	2014 X1 MATH1231
+	2014 S1 COMP2121
+	2014 S1 COMP2911
+	2014 S1 COMP3311
+	2014 S1 COMP3441
+	2014 S2 COMP2041
+	2014 S2 COMP3161
+	2014 S2 COMP3331
+	2014 S2 COMP3511
+	2014 S2 COMP4920
+hair_colour:
+	black
+height:
+	1.77m
+weight:
+	65kg
+favourite_bands:
+	Flume & Chet Faker
+	Sticky Fingers
+	Robert DeLong
+	The Amity Affliction
+favourite_hobbies:
+	Bowling
+	RC cars
+	Embroidery
+	Ghost Hunting
+email:
+	V.Fox@ugrad.unsw.edu.au
+degree:
+	Information Technology
+birthdate:
+	1942/07/02
+favourite_books:
+	Who Moved My Cheese?
+	How the Steel Was Tempered
+	The Plague
+	And Then There Were None
+	Outlander series
+	Magic Tree House series
+	The Diary of a Young Girl, The Diary of Anne Frank
+favourite_movies:
+	Rise of the Planet of the Apes
+	2012

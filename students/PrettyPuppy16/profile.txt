@@ -1,0 +1,68 @@
+courses:
+	2012 S1 COMP1917
+	2012 S1 MATH1081
+	2012 S1 MATH1131
+	2012 S2 ACCT1501
+	2012 S2 COMP1927
+	2012 S2 SENG1031
+	2013 S1 COMP2111
+	2013 S1 COMP2121
+	2013 S1 SENG2011
+	2013 S2 MATH2400
+	2013 S2 MATH2859
+	2013 S2 PHYS1160
+	2014 X1 GENC3004
+	2014 X1 PHYS1110
+	2014 S1 COMP2911
+	2014 S1 COMP3141
+	2014 S1 COMP3311
+	2014 S1 SENG3011
+	2014 S2 COMP3421
+	2014 S2 MATH3411
+favourite_TV_shows:
+	Pretty Little Liars
+	The Black Adder
+	Underbelly Squizzy launch
+	Orphan Black
+weight:
+	68kg
+favourite_bands:
+	Lorde
+	The Wombats
+	Boy & Bear
+	Foals
+	Touch Sensitive
+	The Preatures
+	James Blake
+favourite_books:
+	Kaiketsu Zorori
+birthdate:
+	23/06/1990
+favourite_movies:
+	Life of Pi
+	Men in Black
+	Man of Steel
+	The Incredibles
+	Harry Potter and the Half-Blood Prince
+	Pirates of the Caribbean: On Stranger Tides
+	Star Wars: Episode II - Attack of the Clones
+	The Lion King
+	Kung Fu Panda
+email:
+	D.Clark@ugrad.unsw.edu.au
+gender:
+	male
+name:
+	Dick Clark
+favourite_hobbies:
+	Air sports
+degree:
+	Information Technology
+username:
+	PrettyPuppy16
+hair_colour:
+	red
+height:
+	1.70m
+password:
+	junior

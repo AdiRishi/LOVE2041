@@ -1,0 +1,58 @@
+favourite_TV_shows:
+	The Saddle Club
+degree:
+	Information Technology
+password:
+	jennifer
+name:
+	Richard Krajicek
+favourite_books:
+	Where the Wild Things Are
+favourite_bands:
+	James Blake
+	Violent Soho
+	John Butler Trio
+	John Newman
+	The Kite String Tangle
+	Fatboy Slim & Riva Starr
+gender:
+	male
+email:
+	R.Krajicek@ugrad.unsw.edu.au
+username:
+	FunGeek94
+hair_colour:
+	black
+birthdate:
+	1971/12/06
+courses:
+	2010 S2 ACCT5930
+	2010 S2 ACCT5996
+	2010 S2 ECON5103
+	2010 S2 LEGT5512
+	2011 S1 ACCT5942
+	2011 S1 FINS5511
+	2011 S1 INFS5978
+	2011 S1 LEGT5551
+	2011 S2 ACCT5908
+	2011 S2 ACCT5910
+	2011 S2 ACCT5931
+	2011 S2 LEGT5541
+	2014 S1 COMP9101
+	2014 S1 COMP9201
+	2014 S1 COMP9318
+	2014 S1 COMP9321
+	2014 S2 COMP4121
+	2014 S2 COMP9041
+	2014 S2 COMP9322
+	2014 S2 GSOE9820
+favourite_movies:
+	Indiana Jones and the Kingdom of the Crystal Skull
+	The Twilight Saga: Breaking Dawn Part 1
+	Teenage Mutant Ninja Turtles
+	The Twilight Saga: New Moon
+	Brave
+	Harry Potter and the Deathly Hallows Part 1
+	Bridesmaids
+	Up
+	Transformers: Revenge of the Fallen

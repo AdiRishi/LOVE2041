@@ -1,0 +1,55 @@
+username:
+	SillySurfer75
+favourite_books:
+	Noddy
+	Wild Swans
+	The Horse Whisperer
+	Clifford the Big Red Dog
+height:
+	1.76m
+password:
+	nicole
+favourite_bands:
+	Chvrches
+	Violent Soho
+courses:
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1131
+	2014 S1 PHYS1131
+	2014 S2 ELEC1111
+	2014 S2 PHYS1131
+hair_colour:
+	black
+weight:
+	64kg
+degree:
+	Computer Science and Eng
+favourite_hobbies:
+	Insect collecting
+	Slacklining
+	Drawing
+	Debugging
+	Rappelling
+	Stamp collecting
+email:
+	K.M.Bondevik@ugrad.unsw.edu.au
+favourite_movies:
+	The Lord of the Rings: The Return of the King
+	Fast & Furious 6
+	Up
+	Ice Age: The Meltdown
+	The Hunger Games: Catching Fire
+	Transformers: Dark of the Moon
+	Mamma Mia!
+	Jurassic Park
+	Madagascar 3: Europe's Most Wanted
+gender:
+	male
+name:
+	Kjell Magne Bondevik
+birthdate:
+	1947/09/03
+favourite_TV_shows:
+	How I Met Your Mother
+	Secrets & Lies

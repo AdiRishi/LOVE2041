@@ -1,0 +1,68 @@
+password:
+	carter
+username:
+	DorkyGal56
+email:
+	M.Streep@ugrad.unsw.edu.au
+birthdate:
+	1949/06/22
+courses:
+	2013 S1 COMP9020
+	2013 S1 COMP9021
+	2013 S1 COMP9311
+	2013 S1 GSOE9820
+	2013 S2 COMP9024
+	2013 S2 COMP9032
+	2013 S2 COMP9331
+	2013 S2 COMP9511
+	2014 S1 COMP9318
+	2014 S1 COMP9319
+	2014 S1 COMP9321
+	2014 S1 COMP9417
+	2014 S2 COMP9041
+	2014 S2 COMP9315
+	2014 S2 COMP9321
+	2014 S2 GSOE9210
+favourite_TV_shows:
+	The Simpsons
+	H2O: Just Add Water
+	Rake
+favourite_movies:
+	Man of Steel
+	Fast & Furious 6
+	Snow White and the Huntsman
+	Shrek 2
+	Dawn of the Planet of the Apes
+	Wreck-It Ralph
+	Captain America: The Winter Soldier
+name:
+	Meryl Streep
+favourite_bands:
+	Lorde
+height:
+	1.70m
+hair_colour:
+	black
+degree:
+	Information Technology
+favourite_hobbies:
+	Shooting
+	Taxidermy
+	Dowsing
+	Movie collecting
+	Going to Movies
+favourite_books:
+	The Railway Series
+	The Celestine Prophecy
+	She: A History of Adventure
+	Tarzan
+	The Catcher in the Rye
+	The Great Gatsby
+	The Alchemist
+	Think and Grow Rich
+	The Name of the Rose
+	Jonathan Livingston Seagull
+gender:
+	female
+weight:
+	60kg

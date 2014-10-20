@@ -1,0 +1,64 @@
+favourite_bands:
+	Two Door Cinema Club
+	Foals
+	Max Frost
+	Fatboy Slim & Riva Starr
+	The Preatures
+	Haim
+	Flume & Chet Faker
+	The Jezabels
+favourite_books:
+	The Very Hungry Caterpillar
+name:
+	Stanley McChrystal
+courses:
+	2012 S1 COMP1917
+	2012 S1 ENGG1000
+	2012 S1 MATH1131
+	2012 S1 PHYS1111
+	2012 S2 ELEC1111
+	2012 S2 PHYS1121
+	2013 X1 PHYS1221
+	2013 S1 COMP2121
+	2013 S1 FINS1613
+	2013 S1 MATH2069
+	2013 S2 COMP2041
+	2013 S2 GENT0911
+	2013 S2 MATH1081
+	2014 S1 COMP2911
+	2014 S1 COMP3331
+	2014 S1 COMP3411
+	2014 S2 COMP3511
+	2014 S2 COMP4920
+	2014 S2 COMP6771
+hair_colour:
+	red
+height:
+	1.72m
+weight:
+	67kg
+favourite_hobbies:
+	Acting
+favourite_movies:
+	The Matrix Reloaded
+	The Da Vinci Code
+	Alice in Wonderland
+	Brave
+	Guardians of the Galaxy
+	Quantum of Solace
+	Transformers: Dark of the Moon
+	The Passion of the Christ
+	Rio
+	E.T.: The Extra-Terrestrial
+username:
+	SexyPuppy69
+birthdate:
+	1954/08/14
+degree:
+	Civil Engineering/Science
+email:
+	S.McChrystal@ugrad.unsw.edu.au
+gender:
+	male
+password:
+	enter

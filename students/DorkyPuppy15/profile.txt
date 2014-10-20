@@ -1,0 +1,73 @@
+favourite_bands:
+	Rudimental
+	Lana Del Rey
+	The Amity Affliction
+	Grouplove
+	Thundamentals
+	Big Scary
+	Arctic Monkeys
+	Kingswood
+favourite_hobbies:
+	Leaf collecting and pressing
+	Ice hockey
+	Beauty
+	Jogging
+	Hiking
+	Dance
+	Basketball
+	Computer
+	Jewelry making
+	RC cars
+username:
+	DorkyPuppy15
+favourite_movies:
+	Lucy
+	Harry Potter and the Goblet of Fire
+weight:
+	71kg
+password:
+	spider
+favourite_books:
+	Bokura series
+	Love You Forever
+	How to Win Friends and Influence People
+	Think and Grow Rich
+	The Gruffalo
+	Harry Potter and the Half-Blood Prince
+	And Then There Were None
+	The Vampire Chronicles
+courses:
+	2012 S1 COMP1917
+	2012 S1 MATH1081
+	2012 S1 MATH1141
+	2012 S1 PSYC1001
+	2012 S2 COMP1927
+	2012 S2 COMP3421
+	2012 S2 MATH1241
+	2012 S2 MATH3411
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 MATH2111
+	2013 S1 MATH2901
+	2013 S2 MATH2130
+	2013 S2 MATH2601
+	2013 S2 MATH2931
+	2014 S2 COMP3331
+	2014 S2 COMP4920
+	2014 S2 MATH3821
+gender:
+	male
+favourite_TV_shows:
+	Vikings
+birthdate:
+	1964/02/18
+name:
+	Matt Dillon
+height:
+	1.81m
+degree:
+	Software Engineering
+hair_colour:
+	black
+email:
+	M.Dillon@ugrad.unsw.edu.au

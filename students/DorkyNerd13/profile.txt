@@ -1,0 +1,52 @@
+favourite_movies:
+	Iron Man 2
+	Quantum of Solace
+	Mamma Mia!
+height:
+	1.62m
+favourite_books:
+	A Tale of Two Cities
+	Watership Down
+	Guess How Much I Love You
+	The Railway Series
+	The Good Soldier
+	The Grapes of Wrath
+	The Bridges of Madison County
+	Sophie's World
+weight:
+	56kg
+favourite_TV_shows:
+	60 Minutes
+	House Husbands
+	Seinfeld
+hair_colour:
+	blonde
+password:
+	charlie
+birthdate:
+	1966/07/29
+courses:
+	2013 S2 COMP4121
+favourite_bands:
+	San Cisco
+	James Blake
+	Lorde
+	Two Door Cinema Club
+	Kanye West
+degree:
+	Study Abroad Program
+email:
+	M.McBride@ugrad.unsw.edu.au
+name:
+	Martina McBride
+gender:
+	female
+username:
+	DorkyNerd13
+favourite_hobbies:
+	Watching Sports
+	Relaxing
+	Ghost Hunting
+	Handball
+	Seashell collecting
+	Gambling

@@ -1,0 +1,72 @@
+favourite_hobbies:
+	Poker
+	Sculling
+	Hunting
+	Eating Out
+	Crafts
+email:
+	E.Morales@ugrad.unsw.edu.au
+password:
+	king
+courses:
+	2010 S1 ENGG1000
+	2010 S1 ENGG1811
+	2010 S1 MATH1141
+	2010 S1 PHYS1131
+	2010 S2 CVEN1300
+	2010 S2 MATH1231
+	2010 S2 MATS1101
+	2011 S1 COMP1917
+	2011 S1 CVEN2301
+	2011 S1 MATH2019
+	2011 S2 COMP1927
+	2011 S2 CVEN2101
+	2012 S1 CVEN3301
+	2012 S1 CVEN3401
+	2012 S2 CVEN2302
+	2013 S1 COMP1927
+	2013 S1 COMP3441
+	2013 S2 CVEN2201
+	2013 S2 CVEN3101
+	2013 S2 CVEN3302
+	2013 S2 CVEN3502
+	2014 S1 COMP2121
+	2014 S1 COMP2911
+	2014 S1 COMP3411
+	2014 S1 CVEN3201
+	2014 S2 COMP3421
+height:
+	1.81m
+degree:
+	Computer Science and Eng
+favourite_TV_shows:
+	House Husbands
+	The Big Bang Theory
+	Danger 5
+	Hamish & Andy's Gap Year Asia
+	American Dad
+	How I Met Your Mother
+gender:
+	male
+birthdate:
+	1976/09/01
+weight:
+	76kg
+favourite_books:
+	Life After Life
+	The Naked Ape
+	The Railway Series
+username:
+	DorkyMan78
+hair_colour:
+	brown
+favourite_bands:
+	Grouplove
+	Birds of Tokyo
+	Touch Sensitive
+	Bloc Party
+	Robert DeLong
+	Lorde
+	Illy
+name:
+	Erik Morales

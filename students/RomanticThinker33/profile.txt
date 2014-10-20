@@ -1,0 +1,59 @@
+email:
+	W.Ryder@ugrad.unsw.edu.au
+favourite_TV_shows:
+	Hamish & Andy's Gap Year Asia
+	Breaking Bad
+	Dexter
+	Game of Thrones
+	Home and Away
+	Ocean Girl
+	A Place to Call Home
+	The Big Bang Theory
+hair_colour:
+	red
+birthdate:
+	1971/10/29
+username:
+	RomanticThinker33
+password:
+	1234567
+weight:
+	69kg
+height:
+	1.76m
+favourite_hobbies:
+	Sand castle building
+favourite_bands:
+	San Cisco
+	Arcade Fire
+	Panama
+favourite_movies:
+	Star Wars: Episode I - The Phantom Menace
+	Harry Potter and the Chamber of Secrets
+	Man of Steel
+	Clash of the Titans
+favourite_books:
+	Junie B. Jones
+	Dune
+	Follow Your Heart
+	American Girl
+	The Very Hungry Caterpillar
+	Wild Swans
+	The Outsiders
+	She: A History of Adventure
+	Uncle Styopa
+	The Alchemist
+courses:
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1131
+	2014 S2 COMP1927
+	2014 S2 COMP2041
+	2014 S2 MATH1231
+	2014 S2 SENG1031
+degree:
+	Software Engineering
+name:
+	Winona Ryder
+gender:
+	female

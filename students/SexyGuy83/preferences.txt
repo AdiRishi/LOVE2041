@@ -1,0 +1,15 @@
+height:
+	min:
+		1.61m
+	max:
+		1.68m
+weight:
+	min:
+		54kg
+	max:
+		69kg
+hair_colours:
+	brown
+	black
+gender:
+	female

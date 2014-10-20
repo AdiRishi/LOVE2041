@@ -1,0 +1,55 @@
+favourite_TV_shows:
+	Dancing With The Stars
+	Lightning Point
+	American Horror Story
+	Breaking Bad
+	Secrets & Lies
+username:
+	RomanticSurfer27
+password:
+	qwertyui
+hair_colour:
+	black
+courses:
+	2014 S1 COMP1917
+	2014 S1 MATH1081
+	2014 S1 MATH1141
+	2014 S1 SCIF1121
+	2014 S2 COMP1927
+	2014 S2 COMP2041
+	2014 S2 MATH1241
+	2014 S2 PHYS1131
+degree:
+	Engineering/Commerce
+email:
+	GL.Peiris@ugrad.unsw.edu.au
+birthdate:
+	2000/01/01
+favourite_hobbies:
+	Dowsing
+	Auto racing
+	Polo
+	Frisbee
+	Brazilian jiu-jitsu
+	Family Time
+	Model Building
+weight:
+	65kg
+name:
+	GL Peiris
+favourite_movies:
+	Avatar
+	Pirates of the Caribbean: Dead Man's Chest
+	Iron Man 3
+gender:
+	male
+favourite_books:
+	The Tale of Peter Rabbit
+	The Exorcist
+	Eye of the Needle
+	A Brief History of Time
+	Things Fall Apart
+	The Women's Room
+	Genma Taisen
+height:
+	1.82m

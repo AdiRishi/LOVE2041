@@ -1,0 +1,97 @@
+email:
+	C.Martinez@ugrad.unsw.edu.au
+username:
+	SportyStar60
+name:
+	Conchita Martinez
+password:
+	trouble
+birthdate:
+	1972/04/16
+gender:
+	male
+hair_colour:
+	blonde
+favourite_hobbies:
+	Computer programming
+	Crafts
+courses:
+	2008 S1 ENGG1000
+	2008 S1 MATH1131
+	2008 S1 PHYS1121
+	2008 S2 MATH1231
+	2008 S2 MMAN1130
+	2008 S2 MMAN1300
+	2009 S1 MMAN2100
+	2009 S1 MMAN2400
+	2009 S1 MMAN2700
+	2009 S2 ELEC1111
+	2009 S2 MATH2089
+	2009 S2 MMAN2600
+	2009 S2 PHYS1160
+	2010 S1 MMAN3200
+	2010 S1 MMAN3300
+	2010 S1 MMAN3400
+	2010 S1 MTRN3200
+	2010 S2 GENS4010
+	2010 S2 GENS5001
+	2010 S2 MMAN3210
+	2010 S2 MTRN3100
+	2010 S2 MTRN3500
+	2011 S1 MMAN4400
+	2011 S1 MTRN4010
+	2011 S1 MTRN4230
+	2011 S2 COMP3331
+	2011 S2 MMAN4000
+	2013 S1 COMP9311
+	2013 S1 COMP9414
+	2013 S1 GSOE9820
+	2013 S2 COMP9024
+	2013 S2 COMP9032
+	2013 S2 COMP9041
+	2013 S2 COMP9511
+	2014 S1 COMP9102
+	2014 S1 COMP9318
+	2014 S1 COMP9321
+	2014 S1 COMP9417
+	2014 S2 COMP4418
+	2014 S2 COMP9315
+	2014 S2 COMP9415
+	2014 S2 COMP9431
+favourite_TV_shows:
+	H2O: Just Add Water
+	Dexter
+	Buckwild
+	Under The Dome
+	Camp
+	House Rules
+	Farscape
+	Mako: Island of Secrets
+favourite_bands:
+	John Newman
+	Lorde
+	RUFUS
+	Panama
+	Flight Facilities
+	The Preatures
+	James Blake
+	Violent Soho
+favourite_movies:
+	The Da Vinci Code
+	Fast Five
+	Lincoln
+	The King's Speech
+favourite_books:
+	She: A History of Adventure
+	Erast Fandorin
+	Totto-chan, the Little Girl at the Window
+	Tokugawa Ieyasu
+	Sweet Valley High
+	The Total Woman
+	The Catcher in the Rye
+	Nancy Drew
+	Bridget Jones
+height:
+	1.79m
+degree:
+	Information Technology

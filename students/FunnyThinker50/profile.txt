@@ -1,0 +1,31 @@
+email:
+	L.Ali@ugrad.unsw.edu.au
+height:
+	1.66m
+gender:
+	female
+favourite_bands:
+	The Kite String Tangle
+	John Butler Trio
+favourite_TV_shows:
+	Wentworth
+	The Big Bang Theory
+	Sons of Anarchy
+favourite_books:
+	What to Expect When You're Expecting
+	Life After Life
+birthdate:
+	1977/12/30
+favourite_hobbies:
+	Quilting
+	Beach
+	Seaglass collecting
+	Scrapbooking
+password:
+	welcome
+hair_colour:
+	blonde
+username:
+	FunnyThinker50
+name:
+	Laila Ali

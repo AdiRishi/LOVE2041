@@ -1,0 +1,58 @@
+email:
+	R.Perry@ugrad.unsw.edu.au
+favourite_TV_shows:
+	The Elephant Princess
+	Futurama
+	Friends
+	The Secret Life of Us
+	Doctor Who
+	American Dad
+	The Slap
+	Nowhere Boys
+	Rake
+courses:
+	2014 S2 CHEM1011
+	2014 S2 COMP1917
+	2014 S2 MATH1131
+	2014 S2 PHYS1131
+favourite_books:
+	What to Expect When You're Expecting
+	Jonathan Livingston Seagull
+	Black Beauty: His Grooms and Companions: The autobiography of a horse
+	The Wind in the Willows
+	Wild Swans
+	The Hite Report
+	Fear Street
+height:
+	1.77m
+hair_colour:
+	brown
+gender:
+	male
+password:
+	voyager
+weight:
+	60kg
+degree:
+	Bioinformatics
+birthdate:
+	1950/03/04
+username:
+	RomanticThinker50
+favourite_bands:
+	Dustin Tebbutt
+favourite_movies:
+	Guardians of the Galaxy
+	War of the Worlds
+	The Lord of the Rings: The Two Towers
+	The Lion King
+	The Amazing Spider-Man
+name:
+	Rick Perry
+favourite_hobbies:
+	Auto audiophilia
+	Boating
+	Coin collecting
+	Marbles
+	Baton Twirling
+	Horseback Riding

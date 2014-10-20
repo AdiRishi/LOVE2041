@@ -1,0 +1,46 @@
+weight:
+	61kg
+gender:
+	female
+birthdate:
+	1952/10/09
+favourite_books:
+	The Wind in the Willows
+	The Power of Positive Thinking
+	A Song of Ice and Fire
+	The Destroyer
+	The Secret
+	The Good Soldier
+	The Purpose Driven Life
+	Life of Pi
+hair_colour:
+	red
+favourite_TV_shows:
+	Please Like Me
+	The Secret Life of Us
+	Neighbours
+	Camp
+	Modern Family
+username:
+	SadBaby75
+name:
+	Sharon Osbourne
+height:
+	1.63m
+favourite_hobbies:
+	Embroidery
+	Stamp collecting
+	Motor sports
+	Cosplaying
+	Wood carving
+email:
+	S.Osbourne@ugrad.unsw.edu.au
+courses:
+	
+degree:
+	University Preparation Program
+password:
+	racing
+favourite_movies:
+	Finding Nemo
+	Titanic

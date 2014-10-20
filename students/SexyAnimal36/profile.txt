@@ -1,0 +1,79 @@
+birthdate:
+	1947/07/30
+hair_colour:
+	black
+password:
+	chelsea
+weight:
+	65kg
+degree:
+	Computing
+favourite_TV_shows:
+	Futurama
+favourite_bands:
+	The Preatures
+	Flight Facilities
+	Flume & Chet Faker
+	Kingswood
+	Childish Gambino
+	Illy
+	Empire of the Sun
+favourite_books:
+	The Great Gatsby
+	Jack Reacher
+	Harry Potter and the Half-Blood Prince
+	The Grapes of Wrath
+username:
+	SexyAnimal36
+courses:
+	2011 S1 COMP1911
+	2011 S1 ELEC1111
+	2011 S1 MATH1141
+	2011 S1 PHYS1131
+	2011 S2 ENGG1000
+	2011 S2 MMAN1130
+	2011 S2 MMAN1300
+	2012 S1 MATH2019
+	2012 S1 MMAN2100
+	2012 S1 MMAN2400
+	2012 S1 MMAN2700
+	2012 S2 GENC3004
+	2012 S2 MATH2089
+	2012 S2 MATS1101
+	2012 S2 MMAN2600
+	2013 S1 MMAN3200
+	2013 S1 MMAN3300
+	2013 S1 MMAN3400
+	2013 S1 MTRN3200
+	2013 S2 ACCT1501
+	2013 S2 MTRN3020
+	2013 S2 MTRN3100
+	2013 S2 MTRN3500
+	2014 S1 COMP1917
+	2014 S1 COMP3331
+	2014 S1 MTRN4010
+	2014 S2 COMP2041
+	2014 S2 MMAN4000
+	2014 S2 MMAN4020
+gender:
+	male
+email:
+	A.Schwarzenegger@ugrad.unsw.edu.au
+name:
+	Arnold Schwarzenegger
+favourite_movies:
+	Teenage Mutant Ninja Turtles
+	Toy Story 3
+	Jurassic Park
+	Dr. Seuss' The Lorax
+	Spider-Man
+	Star Wars: Episode II - Attack of the Clones
+	2012
+	The Heat
+favourite_hobbies:
+	Hiking
+	Meteorology
+	Pottery
+	Couponing
+	Antiquing
+	Coding

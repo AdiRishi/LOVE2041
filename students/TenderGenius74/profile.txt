@@ -1,0 +1,61 @@
+hair_colour:
+	black
+password:
+	skippy
+favourite_TV_shows:
+	Futurama
+	Dexter
+	Orphan Black
+	Nowhere Boys
+	The Black Adder
+	Ja'mie: Private School Girl
+gender:
+	male
+email:
+	R.Giuliani@ugrad.unsw.edu.au
+favourite_bands:
+	Busta Rhymes
+	Two Door Cinema Club
+name:
+	Rudolph Giuliani
+birthdate:
+	1944/05/28
+favourite_hobbies:
+	Astrology
+	Family Time
+	Magic
+	Racquetball
+	Meteorology
+	Leather crafting
+	Field Hockey
+height:
+	1.82m
+degree:
+	Information Technology
+favourite_movies:
+	How to Train Your Dragon 2
+	Star Wars
+	The Help
+	E.T.: The Extra-Terrestrial
+	Titanic
+username:
+	TenderGenius74
+favourite_books:
+	In His Steps: What Would Jesus Do?
+	Guin Saga
+	The Destroyer
+	Left Behind
+	Star Wars
+	Guess How Much I Love You
+	Things Fall Apart
+weight:
+	64kg
+courses:
+	2013 S2 COMP6714
+	2013 S2 COMP9318
+	2013 S2 COMP9321
+	2013 S2 COMP9444
+	2014 S1 COMP9102
+	2014 S1 COMP9319
+	2014 S1 COMP9322
+	2014 S2 COMP9315

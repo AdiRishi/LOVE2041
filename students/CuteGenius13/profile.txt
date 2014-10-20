@@ -1,0 +1,44 @@
+favourite_movies:
+	The Da Vinci Code
+	2012
+	The Hunger Games
+	The Dark Knight Rises
+	Spider-Man 3
+	Harry Potter and the Deathly Hallows Part 2
+height:
+	1.78m
+gender:
+	male
+weight:
+	59kg
+courses:
+	2014 S1 MATH1141
+	2014 S1 PHYS1141
+	2014 S1 PSYC1001
+	2014 S2 COMP1917
+	2014 S2 MATH1241
+	2014 S2 MMAN1300
+	2014 S2 PHYS1231
+favourite_books:
+	Knowledge-value Revolution
+	A Message to Garcia
+	Harry Potter and the Deathly Hallows
+	Valley of the Dolls
+degree:
+	Telecommunications
+birthdate:
+	24/02/1976
+username:
+	CuteGenius13
+name:
+	Carlos Manuel Pruneda
+password:
+	happy
+email:
+	C.M.Pruneda@ugrad.unsw.edu.au
+hair_colour:
+	red
+favourite_bands:
+	James Blake
+favourite_TV_shows:
+	Wentworth

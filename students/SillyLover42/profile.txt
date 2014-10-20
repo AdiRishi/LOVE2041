@@ -1,0 +1,66 @@
+password:
+	chicago
+favourite_TV_shows:
+	Heartbreak High
+	Boardwalk Empire
+	Pretty Little Liars
+	The Secret Life of Us
+	Prisoner
+degree:
+	Computer Science and Eng
+favourite_books:
+	The Plague
+	The Da Vinci Code
+	The Wheel of Time
+	The Women's Room
+	And Then There Were None
+favourite_hobbies:
+	Element collecting
+	Python programming
+gender:
+	female
+hair_colour:
+	black
+name:
+	Doris Roberts
+courses:
+	2010 S1 COMP1917
+	2010 S1 ENGG1000
+	2010 S1 MATH1081
+	2010 S1 MATH1141
+	2010 S2 COMP1927
+	2010 S2 ELEC1111
+	2010 S2 PHYS1131
+	2011 S1 COMP2041
+	2011 S1 COMP2121
+	2011 S1 COMP2911
+	2011 S1 COMP3311
+	2011 S2 COMP3421
+	2012 S1 COMP3411
+	2012 S1 COMP3821
+	2012 S1 COMP9417
+	2012 S1 GENS4015
+	2012 S2 COMP4920
+	2013 S1 COMP9447
+	2013 S1 GENS9003
+	2013 S2 COMP3431
+	2014 S1 COMP3891
+	2014 S2 COMP4121
+	2014 S2 COMP4418
+favourite_bands:
+	The National
+	San Cisco
+	Touch Sensitive
+	Daft Punk
+	The Preatures
+	Major Lazer
+email:
+	D.Roberts@ugrad.unsw.edu.au
+height:
+	1.56m
+username:
+	SillyLover42
+birthdate:
+	1925/11/04
+weight:
+	49kg

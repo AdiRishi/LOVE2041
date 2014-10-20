@@ -1,0 +1,42 @@
+username:
+	SadGirl73
+name:
+	Sharon Stone
+hair_colour:
+	blonde
+favourite_books:
+	Think and Grow Rich
+	Ramona
+height:
+	1.78m
+email:
+	S.Stone@ugrad.unsw.edu.au
+favourite_bands:
+	The Wombats
+	Childish Gambino
+password:
+	college
+birthdate:
+	1958/03/10
+favourite_TV_shows:
+	A Country Practice
+	Packed to the Rafters
+	Suits
+	60 Minutes
+	Neighbours
+	Orphan Black
+	Falling Skies
+favourite_hobbies:
+	Hiking
+	Jogging
+	Deltiology
+	Origami
+	Yo-yoing
+	Skating
+	Singing
+	Volunteer Work
+	Creative writing
+weight:
+	57kg
+gender:
+	female

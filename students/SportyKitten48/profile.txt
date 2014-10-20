@@ -1,0 +1,54 @@
+favourite_bands:
+	Flume & Chet Faker
+email:
+	Q.Rania@ugrad.unsw.edu.au
+courses:
+	2013 S2 COMP9024
+	2013 S2 COMP9311
+	2013 S2 GSOE9820
+	2014 S1 COMP9318
+	2014 S1 COMP9334
+	2014 S1 COMP9441
+	2014 S2 COMP9322
+	2014 S2 COMP9323
+	2014 S2 COMP9336
+weight:
+	48kg
+password:
+	ou812
+favourite_books:
+	Your Erroneous Zones
+	Goodnight Moon
+	Wild Swans
+	The Sword of Truth
+	The Revolt of Mamie Stover
+	The Adventures of Pinocchio
+	Kon-Tiki: Across the Pacific in a Raft
+	Think and Grow Rich
+height:
+	1.65m
+gender:
+	female
+degree:
+	Information Technology
+username:
+	SportyKitten48
+favourite_hobbies:
+	Baton twirling
+	Stand-Up Comedy
+	Socializing
+	Drama
+	Kiteboarding
+	Dance
+	Cooking
+birthdate:
+	1970/08/31
+name:
+	Queen Rania
+hair_colour:
+	red
+favourite_TV_shows:
+	Rake
+	Seinfeld
+	MASH
+	Utopia

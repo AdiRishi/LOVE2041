@@ -1,0 +1,45 @@
+favourite_hobbies:
+	Singing
+	Scrapbooking
+username:
+	DorkyPuppy24
+favourite_TV_shows:
+	Seinfeld
+	Breaking Bad
+	Under the Dome
+gender:
+	male
+favourite_bands:
+	Bloc Party
+courses:
+	2014 S1 COMP1917
+	2014 S1 MATH1131
+	2014 S2 COMP1927
+	2014 S2 GENC7003
+	2014 S2 MATH1081
+	2014 S2 MATH1231
+favourite_movies:
+	Star Wars: Episode II - Attack of the Clones
+	Snow White and the Huntsman
+	Despicable Me 2
+	American Hustle
+	The Amazing Spider-Man
+name:
+	Zico
+weight:
+	61kg
+password:
+	dave
+favourite_books:
+	The Bobbsey Twins
+	Kane and Abel
+	The Women's Room
+	The Hobbit
+degree:
+	Information Technology
+email:
+	Zico@ugrad.unsw.edu.au
+height:
+	1.78m
+birthdate:
+	1953/03/03

@@ -1,0 +1,44 @@
+email:
+	S.Spielberg@ugrad.unsw.edu.au
+username:
+	RomanticDude47
+favourite_books:
+	Sophie's World
+	How the Steel Was Tempered
+	Harry Hole
+	The Diary of a Young Girl, The Diary of Anne Frank
+	Shannara
+	The Joy of Sex
+	A Tale of Two Cities
+gender:
+	male
+degree:
+	Electrical Engineering
+password:
+	junior
+birthdate:
+	1946/12/18
+hair_colour:
+	black
+height:
+	1.73m
+favourite_TV_shows:
+	The Simpsons
+	True Detective
+	Camp
+favourite_hobbies:
+	Motorcycling
+	Exercise
+	Horseback Riding
+courses:
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1131
+	2014 S1 PHYS1121
+	2014 S2 COMP1927
+	2014 S2 MATH1231
+	2014 S2 SENG1031
+weight:
+	70kg
+name:
+	Steven Spielberg

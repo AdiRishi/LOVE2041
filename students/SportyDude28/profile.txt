@@ -1,0 +1,53 @@
+degree:
+	Engineering/Commerce
+gender:
+	male
+favourite_books:
+	Kane and Abel
+	Paddington Bear
+	Harry Bosch
+	Rainbow Fish
+	The Little Prince
+	The Shack
+	Sophie's World
+	Norwegian Wood
+	Knowledge-value Revolution
+	The Eagle Has Landed
+height:
+	1.79m
+favourite_bands:
+	Something for Kate
+	Sticky Fingers
+	Childish Gambino
+	Disclosure
+	Josh Pyke
+	Kingswood
+	Thundamentals
+name:
+	Thomas OBrien
+courses:
+	2014 S1 COMP9020
+	2014 S1 COMP9021
+	2014 S1 COMP9311
+	2014 S2 COMP9024
+	2014 S2 COMP9041
+	2014 S2 COMP9331
+	2014 S2 GSOE9820
+favourite_movies:
+	Transformers: Revenge of the Fallen
+email:
+	T.OBrien@ugrad.unsw.edu.au
+hair_colour:
+	blonde
+password:
+	232323
+birthdate:
+	1972/01/01
+username:
+	SportyDude28
+favourite_hobbies:
+	Bowling
+	Tai Chi
+	Gambling
+	Sewing
+	Roller Derby

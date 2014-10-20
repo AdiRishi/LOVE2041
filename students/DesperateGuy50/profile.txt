@@ -1,0 +1,95 @@
+password:
+	silver
+favourite_books:
+	Think and Grow Rich
+	The Wind in the Willows
+	The Baby-sitters Club
+	Love Story
+	The Total Woman
+	The Poky Little Puppy
+	Junie B. Jones
+	Knowledge-value Revolution
+	The Eagle Has Landed
+favourite_TV_shows:
+	Offspring
+email:
+	C.Gomes@ugrad.unsw.edu.au
+favourite_movies:
+	Man of Steel
+	Titanic
+	Harry Potter and the Deathly Hallows Part 1
+	Finding Nemo
+	The Lord of the Rings: The Two Towers
+	The Da Vinci Code
+	Hotel Transylvania
+	Identity Thief
+	Little Fockers
+	The Dark Knight
+degree:
+	Computer Science and Eng
+username:
+	DesperateGuy50
+weight:
+	74kg
+courses:
+	2010 S1 COMP1917
+	2010 S1 ELEC1111
+	2010 S1 MATH1131
+	2010 S1 PHYS1131
+	2010 S2 ELEC2134
+	2010 S2 ENGG1000
+	2010 S2 MATH1231
+	2010 S2 PHYS1231
+	2011 X1 COMP1927
+	2011 S1 ELEC2141
+	2011 S1 PHYS2030
+	2011 S1 PHYS2040
+	2011 S2 ELEC2142
+	2011 S2 PHYS2050
+	2011 S2 PHYS2060
+	2012 X1 ELEC3104
+	2012 S1 ELEC3106
+	2012 S1 ELEC4603
+	2012 S1 PHYS3011
+	2012 S1 PHYS3770
+	2012 S2 MATH2099
+	2012 S2 MATH2120
+	2012 S2 PHYS3060
+	2012 S2 PHYS3310
+	2013 S1 ELEC4604
+	2013 S1 ELEC9705
+	2013 S1 PHYS3710
+	2013 S2 ELEC3114
+	2013 S2 ELEC4120
+	2013 S2 ELEC4622
+	2014 S1 COMP3211
+	2014 S1 ELEC4121
+	2014 S1 ELEC4123
+	2014 S1 PHYS3021
+	2014 S2 COMP2041
+	2014 S2 ELEC3105
+	2014 S2 ELEC4122
+name:
+	Ciro Gomes
+birthdate:
+	1957/11/06
+favourite_bands:
+	Goldroom
+	MS MR
+	Bring Me the Horizon
+	Empire of the Sun
+	Something for Kate
+	Lana Del Rey
+	The Amity Affliction
+gender:
+	male
+favourite_hobbies:
+	Curling
+	Aircraft spotting
+	Animal Care
+	Cryptography
+	Marbles
+	Dog sport
+	Stone collecting
+hair_colour:
+	black

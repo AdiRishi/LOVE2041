@@ -1,0 +1,47 @@
+favourite_TV_shows:
+	Teen Mom
+	My Kitchen Rules
+	Nine News
+	Neighbours
+	Elementary
+	Under The Dome
+	Dance Academy
+	Under the Dome
+	The Big Bang Theory
+weight:
+	68kg
+hair_colour:
+	black
+favourite_movies:
+	Ice Age: The Meltdown
+	Men in Black
+	Marvel's The Avengers
+	Toy Story 3
+	The Matrix Reloaded
+	Snow White and the Huntsman
+	Ice Age: Dawn of the Dinosaurs
+	The Incredibles
+	Inception
+birthdate:
+	1970/08/17
+gender:
+	male
+height:
+	1.81m
+favourite_hobbies:
+	Computer Games
+	Urban exploration
+	Foreign language learning
+	Jewelry making
+	Yo-yoing
+name:
+	Gian Marco
+email:
+	G.Marco@ugrad.unsw.edu.au
+username:
+	DreamAnimal98
+favourite_books:
+	Gone with the Wind
+	Harry Potter and the Order of the Phoenix
+password:
+	2000

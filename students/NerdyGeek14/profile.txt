@@ -1,0 +1,72 @@
+hair_colour:
+	black
+favourite_movies:
+	Harry Potter and the Deathly Hallows Part 2
+	The Sixth Sense
+	Men in Black
+	Star Wars
+	Harry Potter and the Chamber of Secrets
+	Madagascar: Escape 2 Africa
+	Star Wars: Episode I - The Phantom Menace
+	Django Unchained
+username:
+	NerdyGeek14
+birthdate:
+	1969/05/14
+favourite_hobbies:
+	Watching Sports
+	Amateur astronomy
+	Breakdancing
+	Cleaning
+name:
+	Cate Blanchett
+email:
+	C.Blanchett@ugrad.unsw.edu.au
+password:
+	enjoy
+weight:
+	66kg
+favourite_bands:
+	SAFIA
+favourite_TV_shows:
+	The X Factor
+	Wonderland
+	The Big Bang Theory
+	Utopia
+	Puberty Blues
+courses:
+	2012 S1 COMP1917
+	2012 S1 ENGG1000
+	2012 S1 MATH1141
+	2012 S1 PHYS1131
+	2012 S2 COMP1927
+	2012 S2 MATH1231
+	2012 S2 SENG1031
+	2013 S1 COMP2111
+	2013 S1 COMP2911
+	2013 S1 COMP3331
+	2013 S1 SENG2011
+	2013 S2 COMP2041
+	2013 S2 COMP3421
+	2013 S2 MATH2400
+	2013 S2 MATH2859
+	2013 S2 SENG2021
+	2014 S1 COMP2121
+	2014 S1 COMP3141
+	2014 S1 COMP3311
+	2014 S1 SENG3011
+	2014 S2 COMP3151
+	2014 S2 COMP6771
+	2014 S2 MGMT3721
+degree:
+	Software Engineering
+height:
+	1.62m
+gender:
+	female
+favourite_books:
+	Totto-chan, the Little Girl at the Window
+	The Neverending Story
+	Goodnight Moon
+	Tarzan
+	Jonathan Livingston Seagull

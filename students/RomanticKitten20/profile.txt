@@ -1,0 +1,68 @@
+weight:
+	58kg
+favourite_TV_shows:
+	American Dad
+	A Place To Call Home
+favourite_movies:
+	Megamind
+	Captain America: The Winter Soldier
+	Dawn of the Planet of the Apes
+email:
+	L.Linney@ugrad.unsw.edu.au
+name:
+	Laura Linney
+username:
+	RomanticKitten20
+birthdate:
+	1964/02/05
+height:
+	1.55m
+password:
+	ginger
+favourite_bands:
+	Bloc Party
+	James Blake
+	RUFUS
+	Kanye West
+gender:
+	female
+courses:
+	2012 S1 GSOE9820
+	2012 S1 GSOE9830
+	2012 S1 SOLA9002
+	2012 S1 SOLA9019
+	2012 S2 SOLA9001
+	2012 S2 SOLA9005
+	2012 S2 SOLA9006
+	2013 S1 COMP9020
+	2013 S1 COMP9021
+	2013 S1 COMP9311
+	2013 S2 COMP9041
+	2013 S2 COMP9331
+	2013 S2 COMP9415
+	2014 X1 MARK5700
+	2014 S1 COMP9101
+	2014 S1 COMP9332
+	2014 S1 COMP9334
+	2014 S1 COMP9441
+	2014 S2 COMP9161
+	2014 S2 COMP9336
+	2014 S2 COMP9511
+favourite_hobbies:
+	Debugging
+	Eating Out
+	Hooping
+	Playing Cards
+	Cleaning
+	Animal Care
+	Gardening
+favourite_books:
+	The Revolt of Mamie Stover
+	The Plague
+	Love You Forever
+	No Longer Human
+	Watership Down
+	The Shadow of the Wind
+	Chicken Soup for the Soul
+degree:
+	Study Abroad Program

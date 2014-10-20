@@ -1,0 +1,53 @@
+favourite_bands:
+	Haim
+	Grouplove
+	The Preatures
+email:
+	T.Bennett@ugrad.unsw.edu.au
+favourite_movies:
+	The Hangover Part II
+	Little Fockers
+	Harry Potter and the Goblet of Fire
+	Taken 2
+	Spider-Man
+gender:
+	male
+username:
+	RomanticNinja69
+degree:
+	Engineering / Arts
+hair_colour:
+	black
+favourite_books:
+	Harry Potter and the Deathly Hallows
+	The Outsiders
+	The Secret Diary of Adrian Mole, Aged 13
+	To Kill a Mockingbird
+	Jaws
+	Clifford the Big Red Dog
+	The Girl with the Dragon Tattoo
+	Harry Potter and the Order of the Phoenix
+	Sweet Valley High
+weight:
+	69kg
+name:
+	Tony Bennett
+password:
+	starwars
+favourite_TV_shows:
+	Rake
+	Falling Skies
+favourite_hobbies:
+	Australian Football League
+courses:
+	2014 S1 COMP1911
+	2014 S1 ENGG1000
+	2014 S1 MATH1131
+	2014 S1 PHYS1131
+	2014 S2 ACCT1501
+	2014 S2 COMP1921
+	2014 S2 MGMT1001
+height:
+	1.89m
+birthdate:
+	1926/08/03

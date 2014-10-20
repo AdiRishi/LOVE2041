@@ -1,0 +1,82 @@
+degree:
+	Computing
+gender:
+	male
+password:
+	jason
+weight:
+	73kg
+favourite_TV_shows:
+	Friends
+	BeastMaster
+	True Detective
+	The Doctor Blake Mysteries
+email:
+	A.Fraga@ugrad.unsw.edu.au
+birthdate:
+	1957/07/20
+favourite_books:
+	Diary of a Wimpy Kid
+	The Baby-sitters Club
+	Genma Taisen
+	Charlotte's Web
+height:
+	1.91m
+username:
+	NerdyGenius81
+courses:
+	2003 S1 CHEM1031
+	2003 S1 MATH1081
+	2003 S1 MATH1141
+	2003 S1 PHYS1131
+	2003 S2 CHEM1041
+	2003 S2 MATH1241
+	2003 S2 PHYS1000
+	2003 S2 PHYS1241
+	2004 S1 MATH2501
+	2004 S1 PHYS2010
+	2004 S1 PHYS2020
+	2004 S1 PHYS2030
+	2004 S1 PHYS2040
+	2004 S2 GENE1011
+	2004 S2 MATH1000
+	2004 S2 MATH2130
+	2004 S2 MATH2620
+	2004 S2 PHYS2050
+	2004 S2 PHYS2060
+	2004 S2 PHYS2160
+	2004 S2 PHYS2630
+	2005 X1 GENM0703
+	2005 S1 GENT0404
+	2005 S1 PHYS3010
+	2005 S1 PHYS3020
+	2005 S1 PHYS3030
+	2005 S1 PHYS3040
+	2005 S1 PHYS3710
+	2005 S1 PHYS3720
+	2005 S2 PHYS3050
+	2005 S2 PHYS3070
+	2005 S2 PHYS3550
+	2005 S2 PHYS3770
+	2005 S2 SCIF3001
+	2009 S2 COMP9020
+	2009 S2 COMP9021
+	2009 S2 GSOE9820
+	2013 S2 COMP9024
+	2014 S2 COMP9311
+	2014 S2 COMP9321
+	2014 S2 COMP9511
+name:
+	Arminio Fraga
+favourite_hobbies:
+	Computer
+	Curling
+	Watching Sports
+	Art collecting
+hair_colour:
+	black
+favourite_movies:
+	World War Z
+	Harry Potter and the Chamber of Secrets
+	Kung Fu Panda
+	Spider-Man 3

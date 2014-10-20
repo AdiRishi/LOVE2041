@@ -1,0 +1,77 @@
+gender:
+	male
+favourite_bands:
+	Dustin Tebbutt
+	Disclosure
+	Lana Del Rey
+	Robert DeLong
+courses:
+	2012 S1 COMP1917
+	2012 S1 ENGG1000
+	2012 S1 MATH1131
+	2012 S1 PHYS1121
+	2012 S2 COMP1927
+	2012 S2 MATH1081
+	2012 S2 MATS1101
+	2013 S1 COMP1927
+	2013 S1 PHYS1121
+	2013 S2 PHYS1121
+	2014 S1 COMP2121
+	2014 S1 MATH1081
+	2014 S2 MATH1231
+	2014 S2 MMAN2600
+birthdate:
+	1979/07/05
+favourite_TV_shows:
+	Please Like Me
+	A Place To Call Home
+	Homeland
+	Vikings
+	Suits
+	Under the Dome
+	MASH
+favourite_books:
+	Black Beauty: His Grooms and Companions: The autobiography of a horse
+	Love Story
+	Anne of Green Gables
+	The Total Woman
+	What Color is Your Parachute?
+	Mr. Men
+	The Ginger Man
+	Outlander series
+	Magic Tree House series
+	Night
+email:
+	A.Mauresmo@ugrad.unsw.edu.au
+username:
+	DesperatePuppy83
+favourite_movies:
+	Up
+	The Lion King
+	The Hobbit: An Unexpected Journey
+	Iron Man 3
+	Shrek the Third
+	Shrek 2
+	Dawn of the Planet of the Apes
+	Star Wars: Episode III - Revenge of the Sith
+name:
+	Amelie Mauresmo
+favourite_hobbies:
+	Computer Games
+	Scuba Diving
+	Renting Movies
+	Debate
+	Archery
+	Perl programming
+	Homebrewing
+	Gambling
+password:
+	whatever
+height:
+	1.67m
+degree:
+	Computer Science
+weight:
+	61kg
+hair_colour:
+	black

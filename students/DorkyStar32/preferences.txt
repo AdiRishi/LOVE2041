@@ -1,0 +1,14 @@
+height:
+	min:
+		1.38m
+	max:
+		1.71m
+hair_colours:
+	blonde
+gender:
+	male
+age:
+	min:
+		18
+	max:
+		24

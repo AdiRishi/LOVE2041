@@ -1,0 +1,63 @@
+favourite_TV_shows:
+	Packed To The Rafters
+	Buckwild
+	Mako: Island of Secrets
+	Rush
+degree:
+	Information Technology
+favourite_books:
+	The Power of Positive Thinking
+	Junie B. Jones
+	Guess How Much I Love You
+	The Hite Report
+	Rich Dad, Poor Dad
+	The Very Hungry Caterpillar
+password:
+	stupid
+favourite_hobbies:
+	Mountaineering
+	Theater
+	Dating Online
+	Shell scripting
+favourite_bands:
+	Bring Me the Horizon
+	Arcade Fire
+	Kanye West
+	Matt Corby
+	Chet Faker
+	Dillon Francis
+weight:
+	69kg
+favourite_movies:
+	The Help
+	Hancock
+	The Hangover Part II
+	Megamind
+	Kung Fu Panda
+	Lincoln
+gender:
+	male
+name:
+	Rod Stewart
+courses:
+	2013 S1 COMP1917
+	2013 S1 MATH1141
+	2013 S1 MGMT1001
+	2013 S1 PHYS1121
+	2013 S2 FINS1613
+	2013 S2 MATH1231
+	2013 S2 PHYS1221
+	2014 S1 COMP2121
+	2014 S2 COMP2041
+	2014 S2 FINS3616
+	2014 S2 MATH1081
+height:
+	1.77m
+email:
+	R.Stewart@ugrad.unsw.edu.au
+hair_colour:
+	blonde
+birthdate:
+	1945/01/10
+username:
+	SexyGuy83

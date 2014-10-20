@@ -1,0 +1,68 @@
+favourite_movies:
+	Captain America: The Winter Soldier
+	The Dark Knight
+	How to Train Your Dragon 2
+	Ice Age: The Meltdown
+	The Twilight Saga: Breaking Dawn Part 2
+	The Croods
+	Toy Story 3
+	MIB 3
+favourite_hobbies:
+	Seaglass collecting
+	Machining
+	Vehicle restoration
+	Watching TV
+	Worldbuilding
+name:
+	Lucy Liu
+username:
+	TenderKitten72
+courses:
+	2013 S1 COFA1001
+	2013 S1 COMP1917
+	2013 S1 MATH1131
+	2013 S1 SOMA1001
+	2013 S2 COMP1927
+	2013 S2 MATH1231
+	2013 S2 SOMA1002
+	2014 S1 COMP2121
+	2014 S1 SAHT1101
+	2014 S1 SOMA2412
+	2014 S2 COMP2041
+	2014 S2 SAHT1102
+	2014 S2 SOMA2402
+	2014 S2 SOMA2415
+favourite_TV_shows:
+	Game of Thrones
+	H2O: Just Add Water
+	Breaking Bad
+	60 Minutes
+	Under The Dome
+	McLeod's Daughters
+	Farscape
+favourite_books:
+	A Child's First Library Of Learning
+	The Revolt of Mamie Stover
+	The Gruffalo
+	Valley of the Dolls
+	The Total Woman
+	The Riftwar Cycle
+	One Hundred Years of Solitude
+	No Longer Human
+	The Women's Room
+hair_colour:
+	brown
+birthdate:
+	1968/12/02
+degree:
+	Study Abroad Program
+password:
+	cheese
+email:
+	L.Liu@ugrad.unsw.edu.au
+favourite_bands:
+	The Jezabels
+	Boy & Bear
+	Empire of the Sun
+gender:
+	female

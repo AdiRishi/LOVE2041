@@ -1,0 +1,50 @@
+birthdate:
+	1974/09/06
+weight:
+	69kg
+password:
+	purple
+favourite_books:
+	Junie B. Jones
+	Winnie-the-Pooh
+	The Total Woman
+	What Color is Your Parachute?
+	Frank Merriwell
+	Santa Evita
+name:
+	Tim Henman
+email:
+	T.Henman@ugrad.unsw.edu.au
+favourite_movies:
+	Iron Man 3
+	Captain America: The Winter Soldier
+	The Hunger Games
+	Iron Man 2
+	Indiana Jones and the Kingdom of the Crystal Skull
+courses:
+	2014 S1 COMP1911
+	2014 S1 ENGG1000
+	2014 S1 MATH1141
+	2014 S1 PHYS1121
+	2014 S2 COMP1921
+	2014 S2 ELEC1111
+	2014 S2 MATH1231
+	2014 S2 MMAN1300
+degree:
+	Study Abroad Program
+username:
+	TenderGenius14
+favourite_bands:
+	The National
+	SAFIA
+	Lana Del Rey
+	Childish Gambino
+	Something for Kate
+	British India
+gender:
+	male
+favourite_hobbies:
+	Herping
+	Camping
+height:
+	1.77m

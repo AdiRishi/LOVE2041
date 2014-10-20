@@ -1,0 +1,54 @@
+username:
+	FunNerd71
+courses:
+	2014 S1 ARTS1361
+	2014 S1 COMP1927
+	2014 S1 MATH1141
+	2014 S2 COMP2041
+	2014 S2 COMP3331
+	2012 S1 COMP1917
+hair_colour:
+	brown
+birthdate:
+	1972/04/20
+favourite_movies:
+	The Hunger Games: Catching Fire
+	The Help
+	E.T.: The Extra-Terrestrial
+	Toy Story 3
+	The Passion of the Christ
+	Puss in Boots
+	Iron Man 3
+	300: Rise of An Empire
+	Transformers
+degree:
+	Mechanical & Manufacturing Eng
+name:
+	Carmen Electra
+password:
+	angels
+favourite_books:
+	Sophie's World
+	Your Erroneous Zones
+email:
+	C.Electra@ugrad.unsw.edu.au
+favourite_bands:
+	Birds of Tokyo
+	Bloc Party
+	Remi
+	Thundamentals
+	Grouplove
+	Lorde
+	Illy
+	John Newman
+	A$AP Rocky
+gender:
+	female
+favourite_TV_shows:
+	Lightning Point
+	NCIS
+	Love Child
+	Teen Wolf
+	Underbelly Squizzy launch
+weight:
+	59kg

@@ -1,0 +1,56 @@
+degree:
+	Computer Science
+username:
+	SportyStar58
+gender:
+	male
+courses:
+	2014 S1 COMP9020
+	2014 S1 COMP9021
+	2014 S1 COMP9311
+	2014 S1 COMP9441
+	2014 S2 COMP9024
+	2014 S2 COMP9331
+	2014 S2 COMP9511
+	2014 S2 GSOE9820
+birthdate:
+	1980/07/29
+height:
+	1.81m
+weight:
+	80kg
+hair_colour:
+	black
+favourite_bands:
+	Robert DeLong
+	Foals
+	Remi
+	Touch Sensitive
+	Arcade Fire
+password:
+	green
+email:
+	F.Gonzalez@ugrad.unsw.edu.au
+favourite_movies:
+	How to Train Your Dragon 2
+	Transformers: Dark of the Moon
+	Harry Potter and the Deathly Hallows Part 2
+	Toy Story 3
+	Harry Potter and the Philosopher's Stone
+	Star Trek Into Darkness
+	Pirates of the Caribbean: Dead Man's Chest
+favourite_hobbies:
+	Snooker
+	Element collecting
+favourite_TV_shows:
+	Friends
+favourite_books:
+	The Gospel According to Peanuts
+	Harry Potter and the Deathly Hallows
+	Miffy
+	Jonathan Livingston Seagull
+	Picture-and-story book Railway Guerilla
+	Black Beauty: His Grooms and Companions: The autobiography of a horse
+	The Old Man and the Sea
+name:
+	Fernando Gonzalez

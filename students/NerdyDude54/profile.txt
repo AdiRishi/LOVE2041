@@ -1,0 +1,64 @@
+name:
+	Ilan Ramon
+hair_colour:
+	black
+birthdate:
+	01/08/1972
+height:
+	1.87m
+gender:
+	male
+password:
+	smokey
+favourite_bands:
+	Haim
+	Arctic Monkeys
+	Fatboy Slim & Riva Starr
+	Lorde
+	SAFIA
+courses:
+	2012 S1 COMP1917
+	2012 S1 ELEC1111
+	2012 S1 MATH1081
+	2012 S1 MATH1131
+	2012 S2 COMP1927
+	2012 S2 MATH1231
+	2012 S2 MATH3411
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 ELEC2134
+	2013 S1 MATH2901
+	2013 S2 COMP2041
+	2013 S2 COMP3151
+	2013 S2 COMP3331
+	2013 S2 COMP3431
+	2014 S1 COMP3311
+	2014 S1 COMP3821
+	2014 S1 COMP3891
+	2014 S2 COMP3421
+	2014 S2 COMP3511
+	2014 S2 COMP4920
+	2014 S2 COMP6771
+	2014 S2 PHYS1110
+degree:
+	PV and Solar Energy/Science
+favourite_TV_shows:
+	The X Factor
+	American Dad
+	Sons of Anarchy
+	Neighbours
+	Arrow
+	Home and Away
+favourite_movies:
+	Jurassic Park
+	The Hunger Games
+	Ice Age: The Meltdown
+	Harry Potter and the Chamber of Secrets
+	Alice in Wonderland
+favourite_hobbies:
+	BASE jumping
+	Beach Volleyball
+email:
+	I.Ramon@ugrad.unsw.edu.au
+username:
+	NerdyDude54

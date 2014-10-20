@@ -1,0 +1,45 @@
+courses:
+	2014 S1 ENGG1000
+	2014 S1 MATH1081
+	2014 S1 MATH1141
+	2014 S2 COMP1927
+	2014 S2 COMP2041
+	2014 S2 MATH1241
+	2014 S2 SENG1031
+favourite_hobbies:
+	Model Building
+	Auto audiophilia
+	Bird watching
+	Bicycling
+	Beauty
+email:
+	C.D.Johnson@ugrad.unsw.edu.au
+hair_colour:
+	black
+username:
+	FunKitten52
+favourite_movies:
+	Shrek 2
+	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+	Hotel Transylvania
+	Captain America: The Winter Soldier
+	Frozen
+	Ted
+	Transformers: Revenge of the Fallen
+	The Da Vinci Code
+	Harry Potter and the Order of the Phoenix
+password:
+	rangers
+name:
+	Carolyn Dawn Johnson
+favourite_books:
+	The Power of Positive Thinking
+	The Inheritance Cycle
+height:
+	1.58m
+degree:
+	Electrical Engineering
+birthdate:
+	1971/04/30
+gender:
+	female

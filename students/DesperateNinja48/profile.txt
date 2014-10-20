@@ -1,0 +1,57 @@
+hair_colour:
+	red
+weight:
+	78kg
+name:
+	Jacques Chirac
+favourite_books:
+	Goodnight Moon
+	Catch-22
+	The Poky Little Puppy
+	Bridget Jones
+	Black Beauty: His Grooms and Companions: The autobiography of a horse
+degree:
+	Computer Engineering
+favourite_bands:
+	The Kite String Tangle
+	Cloud Control
+	Grouplove
+height:
+	1.78m
+password:
+	power
+favourite_movies:
+	Frozen
+	The Hobbit: An Unexpected Journey
+	Casino Royale
+	Star Wars: Episode II - Attack of the Clones
+	Clash of the Titans
+	The Lord of the Rings: The Return of the King
+	Spider-Man
+birthdate:
+	1932/11/29
+email:
+	J.Chirac@ugrad.unsw.edu.au
+courses:
+	2013 S1 COMP1917
+	2013 S1 MATH1131
+	2013 S1 MUSC1602
+	2013 S2 COMP1927
+	2013 S2 MATH1231
+	2014 X1 MATH1231
+	2014 S1 COMP2121
+	2014 S1 COMP2911
+	2014 S1 MATH1081
+	2014 S2 COMP2041
+	2014 S2 COMP3331
+	2014 S2 COMP6771
+username:
+	DesperateNinja48
+gender:
+	male
+favourite_hobbies:
+	Snooker
+	Listening to Music
+	Embroidery
+	Roller skating
+	Pottery

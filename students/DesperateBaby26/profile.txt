@@ -1,0 +1,56 @@
+weight:
+	56kg
+favourite_books:
+	The Very Hungry Caterpillar
+	The Secret Diary of Adrian Mole, Aged 13
+	Charlie and the Chocolate Factory
+	The Adventures of Pinocchio
+	Peter Rabbit
+	Think and Grow Rich
+favourite_TV_shows:
+	Underbelly
+	Jonah from Tonga
+	The Black Adder
+hair_colour:
+	blonde
+birthdate:
+	1984/11/07
+email:
+	A.Vega@ugrad.unsw.edu.au
+favourite_hobbies:
+	Foreign language learning
+	Shooting
+	Scrapbooking
+	Drinking Coffee
+	Polo
+	Relaxing
+	Roller skating
+name:
+	Amelia Vega
+favourite_bands:
+	Arcade Fire
+	Kingswood
+	The Preatures
+	Fatboy Slim & Riva Starr
+	Something for Kate
+	Empire of the Sun
+	A$AP Rocky
+	SAFIA
+favourite_movies:
+	Madagascar: Escape 2 Africa
+	Pirates of the Caribbean: Dead Man's Chest
+	Ice Age: Dawn of the Dinosaurs
+	Gravity
+	Toy Story 3
+	Harry Potter and the Deathly Hallows Part 2
+	Independence Day
+	Avatar
+	Oz The Great and Powerful
+height:
+	1.66m
+password:
+	tiger
+gender:
+	female
+username:
+	DesperateBaby26

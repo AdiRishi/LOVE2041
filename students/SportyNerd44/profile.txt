@@ -1,0 +1,65 @@
+name:
+	Kate Hudson
+password:
+	test
+favourite_TV_shows:
+	How I Met Your Mother
+	American Dad
+	Rush
+	Friends
+	Jonah from Tonga
+	Offspring
+	The Elephant Princess
+	Danger 5
+	Hemlock Grove
+username:
+	SportyNerd44
+favourite_books:
+	Harry Potter
+	A Child's First Library Of Learning
+	You Can Heal Your Life
+	Knowledge-value Revolution
+	The Secret Diary of Adrian Mole, Aged 13
+	Jaws
+favourite_bands:
+	Flight Facilities
+	Flume & Chet Faker
+	The Preatures
+	Arcade Fire
+	San Cisco
+	Two Door Cinema Club
+gender:
+	female
+favourite_hobbies:
+	Skating
+	Shopping
+	Parkour
+	Backpacking
+	Eating Out
+email:
+	K.Hudson@ugrad.unsw.edu.au
+favourite_movies:
+	The Hangover Part II
+	Tangled
+	Harry Potter and the Goblet of Fire
+	Dr. Seuss' The Lorax
+	Star Wars: Episode III - Revenge of the Sith
+	Finding Nemo
+	Spider-Man
+	Star Wars: Episode I - The Phantom Menace
+	The Lion King
+	The Lord of the Rings: The Two Towers
+birthdate:
+	1979/04/19
+weight:
+	59kg
+hair_colour:
+	brown
+degree:
+	Computer Science
+height:
+	1.61m
+courses:
+	2014 S2 COMP4418
+	2014 S2 COMP6771
+	2014 S2 COMP9321

@@ -1,0 +1,37 @@
+hair_colour:
+	brown
+favourite_bands:
+	Empire of the Sun
+favourite_movies:
+	The Lion King
+	Skyfall
+favourite_TV_shows:
+	Ja'mie: Private School Girl
+	The Saddle Club
+	Nowhere Boys
+name:
+	Emanuel Ginobili
+password:
+	silver
+courses:
+	2012 S2 COMP6714
+favourite_books:
+	The Power of Positive Thinking
+	Who Moved My Cheese?
+username:
+	SadAnimal27
+birthdate:
+	1977/07/28
+email:
+	E.Ginobili@ugrad.unsw.edu.au
+degree:
+	Computer Engineering
+weight:
+	66kg
+height:
+	1.72m
+gender:
+	male
+favourite_hobbies:
+	Astronomy
+	Scuba Diving

@@ -1,0 +1,51 @@
+weight:
+	71kg
+name:
+	Derek Jeter
+gender:
+	male
+favourite_TV_shows:
+	Vikings
+	Terra Nova
+	South Park
+username:
+	NerdyThinker37
+favourite_books:
+	The Happy Hooker: My Own Story
+	Kon-Tiki: Across the Pacific in a Raft
+	Nancy Drew
+favourite_hobbies:
+	Traveling
+	Shooting sport
+	Shell scripting
+	Cosplaying
+	Relaxing
+	Crafts
+	Renting Movies
+hair_colour:
+	red
+favourite_bands:
+	Lana Del Rey
+	Two Door Cinema Club
+	Matt Corby
+	Chet Faker
+	Boy & Bear
+	The Jezabels
+	Flight Facilities
+	James Blake
+	Dustin Tebbutt
+favourite_movies:
+	Casino Royale
+	The Da Vinci Code
+	Pirates of the Caribbean: Dead Man's Chest
+	Dr. Seuss' The Lorax
+	The Twilight Saga: Breaking Dawn Part 2
+	Life of Pi
+email:
+	D.Jeter@ugrad.unsw.edu.au
+password:
+	voyager
+height:
+	1.77m
+birthdate:
+	1974/06/26

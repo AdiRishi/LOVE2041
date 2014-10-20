@@ -1,0 +1,66 @@
+favourite_books:
+	Martine
+	The Very Hungry Caterpillar
+	Gone with the Wind
+	Jaws
+email:
+	P.Wolfowitz@ugrad.unsw.edu.au
+name:
+	Paul Wolfowitz
+favourite_movies:
+	The Lord of the Rings: The Fellowship of the Ring
+	Men in Black
+	Pirates of the Caribbean: The Curse of the Black Pearl
+	Ice Age: The Meltdown
+	Oz The Great and Powerful
+	Transformers
+	Pirates of the Caribbean: Dead Man's Chest
+	Ratatouille
+	Gravity
+	Harry Potter and the Philosopher's Stone
+username:
+	PrettyBadboy58
+birthdate:
+	1943/12/22
+hair_colour:
+	brown
+weight:
+	71kg
+courses:
+	2012 S2 ENGG1000
+	2012 S2 MATH1131
+	2012 S2 SENG1031
+	2013 X1 COMP1927
+	2013 X1 MATH1231
+	2013 S1 COMP1000
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 MATH1081
+	2013 S2 BENV2410
+	2013 S2 COMP2041
+	2013 S2 COMP3311
+	2013 S2 MATH2400
+	2013 S2 MATH2859
+	2014 S1 COMP2111
+	2014 S1 COMP3331
+	2014 S1 PHYS1110
+	2014 S1 SENG2011
+	2014 S2 COMP3421
+	2014 S2 COMP3511
+	2014 S2 COMP9321
+	2014 S2 SENG2021
+height:
+	1.80m
+favourite_TV_shows:
+	Family Guy
+	Suits
+	Vikings
+	Orphan Black
+degree:
+	Computer Science and Eng
+password:
+	diamond
+gender:
+	male
+favourite_hobbies:
+	Netball

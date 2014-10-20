@@ -1,0 +1,50 @@
+favourite_TV_shows:
+	Sunday Night
+	Summer Heights High
+gender:
+	male
+favourite_books:
+	Berenstain Bears
+	The Adventures of Huckleberry Finn
+	Musashi
+	Goodnight Moon
+	No Longer Human
+	Outlander series
+	Rainbow Magic
+	Winnie-the-Pooh
+email:
+	G.Canas@ugrad.unsw.edu.au
+favourite_bands:
+	Matt Corby
+favourite_hobbies:
+	Boating
+	Cryptography
+	Modelling
+	Traveling
+	Computer Games
+hair_colour:
+	brown
+degree:
+	Electrical Engineering
+username:
+	SexyAnimal94
+name:
+	Guillermo Canas
+password:
+	michelle
+courses:
+	2014 S2 COMP9032
+	2014 S2 COMP9041
+	2014 S2 COMP9151
+	2014 S2 COMP9315
+birthdate:
+	1977/11/25
+favourite_movies:
+	Neighbors
+	Harry Potter and the Deathly Hallows Part 1
+	Harry Potter and the Chamber of Secrets
+	Alice in Wonderland
+	The Lion King
+	The Lord of the Rings: The Two Towers
+height:
+	1.84m

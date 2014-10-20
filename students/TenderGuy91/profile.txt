@@ -1,0 +1,58 @@
+favourite_bands:
+	Arcade Fire
+	Flight Facilities
+	Flume & Chet Faker
+gender:
+	male
+courses:
+	2013 S1 COMP1917
+	2013 S1 MATH1081
+	2013 S1 MATH1131
+	2013 S2 COMP1927
+	2013 S2 COMP2041
+	2013 S2 ELEC1111
+	2013 S2 MATH1231
+	2014 S1 COMP2121
+	2014 S1 COMP2911
+	2014 S1 COMP3311
+	2014 S2 COMP3511
+	2014 S2 COMP6771
+	2014 S2 COMP9321
+favourite_hobbies:
+	Playing Musical Instruments
+	Playing Music
+	Flag Football
+	Volunteer Work
+	Walking
+	Video gaming
+	Flying
+	Martial arts
+	Basketball
+birthdate:
+	22/04/1992
+email:
+	J.Harris@ugrad.unsw.edu.au
+name:
+	Jesse Harris
+weight:
+	66kg
+favourite_books:
+	The Grapes of Wrath
+	The Shadow of the Wind
+	Berenstain Bears
+degree:
+	Computer Engineering
+favourite_movies:
+	Harry Potter and the Order of the Phoenix
+	Clash of the Titans
+	Avatar
+	Teenage Mutant Ninja Turtles
+	Tangled
+password:
+	flyers
+height:
+	1.86m
+hair_colour:
+	red
+username:
+	TenderGuy91

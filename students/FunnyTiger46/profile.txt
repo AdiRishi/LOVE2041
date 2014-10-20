@@ -1,0 +1,57 @@
+favourite_movies:
+	Transformers: Age of Extinction
+	Marvel's The Avengers
+	The Dark Knight
+	Despicable Me
+	Jurassic Park
+favourite_TV_shows:
+	Suits
+	Under the Dome
+courses:
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1081
+	2014 S1 MATH1141
+	2014 S2 COMP1927
+	2014 S2 COMP2041
+	2014 S2 MATH1231
+	2014 S2 SENG1031
+degree:
+	Computer Engineering/Science
+height:
+	1.79m
+favourite_hobbies:
+	Eating Out
+	Python programming
+	Golfing
+	Polo
+	Family Time
+	Dating Online
+	Astronomy
+	Singing
+birthdate:
+	1936/03/10
+username:
+	FunnyTiger46
+name:
+	Sepp Blatter
+gender:
+	male
+favourite_bands:
+	Touch Sensitive
+	Flume & Chet Faker
+	Arctic Monkeys
+	The Jezabels
+	MS MR
+	Grouplove
+	Something for Kate
+	The Amity Affliction
+	Horrorshow
+hair_colour:
+	black
+password:
+	white
+weight:
+	70kg
+email:
+	S.Blatter@ugrad.unsw.edu.au

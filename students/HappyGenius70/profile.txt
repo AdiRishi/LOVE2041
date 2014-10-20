@@ -1,0 +1,36 @@
+password:
+	phoenix
+email:
+	C.Fiorina@ugrad.unsw.edu.au
+favourite_hobbies:
+	Laser tag
+	Cleaning
+favourite_TV_shows:
+	True Detective
+	A Country Practice
+	Old School
+	Game of Thrones
+	Seinfeld
+	Wentworth
+	Teen Mom
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 GSOE9820
+degree:
+	Study Abroad Program
+hair_colour:
+	black
+name:
+	Carly Fiorina
+birthdate:
+	1954/09/06
+gender:
+	female
+username:
+	HappyGenius70
+height:
+	1.71m
+favourite_books:
+	Jaws
+	The Grapes of Wrath

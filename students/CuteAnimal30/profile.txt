@@ -1,0 +1,56 @@
+password:
+	fishing
+birthdate:
+	04/06/1982
+favourite_hobbies:
+	Eating Out
+	Golfing
+	Polo
+	Painting
+	Walking
+	Singing
+	Skateboarding
+favourite_books:
+	Heidi's Years of Learning and Travel
+	And Then There Were None
+	Your Erroneous Zones
+	Robert Langdon
+	The Total Woman
+	The Tale of Peter Rabbit
+favourite_movies:
+	Godzilla
+	The Incredibles
+	Man of Steel
+	Pirates of the Caribbean: On Stranger Tides
+	Harry Potter and the Order of the Phoenix
+	The Matrix Reloaded
+	Kung Fu Panda
+	Toy Story 3
+	The Croods
+	Transformers: Dark of the Moon
+username:
+	CuteAnimal30
+name:
+	Michael Powell
+weight:
+	67kg
+favourite_TV_shows:
+	Nowhere Boys
+	The Voice
+email:
+	M.Powell@ugrad.unsw.edu.au
+height:
+	1.71m
+favourite_bands:
+	Goldroom
+	Thundamentals
+	James Blake
+	Panama
+	The Kite String Tangle
+	Lorde
+	Disclosure
+	Vampire Weekend
+gender:
+	male
+hair_colour:
+	black

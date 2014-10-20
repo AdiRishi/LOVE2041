@@ -1,0 +1,20 @@
+height:
+	min:
+		1.58m
+	max:
+		1.81m
+gender:
+	female
+hair_colours:
+	blonde
+	black
+weight:
+	min:
+		65kg
+	max:
+		91kg
+age:
+	min:
+		18
+	max:
+		32

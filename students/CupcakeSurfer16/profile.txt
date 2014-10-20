@@ -1,0 +1,61 @@
+birthdate:
+	1976/03/29
+username:
+	CupcakeSurfer16
+gender:
+	male
+favourite_TV_shows:
+	Rake
+	How I Met Your Mother
+	Gruen Nation
+	Homeland
+	Mako: Island of Secrets
+	Secrets & Lies
+	True Blood
+	Orphan Black
+	Miss Fisher's Murder Mysteries
+weight:
+	67kg
+password:
+	broncos
+favourite_bands:
+	Fatboy Slim & Riva Starr
+	The Wombats
+	Lorde
+	Haim
+	Vance Joy
+	Busta Rhymes
+	Arctic Monkeys
+	Birds of Tokyo
+	Kingswood
+favourite_movies:
+	Fast & Furious 6
+	Finding Nemo
+	The Da Vinci Code
+	Pirates of the Caribbean: The Curse of the Black Pearl
+name:
+	Jennifer Capriati
+favourite_books:
+	Kane and Abel
+	Uncle Styopa
+	Fifty Shades of Grey
+	Goodnight Moon
+courses:
+	2013 S1 COMP1917
+	2013 S1 MATH1081
+	2013 S1 MATH1141
+	2013 S1 PSYC1001
+	2013 S2 COMP2041
+	2013 S2 INFS1609
+	2013 S2 MATH1231
+	2014 S1 COMP2911
+	2014 S2 COMP3151
+	2014 S2 COMP3421
+	2014 S2 COMP3511
+	2014 S2 MATH1231
+hair_colour:
+	black
+email:
+	J.Capriati@ugrad.unsw.edu.au
+degree:
+	Information Technology

@@ -1,0 +1,69 @@
+username:
+	FunAnimal12
+birthdate:
+	1980/02/12
+hair_colour:
+	brown
+favourite_bands:
+	Haim
+	James Blake
+	Arctic Monkeys
+	San Cisco
+	Birds of Tokyo
+	Lana Del Rey
+	Vampire Weekend
+	Childish Gambino
+	Matt Corby
+	The Kite String Tangle
+gender:
+	male
+height:
+	1.84m
+degree:
+	Information Technology
+favourite_books:
+	The Pillars of the Earth
+	The Eagle Has Landed
+	Jaws
+	The Secret Diary of Adrian Mole, Aged 13
+password:
+	player
+name:
+	Juan Carlos Ferrero
+email:
+	J.C.Ferrero@ugrad.unsw.edu.au
+courses:
+	2012 S2 COMP1927
+	2012 S2 MATH1231
+	2012 S2 PHYS1221
+	2013 X1 MATH1231
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 COMP3331
+	2013 S1 COMP3411
+	2013 S2 COMP2041
+	2013 S2 COMP3311
+	2013 S2 MATH2400
+	2013 S2 MATH2859
+	2014 S1 COMP3821
+	2014 S1 COMP3891
+	2014 S1 COMP4431
+	2014 S2 COMP3161
+	2014 S2 COMP3222
+	2014 S2 COMP9242
+weight:
+	63kg
+favourite_TV_shows:
+	American Horror Story
+	Home and Away
+	Miss Fisher's Murder Mysteries
+	Neighbours
+	Packed to the Rafters
+	Ocean Girl
+favourite_movies:
+	Jurassic Park
+favourite_hobbies:
+	Boating
+	Beauty
+	Origami
+	Indoors

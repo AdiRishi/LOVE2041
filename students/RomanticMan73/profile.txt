@@ -1,0 +1,75 @@
+email:
+	M.Chang@ugrad.unsw.edu.au
+username:
+	RomanticMan73
+favourite_TV_shows:
+	Wentworth
+	Please Like Me
+name:
+	Michael Chang
+birthdate:
+	1972/02/22
+gender:
+	male
+height:
+	1.86m
+password:
+	ladies
+degree:
+	Computer Science
+favourite_books:
+	Where the Wild Things Are
+	The Baby-sitters Club
+	The Secret
+	Harry Potter and the Deathly Hallows
+courses:
+	2010 S1 ENGG1000
+	2010 S1 ENGG1811
+	2010 S1 MATH1141
+	2010 S2 CVEN1300
+	2010 S2 GMAT1110
+	2010 S2 MATH1231
+	2010 S2 MATS1101
+	2011 S1 COMP1917
+	2011 S1 CVEN2301
+	2011 S1 CVEN3501
+	2011 S2 COMP1927
+	2011 S2 CVEN2002
+	2011 S2 CVEN2101
+	2012 S1 CVEN2501
+	2012 S1 CVEN3301
+	2012 S1 CVEN3401
+	2012 S2 CVEN2302
+	2013 S1 COMP1927
+	2013 S1 COMP3441
+	2013 S2 CVEN2201
+	2013 S2 CVEN3101
+	2013 S2 CVEN3502
+	2014 X1 CVEN4310
+	2014 S1 COMP2121
+	2014 S1 COMP2911
+	2014 S1 COMP3411
+	2014 S1 CVEN3201
+	2014 S2 COMP2041
+	2014 S2 COMP3421
+favourite_bands:
+	Lana Del Rey
+	Rudimental
+	John Newman
+	Lorde
+	The Kite String Tangle
+	James Blake
+	Kingswood
+favourite_hobbies:
+	Horseback Riding
+	Going to Movies
+	Stone collecting
+	Rappelling
+	Ghost Hunting
+	Entertaining
+	Magic
+hair_colour:
+	black
+favourite_movies:
+	Harry Potter and the Order of the Phoenix
+	Finding Nemo

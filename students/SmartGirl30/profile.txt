@@ -1,0 +1,77 @@
+favourite_bands:
+	Robert DeLong
+	Lorde
+	Empire of the Sun
+	A$AP Rocky
+	Max Frost
+	Major Lazer
+	Thundamentals
+birthdate:
+	1966/09/02
+favourite_hobbies:
+	Martial arts
+	Watching TV
+	Net Ball
+	Cheerleading
+	Radio-controlled car racing
+	Motorcycling
+	Billiards
+	Cosplaying
+	Wood carving
+	Racquetball
+favourite_TV_shows:
+	The Saddle Club
+	South Park
+	A Place to Call Home
+courses:
+	2011 S1 COMP1917
+	2011 S1 MATH1081
+	2011 S1 MATH1141
+	2011 S1 PHYS1111
+	2011 S2 COMP1927
+	2011 S2 MATH1241
+	2011 S2 PHYS1131
+	2012 X1 PHYS1231
+	2012 S1 COMP2041
+	2012 S1 COMP2121
+	2012 S1 COMP2911
+	2012 S1 COMP3311
+	2012 S2 COMP4181
+	2013 S1 BENV2409
+	2013 S1 COMP3821
+	2013 S1 COMP3891
+	2013 S1 COMP9447
+	2013 S2 COMP3421
+	2013 S2 MATH2400
+	2014 S1 COMP4128
+	2014 S1 MATH3560
+	2014 S2 COMP3161
+	2014 S2 COMP4920
+	2014 S2 MATH2221
+	2014 S2 MATH2621
+password:
+	hotdog
+hair_colour:
+	blonde
+favourite_movies:
+	The Dark Knight Rises
+	E.T.: The Extra-Terrestrial
+	Mamma Mia!
+	Frozen
+	Harry Potter and the Order of the Phoenix
+	The Hobbit: An Unexpected Journey
+	The LEGO Movie
+	Star Wars: Episode II - Attack of the Clones
+	2012
+gender:
+	female
+height:
+	1.51m
+username:
+	SmartGirl30
+email:
+	S.Hayek@ugrad.unsw.edu.au
+name:
+	Salma Hayek
+degree:
+	Information Technology

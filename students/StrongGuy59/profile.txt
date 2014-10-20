@@ -1,0 +1,52 @@
+favourite_bands:
+	Robert DeLong
+	Flight Facilities
+	The National
+favourite_TV_shows:
+	Love Child
+	Downton Abbey
+	Ocean Girl
+	Utopia
+	Hemlock Grove
+weight:
+	80kg
+birthdate:
+	1946/07/03
+name:
+	Leszek Miller
+password:
+	joseph
+favourite_movies:
+	Despicable Me
+	The Hangover Part II
+	The Twilight Saga: New Moon
+	Kung Fu Panda
+username:
+	StrongGuy59
+email:
+	L.Miller@ugrad.unsw.edu.au
+hair_colour:
+	black
+degree:
+	Computer Science
+gender:
+	male
+courses:
+	2014 S1 ACCT1501
+	2014 S1 ENGG1000
+	2014 S1 MATH1081
+	2014 S1 MATH1131
+	2014 S2 COMP1927
+	2014 S2 COMP2041
+	2014 S2 MATH1231
+	2014 S2 SENG1031
+	2012 S1 COMP1917
+favourite_books:
+	Perfume
+	Who Moved My Cheese?
+	The Young Guard
+	The Ginger Man
+	The Diary of a Young Girl, The Diary of Anne Frank
+	The Outsiders
+height:
+	1.71m

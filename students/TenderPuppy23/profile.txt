@@ -1,0 +1,55 @@
+email:
+	M.Khatami@ugrad.unsw.edu.au
+favourite_TV_shows:
+	American Dad
+	Wentworth
+	Blue Heelers
+	Vikings
+favourite_hobbies:
+	Fencing
+	Exercise
+	Hiking
+	Jukskei
+	Gambling
+	Computer
+degree:
+	Information Technology
+password:
+	5555
+height:
+	1.78m
+favourite_movies:
+	Ice Age: Dawn of the Dinosaurs
+	Transformers: Revenge of the Fallen
+	The Amazing Spider-Man 2
+	Mamma Mia!
+courses:
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1081
+	2014 S2 COMP1927
+	2014 S2 COMP2041
+	2014 S2 SENG1031
+favourite_books:
+	A Song of Ice and Fire
+	You Can Heal Your Life
+	The Horse Whisperer
+	The Destroyer
+	Lolita
+	The Joy of Sex
+	Charlotte's Web
+	Catch-22
+	The Hite Report
+	The Very Hungry Caterpillar
+birthdate:
+	1943/09/29
+hair_colour:
+	brown
+favourite_bands:
+	Rudimental
+username:
+	TenderPuppy23
+gender:
+	male
+name:
+	Mohammad Khatami

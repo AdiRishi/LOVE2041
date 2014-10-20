@@ -1,0 +1,60 @@
+weight:
+	69kg
+favourite_hobbies:
+	Watching Movies
+	Inline Skating
+	Sudoku
+	Cooking
+	Backpacking
+	Golfing
+name:
+	Joseph Biden
+gender:
+	male
+hair_colour:
+	blonde
+courses:
+	2012 S1 COMP9417
+email:
+	J.Biden@ugrad.unsw.edu.au
+favourite_movies:
+	Captain America: The Winter Soldier
+	The Twilight Saga: Breaking Dawn Part 1
+	Rio 2
+	Thor
+	Harry Potter and the Philosopher's Stone
+	Star Wars: Episode II - Attack of the Clones
+	Up
+	Pirates of the Caribbean: Dead Man's Chest
+	Ice Age: Dawn of the Dinosaurs
+height:
+	1.69m
+birthdate:
+	1942/11/20
+username:
+	StrongNinja68
+favourite_bands:
+	John Newman
+password:
+	0
+favourite_TV_shows:
+	The Code
+	The Saddle Club
+	Doctor Who
+	Love Child
+	McLeod's Daughters
+	Under the Dome
+	Prisoner
+	Game of Thrones
+favourite_books:
+	The Tale of Peter Rabbit
+	Valley of the Dolls
+	Life After Life
+	James Bond
+	Left Behind
+	The Secret
+	Charlotte's Web
+	Zukkoke Sanningumi
+	The Hite Report
+degree:
+	Information Technology

@@ -1,0 +1,58 @@
+gender:
+	female
+height:
+	1.74m
+favourite_movies:
+	The Lion King
+	Harry Potter and the Philosopher's Stone
+	The Heat
+	Spider-Man 2
+	Jurassic Park
+	The Lost World: Jurassic Park
+	Harry Potter and the Goblet of Fire
+	The Twilight Saga: Breaking Dawn Part 2
+	The Hangover Part II
+birthdate:
+	1970/12/12
+weight:
+	59kg
+email:
+	J.Connelly@ugrad.unsw.edu.au
+favourite_hobbies:
+	Go
+password:
+	gunner
+favourite_books:
+	The Power of Positive Thinking
+	Harry Potter and the Order of the Phoenix
+hair_colour:
+	blonde
+favourite_TV_shows:
+	Puberty Blues
+	Sea Patrol
+	Sons of Anarchy
+	Underbelly
+degree:
+	Information Technology
+name:
+	Jennifer Connelly
+favourite_bands:
+	Something for Kate
+	Panama
+	Matt Corby
+	Empire of the Sun
+	Vampire Weekend
+	Dustin Tebbutt
+	Birds of Tokyo
+	Violent Soho
+	Thundamentals
+courses:
+	2014 S1 COMP1917
+	2014 S1 MATH1011
+	2014 S1 MATH1041
+	2014 S2 COMP1927
+	2014 S2 GEOS1601
+	2014 S2 MATH1081
+	2014 S2 MATH1231
+username:
+	HotPrincess62

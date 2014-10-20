@@ -1,0 +1,88 @@
+weight:
+	80kg
+password:
+	young
+gender:
+	male
+birthdate:
+	1971/06/04
+email:
+	N.Wyle@ugrad.unsw.edu.au
+favourite_movies:
+	Dr. Seuss' The Lorax
+	Monsters University
+	Harry Potter and the Goblet of Fire
+	Despicable Me
+	Shrek Forever After
+	The Help
+	The Twilight Saga: Eclipse
+	The Sixth Sense
+	X-Men: First Class
+courses:
+	2010 S2 ELEC1111
+	2010 S2 MATH1131
+	2010 S2 PHYS1121
+	2011 S1 COMP1927
+	2011 S1 COMP2111
+	2011 S1 INFS1603
+	2011 S1 MATH1081
+	2011 S2 COMP2121
+	2011 S2 INFS2603
+	2011 S2 MATH1231
+	2011 S2 SENG1031
+	2012 S1 ARTS1570
+	2012 S1 COMP2911
+	2012 S1 COMP3711
+	2012 S1 GENM0703
+	2012 S1 SENG2010
+	2012 S2 COMP3331
+	2012 S2 COMP3511
+	2012 S2 MATH2501
+	2012 S2 SENG2020
+	2013 S1 COMP3141
+	2013 S1 MATH2011
+	2013 S1 MATH2801
+	2013 S1 SENG3011
+	2013 S2 MATH2831
+	2014 S1 MATH3801
+	2014 S1 MATH3811
+	2014 S2 COMP3421
+	2014 S2 COMP9116
+	2014 S2 MATH3821
+name:
+	Noah Wyle
+degree:
+	Computer Engineering
+height:
+	1.61m
+username:
+	SadPuppy82
+hair_colour:
+	black
+favourite_books:
+	Curious George
+	The Gospel According to Peanuts
+	Anne of Green Gables
+	Valley of the Dolls
+	Uncle Styopa
+	How the Steel Was Tempered
+	Jonathan Livingston Seagull
+	Picture-and-story book Railway Guerilla
+favourite_hobbies:
+	Yo-yoing
+	Curling
+	Working on Cars
+	Cryptography
+	Soapmaking
+	Airsoft
+favourite_bands:
+	Empire of the Sun
+	Lorde
+	St. Lucia
+	Daft Punk
+	Birds of Tokyo
+	Goldroom
+	Haim
+	Busta Rhymes
+	Flume & Chet Faker
+	The Jezabels

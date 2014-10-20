@@ -1,0 +1,61 @@
+password:
+	kevin
+hair_colour:
+	brown
+degree:
+	Information Technology
+favourite_hobbies:
+	Urban exploration
+	Rafting
+	Crocheting
+	Writing
+	Dance
+	Lego Building
+	Horseback Riding
+	Beach
+favourite_TV_shows:
+	60 Minutes
+	Bergerac
+	Futurama
+gender:
+	male
+email:
+	H.Ford@ugrad.unsw.edu.au
+height:
+	1.76m
+favourite_movies:
+	Rise of the Planet of the Apes
+	Dr. Seuss' The Lorax
+	Harry Potter and the Chamber of Secrets
+	The Karate Kid
+	The Last Airbender
+	The Lord of the Rings: The Two Towers
+weight:
+	73kg
+username:
+	SadBoy26
+favourite_books:
+	God's Little Acre
+	The 7 Habits of Highly Effective People
+	The Hitchhiker's Guide to the Galaxy
+	Confucius from the Heart
+	Wolf Totem
+	The Lion, the Witch and the Wardrobe
+	Curious George
+	Man's Search for Meaning
+name:
+	Harrison Ford
+favourite_bands:
+	Dustin Tebbutt
+	The Kite String Tangle
+courses:
+	2014 S1 COMP2111
+	2014 S1 COMP2121
+	2014 S1 COMP3121
+	2014 S1 COMP3131
+	2014 S2 COMP2041
+	2014 S2 COMP3421
+	2014 S2 INFS1603
+	2014 S2 MTRN2500
+birthdate:
+	1942/07/13

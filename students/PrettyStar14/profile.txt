@@ -1,0 +1,78 @@
+gender:
+	male
+name:
+	Jose Canseco
+favourite_books:
+	Where the Wild Things Are
+	The Celestine Prophecy
+favourite_bands:
+	Touch Sensitive
+	Queens of the Stone Age
+	The Preatures
+	Panama
+	Matt Corby
+	The Wombats
+	Illy
+	Childish Gambino
+	Max Frost
+	Rudimental
+email:
+	J.Canseco@ugrad.unsw.edu.au
+username:
+	PrettyStar14
+password:
+	iceman
+hair_colour:
+	black
+favourite_TV_shows:
+	Jonah from Tonga
+	Ja'mie: Private School Girl
+	The X Factor
+	Doctor Who
+	Farscape
+	Futurama
+	H2O: Just Add Water
+courses:
+	2012 S1 ARTS1630
+	2012 S1 COMP1917
+	2012 S1 MATH1081
+	2012 S1 MATH1131
+	2012 S2 ARTS1631
+	2012 S2 COMP1927
+	2012 S2 MATH1231
+	2012 S2 PHYS1121
+	2013 S1 ARTS2630
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 COMP3331
+	2013 S1 COMP3441
+	2013 S2 COMP2041
+	2013 S2 COMP3421
+	2013 S2 COMP3511
+	2014 S1 COMP3231
+	2014 S1 COMP3411
+	2014 S1 COMP3821
+	2014 S1 COMP4128
+	2014 S2 COMP4920
+	2014 S2 COMP6771
+	2014 S2 GENC3004
+	2014 S2 SDES3174
+degree:
+	Information Technology
+height:
+	1.76m
+favourite_hobbies:
+	Rock climbing
+	Soapmaking
+	Board sports
+	Coding
+	Hunting
+	Mountaineering
+	Cycling
+	Antiquing
+birthdate:
+	1964/07/02
+favourite_movies:
+	Frozen
+weight:
+	68kg

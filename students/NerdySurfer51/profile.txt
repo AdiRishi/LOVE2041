@@ -1,0 +1,77 @@
+hair_colour:
+	black
+gender:
+	male
+username:
+	NerdySurfer51
+name:
+	Zoran Djindjic
+weight:
+	67kg
+password:
+	shaved
+favourite_hobbies:
+	Skiing
+	Beekeeping
+	Sand castle building
+	Frisbee
+favourite_movies:
+	The Incredibles
+	Star Wars: Episode I - The Phantom Menace
+	The Lord of the Rings: The Two Towers
+favourite_books:
+	The Grapes of Wrath
+	Think and Grow Rich
+	The Wind in the Willows
+	The Da Vinci Code
+favourite_TV_shows:
+	Dexter
+	Miss Fisher's Murder Mysteries
+	Vikings
+	Dance Academy
+	The Doctor Blake Mysteries
+degree:
+	Computer Science
+favourite_bands:
+	Fatboy Slim & Riva Starr
+	Chet Faker
+	RUFUS
+	Max Frost
+	John Newman
+	MS MR
+	Thundamentals
+	Chvrches
+	Flume & Chet Faker
+height:
+	1.74m
+birthdate:
+	24/03/1993
+email:
+	Z.Djindjic@ugrad.unsw.edu.au
+courses:
+	2011 S1 COMP1917
+	2011 S1 ENGG1000
+	2011 S1 MATH1081
+	2011 S1 MATH1131
+	2011 S2 COMP1927
+	2011 S2 COMP9447
+	2011 S2 MATH1231
+	2012 S1 COMP2041
+	2012 S1 COMP3821
+	2012 S1 MATH2011
+	2012 S1 MATH2901
+	2012 S2 COMP4121
+	2012 S2 MATH2120
+	2012 S2 MATH2520
+	2013 S1 COMP3153
+	2013 S1 COMP9334
+	2013 S1 MATH3521
+	2013 S2 COMP3151
+	2013 S2 COMP4161
+	2014 S1 MATH2301
+	2014 S1 MATH3041
+	2014 S1 MATH3101
+	2014 S1 MATH3560
+	2014 S2 BIOS1101
+	2014 S2 COMP4920
+	2014 S2 MATH2871

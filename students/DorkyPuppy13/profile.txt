@@ -1,0 +1,59 @@
+favourite_bands:
+	Horrorshow
+	The Wombats
+	Matt Corby
+	Fatboy Slim & Riva Starr
+	The Jezabels
+courses:
+	2014 S1 COMP9020
+	2014 S1 COMP9021
+	2014 S1 COMP9311
+	2014 S1 COMP9414
+	2014 S2 COMP9024
+	2014 S2 COMP9041
+	2014 S2 COMP9331
+favourite_TV_shows:
+	Seinfeld
+	Underbelly Squizzy launch
+	The Big Bang Theory
+	Bergerac
+	MASH
+	Orphan Black
+hair_colour:
+	black
+name:
+	John Stockton
+birthdate:
+	1962/03/26
+email:
+	J.Stockton@ugrad.unsw.edu.au
+favourite_books:
+	A Wrinkle in Time
+	The Celestine Prophecy
+	The Joy of Sex
+	Love Story
+	The Alchemist
+	A Song of Ice and Fire
+height:
+	1.84m
+favourite_hobbies:
+	Family Time
+	Gambling
+gender:
+	male
+password:
+	corvette
+degree:
+	Telecommunications
+favourite_movies:
+	The Dark Knight
+	Tron Legacy
+	Dawn of the Planet of the Apes
+	The Smurfs
+	The Amazing Spider-Man 2
+	Sherlock Holmes: A Game of Shadows
+	Transformers: Revenge of the Fallen
+	Casino Royale
+	Harry Potter and the Order of the Phoenix
+username:
+	DorkyPuppy13

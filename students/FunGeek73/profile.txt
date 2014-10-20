@@ -1,0 +1,66 @@
+password:
+	doggie
+favourite_movies:
+	Man of Steel
+	Bridesmaids
+	Captain America: The Winter Soldier
+	Independence Day
+birthdate:
+	1972/06/23
+email:
+	Z.Zidane@ugrad.unsw.edu.au
+height:
+	1.75m
+gender:
+	male
+degree:
+	Software Engineering
+favourite_bands:
+	Haim
+	Fatboy Slim & Riva Starr
+	Chet Faker
+hair_colour:
+	brown
+favourite_books:
+	Follow Your Heart
+	The Celestine Prophecy
+	The Late, Great Planet Earth
+	Martine
+	Kane and Abel
+weight:
+	72kg
+courses:
+	2010 S1 COMP1911
+	2010 S1 ENGG1000
+	2010 S1 MATH1131
+	2010 S1 PHYS1121
+	2010 S2 MATH1231
+	2010 S2 MATS1101
+	2010 S2 PHYS1121
+	2011 S1 MATH2019
+	2011 S1 MMAN1130
+	2011 S1 MMAN1300
+	2011 S2 ELEC1111
+	2011 S2 GENS5001
+	2011 S2 GENS5002
+	2011 S2 MATH2089
+	2011 S2 MMAN2600
+	2012 S1 MMAN2100
+	2012 S1 MMAN2400
+	2012 S1 MMAN3200
+	2012 S2 GENS5013
+	2013 S1 COMP1917
+	2013 S2 COMP1927
+	2014 S1 COMP2121
+	2014 S1 COMP3411
+	2014 S2 COMP2041
+	2014 S2 COMP3511
+favourite_hobbies:
+	Field Hockey
+	Cleaning
+name:
+	Zinedine Zidane
+favourite_TV_shows:
+	MASH
+username:
+	FunGeek73

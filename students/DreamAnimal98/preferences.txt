@@ -1,0 +1,19 @@
+height:
+	min:
+		1.62m
+	max:
+		1.76m
+weight:
+	min:
+		48kg
+	max:
+		72kg
+age:
+	min:
+		18
+	max:
+		22
+hair_colours:
+	black
+gender:
+	female

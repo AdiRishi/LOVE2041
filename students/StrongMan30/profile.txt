@@ -1,0 +1,57 @@
+favourite_movies:
+	True Grit
+	The Sixth Sense
+	Transformers: Revenge of the Fallen
+	Captain America: The First Avenger
+	Pirates of the Caribbean: Dead Man's Chest
+	War of the Worlds
+favourite_hobbies:
+	Watching TV
+hair_colour:
+	black
+gender:
+	male
+weight:
+	64kg
+name:
+	Yasar Yakis
+birthdate:
+	02/08/1992
+courses:
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+	2014 S2 COMP9511
+	2014 S2 GSOE9820
+favourite_TV_shows:
+	South Park
+	Nine News
+	NCIS
+	The Secret Life of Us
+	McLeod's Daughters
+	Underbelly Squizzy launch
+	Under The Dome
+	Dexter
+	Home and Away
+email:
+	Y.Yakis@ugrad.unsw.edu.au
+favourite_books:
+	The Railway Series
+	The Adventures of Pinocchio
+username:
+	StrongMan30
+height:
+	1.86m
+degree:
+	Software Engineering
+password:
+	tigers
+favourite_bands:
+	Dustin Tebbutt
+	Touch Sensitive
+	The National
+	Violent Soho
+	Empire of the Sun
+	Chet Faker
+	Something for Kate
+	Lana Del Rey
+	A$AP Rocky

@@ -1,0 +1,19 @@
+hair_colours:
+	black
+weight:
+	min:
+		58kg
+	max:
+		78kg
+height:
+	min:
+		1.58m
+	max:
+		1.98m
+gender:
+	male
+age:
+	min:
+		18
+	max:
+		26

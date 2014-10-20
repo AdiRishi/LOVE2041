@@ -1,0 +1,60 @@
+favourite_movies:
+	Godzilla
+	Finding Nemo
+	The Lord of the Rings: The Two Towers
+	The Lion King
+	Alice in Wonderland
+	Marvel's The Avengers
+	Independence Day
+	Tangled
+	Ice Age: The Meltdown
+password:
+	merlin
+name:
+	Oprah Winfrey
+birthdate:
+	1954/01/29
+favourite_books:
+	Clifford the Big Red Dog
+	Discworld
+	Robert Langdon
+courses:
+	2013 S2 COMP9311
+	2013 S2 COMP9511
+	2013 S2 GSOE9820
+	2014 S1 COMP9318
+	2014 S1 COMP9321
+	2014 S1 COMP9441
+	2014 S2 COMP9315
+	2014 S2 COMP9323
+favourite_hobbies:
+	Lego Building
+	Socializing
+	Kart racing
+	Juggling
+	Snooker
+	Astronomy
+	Sculpting
+	Netball
+hair_colour:
+	black
+height:
+	1.49m
+gender:
+	female
+email:
+	O.Winfrey@ugrad.unsw.edu.au
+favourite_bands:
+	Illy
+	Lorde
+	Something for Kate
+	Matt Corby
+	Foals
+degree:
+	Computer Science
+favourite_TV_shows:
+	Rush
+	Doc Martin
+	True Detective
+username:
+	SmartStar59

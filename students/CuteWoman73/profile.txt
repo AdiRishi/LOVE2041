@@ -1,0 +1,43 @@
+username:
+	CuteWoman73
+favourite_TV_shows:
+	The Code
+name:
+	Faye Dunaway
+courses:
+	2014 S1 COMP1917
+	2014 S1 ELEC1112
+	2014 S1 MATH1141
+	2014 S1 PHYS1131
+	2014 S2 COMP1927
+	2014 S2 ENGG1000
+	2014 S2 MATH1241
+	2014 S2 PHYS1231
+favourite_bands:
+	Foals
+degree:
+	Computer Science
+email:
+	F.Dunaway@ugrad.unsw.edu.au
+favourite_movies:
+	Harry Potter and the Half-Blood Prince
+	How to Train Your Dragon 2
+gender:
+	female
+height:
+	1.62m
+birthdate:
+	1941/01/14
+favourite_books:
+	Valley of the Dolls
+	Kagaku no album
+	Berenstain Bears
+	Gone with the Wind
+	The Secret
+	The Women's Room
+password:
+	nicole
+weight:
+	63kg
+hair_colour:
+	blonde

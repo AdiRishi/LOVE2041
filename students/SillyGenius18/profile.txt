@@ -1,0 +1,66 @@
+gender:
+	male
+height:
+	1.81m
+name:
+	Donald Pettit
+hair_colour:
+	black
+username:
+	SillyGenius18
+favourite_bands:
+	Flume & Chet Faker
+	The Preatures
+	Thundamentals
+	San Cisco
+	Lana Del Rey
+	Kanye West
+	Cloud Control
+	Fatboy Slim & Riva Starr
+courses:
+	2014 S1 COMP9021
+	2014 S1 COMP9311
+	2014 S1 COMP9414
+	2014 S2 COMP9024
+	2014 S2 COMP9331
+	2014 S2 GSOE9820
+favourite_hobbies:
+	Sketching
+	Stand-Up Comedy
+	Cooking
+	Sewing
+	Baton Twirling
+	Video gaming
+	Vintage cars
+	Lapidary
+degree:
+	Electrical Engineering
+favourite_books:
+	The Adventures of Pinocchio
+	Angels & Demons
+	Love Story
+	The Destroyer
+	Catch-22
+	The Ginger Man
+	Heidi's Years of Learning and Travel
+email:
+	D.Pettit@ugrad.unsw.edu.au
+password:
+	phantom
+birthdate:
+	1955/04/20
+favourite_TV_shows:
+	The Big Bang Theory
+	Under the Dome
+	South Park
+favourite_movies:
+	The LEGO Movie
+	The Lion King
+	Star Wars: Episode I - The Phantom Menace
+	Mission: Impossible - Ghost Protocol
+	Despicable Me 2
+	Mamma Mia!
+	The Lord of the Rings: The Fellowship of the Ring
+	Shrek 2
+weight:
+	80kg

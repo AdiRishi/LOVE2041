@@ -1,0 +1,44 @@
+favourite_movies:
+	Indiana Jones and the Kingdom of the Crystal Skull
+gender:
+	male
+favourite_TV_shows:
+	Rake
+	Mako: Island of Secrets
+	All Saints
+	A Country Practice
+height:
+	1.67m
+username:
+	SportyStar36
+password:
+	victoria
+favourite_bands:
+	John Newman
+	The Amity Affliction
+	Disclosure
+	Childish Gambino
+	Goldroom
+	Arcade Fire
+degree:
+	Information Technology
+name:
+	Robert Kocharian
+weight:
+	66kg
+hair_colour:
+	blonde
+email:
+	R.Kocharian@ugrad.unsw.edu.au
+favourite_hobbies:
+	Skateboarding
+	Crafts
+favourite_books:
+	The Poky Little Puppy
+	A Series of Unfortunate Events
+	Think and Grow Rich
+birthdate:
+	1954/08/31
+courses:
+	2013 S1 COMP9243
+	2014 S1 COMP9447

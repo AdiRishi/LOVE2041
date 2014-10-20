@@ -1,0 +1,67 @@
+email:
+	K.Harris@ugrad.unsw.edu.au
+birthdate:
+	1957/04/05
+favourite_books:
+	Eye of the Needle
+	A Tale of Two Cities
+	Virgin Soil Upturned
+	The Young Guard
+	Left Behind
+	The Dark Tower
+	The Legend of the Ice People
+	What to Expect When You're Expecting
+gender:
+	female
+name:
+	Katherine Harris
+favourite_hobbies:
+	Sleeping
+	Jogging
+degree:
+	Information Technology
+hair_colour:
+	brown
+username:
+	DorkyKitten83
+favourite_bands:
+	Illy
+courses:
+	2013 S1 COMP1917
+	2013 S1 MATH1131
+	2013 S1 PHYS1131
+	2013 S2 COMP1927
+	2013 S2 ELEC1111
+	2013 S2 MATH1231
+	2014 S1 COMP2121
+	2014 S1 ELEC2134
+	2014 S1 ELEC2141
+	2014 S1 MATH2069
+	2014 S2 COMP2041
+	2014 S2 ELEC2133
+	2014 S2 ELEC2142
+	2014 S2 MATH2099
+favourite_TV_shows:
+	Summer Heights High
+	Downton Abbey
+	The Big Bang Theory
+	Breaking Bad
+	Orphan Black
+	Bergerac
+	Please Like Me
+	Farscape
+favourite_movies:
+	The Da Vinci Code
+	Ted
+	Star Wars: Episode I - The Phantom Menace
+	Star Trek Into Darkness
+	Harry Potter and the Chamber of Secrets
+	Quantum of Solace
+	22 Jump Street
+	Tangled
+password:
+	hunting
+weight:
+	62kg
+height:
+	1.72m

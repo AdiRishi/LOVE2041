@@ -1,0 +1,45 @@
+favourite_movies:
+	Forrest Gump
+	Star Wars: Episode I - The Phantom Menace
+	E.T.: The Extra-Terrestrial
+password:
+	mickey
+birthdate:
+	1972/08/09
+height:
+	1.76m
+favourite_bands:
+	Rudimental
+	Big Scary
+	James Blake
+	Chvrches
+	Flume & Chet Faker
+	Dustin Tebbutt
+	St. Lucia
+	The National
+	Violent Soho
+hair_colour:
+	black
+degree:
+	Computer Science/Digital Media
+gender:
+	male
+courses:
+	2014 S2 COMP1400
+	2014 S2 COMP1921
+	2014 S2 ELEC2142
+	2014 S2 ELEC3114
+name:
+	Juanes
+username:
+	DesperateLover67
+favourite_books:
+	Wild Swans
+	Jonathan Livingston Seagull
+	The Great Gatsby
+email:
+	Juanes@ugrad.unsw.edu.au
+favourite_TV_shows:
+	Family Guy
+weight:
+	60kg

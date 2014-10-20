@@ -1,0 +1,89 @@
+height:
+	1.82m
+email:
+	M.Gottfried@ugrad.unsw.edu.au
+gender:
+	male
+favourite_TV_shows:
+	Rake
+	The X Factor
+	My Kitchen Rules
+	Pretty Little Liars
+	Sons of Anarchy
+username:
+	RomanticSurfer17
+degree:
+	Engineering/Commerce
+password:
+	hockey
+courses:
+	2008 S1 COMP1917
+	2008 S1 INFS1603
+	2008 S1 MATH1081
+	2008 S1 MATH1141
+	2008 S2 ECON1101
+	2008 S2 MATH1231
+	2008 S2 SENG1031
+	2009 X1 COMP1927
+	2009 S1 COMP2111
+	2009 S1 COMP2121
+	2009 S1 INFS2603
+	2009 S1 SENG2010
+	2009 S2 COMP2911
+	2009 S2 COMP3711
+	2009 S2 INFS3608
+	2009 S2 MATH2859
+	2009 S2 SENG2020
+	2010 X1 GENS8200
+	2010 S1 COMP2911
+	2010 S1 COMP3141
+	2010 S1 COMP3311
+	2010 S1 COMP3331
+	2010 S1 SENG3010
+	2010 S2 COMP3511
+	2010 S2 COMP4001
+	2010 S2 COMP9315
+	2010 S2 COMP9321
+	2011 X1 GENM0201
+	2011 S1 COMP9318
+	2011 S1 COMP9322
+	2011 S2 COMP9323
+	2011 S2 MATH2400
+	2011 S2 SENG3020
+	2012 S1 COMP4511
+	2012 S1 COMP9101
+	2012 S1 COMP9331
+	2012 S1 COMP9414
+	2013 S2 COMP9415
+	2014 S1 COMP9321
+	2014 S2 COMP9331
+favourite_movies:
+	The Twilight Saga: Breaking Dawn Part 1
+favourite_books:
+	Musashi
+	Harry Potter and the Half-Blood Prince
+name:
+	Mark Gottfried
+favourite_bands:
+	Thundamentals
+	The Jezabels
+	Arctic Monkeys
+	Goldroom
+	Disclosure
+	The Wombats
+	Robert DeLong
+favourite_hobbies:
+	Auto Racing
+	Acting
+	LARPing
+	Traveling
+	Shell scripting
+	Volleyball
+	Running
+	Record collecting
+	Entertaining
+	Electronics
+hair_colour:
+	black
+birthdate:
+	1964/01/20

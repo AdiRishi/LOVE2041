@@ -1,0 +1,57 @@
+height:
+	1.85m
+gender:
+	male
+favourite_movies:
+	Casino Royale
+	Ratatouille
+	Finding Nemo
+	The Incredibles
+	Neighbors
+	Despicable Me 2
+courses:
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 COMP3411
+	2013 S2 COMP2041
+	2013 S2 COMP3421
+	2013 S2 COMP3511
+	2014 S1 ARTS1630
+	2014 S1 COMP3311
+	2014 S1 COMP3331
+	2014 S1 COMP9321
+	2014 S2 ACCT1501
+	2014 S2 ARTS1631
+	2014 S2 COMP4920
+	2014 S2 FINS1613
+weight:
+	67kg
+birthdate:
+	1956/07/09
+degree:
+	Engineering / Arts
+password:
+	daniel
+favourite_bands:
+	Lorde
+hair_colour:
+	black
+name:
+	Tom Hanks
+email:
+	T.Hanks@ugrad.unsw.edu.au
+favourite_hobbies:
+	Embroidery
+username:
+	CuteNinja61
+favourite_TV_shows:
+	Underbelly Squizzy launch
+	MASH
+	60 Minutes
+	Hemlock Grove
+	Futurama
+	Dexter
+	Wentworth
+	NCIS
+	Please Like Me
+	A Place To Call Home

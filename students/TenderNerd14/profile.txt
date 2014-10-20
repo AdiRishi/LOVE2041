@@ -1,0 +1,59 @@
+birthdate:
+	1985/05/02
+degree:
+	Study Abroad Program
+favourite_bands:
+	The Kite String Tangle
+	Childish Gambino
+	Foals
+	Two Door Cinema Club
+	James Blake
+	The Preatures
+height:
+	1.53m
+gender:
+	female
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+password:
+	chevy
+email:
+	S.Hughes@ugrad.unsw.edu.au
+favourite_TV_shows:
+	Under The Dome
+	Neighbours
+	All Saints
+	American Horror Story
+	True Detective
+	Falling Skies
+	South Park
+	The X Factor
+favourite_books:
+	The Gospel According to Peanuts
+	Frank Merriwell
+	The Revolt of Mamie Stover
+	Uncle Styopa
+	The Wind in the Willows
+favourite_movies:
+	Maleficent
+	Cars 2
+	The Amazing Spider-Man
+	Lucy
+	Harry Potter and the Goblet of Fire
+	Titanic
+hair_colour:
+	brown
+weight:
+	57kg
+favourite_hobbies:
+	Creative writing
+	Working on Cars
+	Playing Cards
+	Computer Games
+	Frisbee
+name:
+	Sarah Hughes
+username:
+	TenderNerd14

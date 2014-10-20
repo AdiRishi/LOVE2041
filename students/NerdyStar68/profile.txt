@@ -1,0 +1,50 @@
+name:
+	Anna Kournikova
+hair_colour:
+	black
+favourite_hobbies:
+	Traveling
+	Boxing
+	Pottery
+	Paint Ball
+	Flying
+favourite_movies:
+	Mamma Mia!
+	The Hunger Games
+	Transformers: Age of Extinction
+	Harry Potter and the Order of the Phoenix
+	Ratatouille
+	The Karate Kid
+	Captain America: The First Avenger
+	Forrest Gump
+	Finding Nemo
+height:
+	1.64m
+password:
+	brandon
+email:
+	A.Kournikova@ugrad.unsw.edu.au
+gender:
+	female
+favourite_books:
+	Totto-chan, the Little Girl at the Window
+favourite_bands:
+	Daft Punk
+	Touch Sensitive
+	Bring Me the Horizon
+	Grouplove
+	The Kite String Tangle
+	British India
+	Boy & Bear
+	A$AP Rocky
+	Lana Del Rey
+courses:
+	2014 S2 COMP1917
+	2014 S2 ENGG1000
+	2014 S2 MATH1131
+birthdate:
+	1981/06/07
+degree:
+	Engineering Science
+username:
+	NerdyStar68

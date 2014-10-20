@@ -1,0 +1,58 @@
+favourite_hobbies:
+	Homebrewing
+	Shell scripting
+	Playing Musical Instruments
+	Chess
+	Dance
+	Relaxing
+	Jukskei
+	Equestrianism
+	Taxidermy
+email:
+	J.Garner@ugrad.unsw.edu.au
+favourite_bands:
+	Vampire Weekend
+hair_colour:
+	black
+name:
+	Jennifer Garner
+courses:
+	2014 S1 COMP1917
+	2014 S1 MATH1081
+	2014 S1 MATH1131
+	2014 S2 COMP2041
+	2014 S2 SENG1031
+height:
+	1.65m
+degree:
+	Bioinformatics/Biomed Eng
+username:
+	SillyPrincess31
+weight:
+	69kg
+favourite_books:
+	Haruhi Suzumiya Series
+	Don Quixote
+	Sophie's World
+	The Good Soldier
+	The Destroyer
+	The Horse Whisperer
+favourite_TV_shows:
+	Futurama
+	The Lost World
+	The Big Bang Theory
+	Downton Abbey
+	BeastMaster
+	American Dad
+	Gruen Nation
+	The Black Adder
+	Underbelly
+	Ja'mie: Private School Girl
+gender:
+	female
+birthdate:
+	1972/04/17
+favourite_movies:
+	Transformers
+password:
+	jeremy

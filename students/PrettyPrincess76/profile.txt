@@ -1,0 +1,59 @@
+gender:
+	female
+favourite_TV_shows:
+	American Dad
+	Underbelly Squizzy launch
+	Sons of Anarchy
+	True Detective
+courses:
+	2014 S1 COMP1911
+	2014 S1 ENGG1000
+	2014 S1 MATH1131
+	2014 S1 PHYS1121
+	2014 S2 COMP1921
+	2014 S2 ENGG1400
+	2014 S2 MATH1231
+	2014 S2 MMAN1300
+degree:
+	Electrical Engineering
+hair_colour:
+	black
+name:
+	Jodie Foster
+favourite_bands:
+	San Cisco
+	The National
+	Dustin Tebbutt
+favourite_books:
+	Harry Potter and the Order of the Phoenix
+	The Wind in the Willows
+	Who Moved My Cheese?
+	Perfume
+	Peter Rabbit
+	Love Story
+	Calico Cat Holmes series
+	The Name of the Rose
+	The Prophet
+favourite_hobbies:
+	Model Building
+	Computer programming
+	Renting Movies
+	Leather crafting
+	Foraging
+weight:
+	57kg
+birthdate:
+	1962/11/19
+height:
+	1.67m
+password:
+	slayer
+favourite_movies:
+	Spider-Man
+	Spider-Man 2
+	X-Men: First Class
+	Star Wars: Episode III - Revenge of the Sith
+username:
+	PrettyPrincess76
+email:
+	J.Foster@ugrad.unsw.edu.au

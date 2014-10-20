@@ -1,0 +1,56 @@
+courses:
+	2014 S1 COMP1917
+	2014 S1 MATH1081
+	2014 S1 MATH1141
+	2014 S2 COMP1927
+	2014 S2 MATH1231
+	2014 S2 SENG1031
+password:
+	zxcvbn
+email:
+	H.Dean@ugrad.unsw.edu.au
+weight:
+	75kg
+birthdate:
+	1948/11/17
+favourite_TV_shows:
+	Family Guy
+	Mako: Island of Secrets
+	The Black Adder
+	Rake
+	A Place to Call Home
+	The Simpsons
+	Elementary
+	Modern Family
+	True Blood
+hair_colour:
+	blonde
+favourite_books:
+	She: A History of Adventure
+favourite_movies:
+	Harry Potter and the Goblet of Fire
+	Toy Story 3
+favourite_bands:
+	Chet Faker
+	Haim
+	The Preatures
+	Bliss N Eso
+	Goldroom
+favourite_hobbies:
+	Cubing
+	Astronomy
+	Yo-yoing
+	Backpacking
+	Camping
+	Dancing
+	Coin collecting
+gender:
+	male
+degree:
+	Computer Science
+name:
+	Howard Dean
+username:
+	FunnyGeek59
+height:
+	1.67m

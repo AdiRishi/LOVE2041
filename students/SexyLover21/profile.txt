@@ -1,0 +1,61 @@
+favourite_books:
+	Alex Cross
+	The Neverending Story
+	OSS 117
+	Uncle Styopa
+	Harry Potter and the Order of the Phoenix
+	Flowers in the Attic
+	Angels & Demons
+	Santa Evita
+	The Giver
+	Problems in China's Socialist Economy
+email:
+	F.Santoro@ugrad.unsw.edu.au
+weight:
+	86kg
+courses:
+	2013 S1 BINF9010
+	2013 S1 COMP9021
+	2013 S1 COMP9311
+	2013 S1 COMP9441
+	2013 S2 COMP9020
+	2013 S2 COMP9024
+	2013 S2 COMP9331
+	2013 S2 GSOE9820
+	2014 S1 COMP9318
+	2014 S1 COMP9332
+	2014 S1 COMP9334
+	2014 S2 COMP9336
+	2014 S2 GSOE9210
+	2014 S2 INFS5885
+	2014 S2 MARK5700
+favourite_movies:
+	The Passion of the Christ
+	Despicable Me
+	The Hunger Games
+	Man of Steel
+	Captain America: The First Avenger
+	Pirates of the Caribbean: At World's End
+	The Incredibles
+	Harry Potter and the Order of the Phoenix
+hair_colour:
+	brown
+degree:
+	Electrical Engineering/Science
+birthdate:
+	1972/12/09
+favourite_bands:
+	The Jezabels
+	The Kite String Tangle
+	Horrorshow
+	Lana Del Rey
+password:
+	steelers
+height:
+	1.77m
+username:
+	SexyLover21
+gender:
+	male
+name:
+	Fabrice Santoro

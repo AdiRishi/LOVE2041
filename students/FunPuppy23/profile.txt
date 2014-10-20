@@ -1,0 +1,76 @@
+height:
+	1.79m
+gender:
+	male
+password:
+	biteme
+favourite_books:
+	Captain Underpants
+	Peyton Place
+	The Secret
+	Zukkoke Sanningumi
+	What Color is Your Parachute?
+	Peter Rabbit
+	Harry Potter and the Philosopher's Stone
+name:
+	Jacques Rogge
+birthdate:
+	1942/05/02
+courses:
+	2012 S1 COMP1917
+	2012 S1 MATH1081
+	2012 S1 MATH1141
+	2012 S2 COMP1927
+	2012 S2 MATH1231
+	2012 S2 MATH2400
+	2012 S2 MATH2859
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S2 COMP2041
+	2013 S2 COMP3421
+	2013 S2 SENG2021
+	2014 S1 COMP3821
+	2014 S1 COMP3891
+	2014 S1 COMP4128
+	2014 S2 COMP6771
+	2014 S2 GENC3004
+favourite_movies:
+	Wreck-It Ralph
+	Shrek the Third
+	Rise of the Planet of the Apes
+	Cars 2
+	Inception
+	Madagascar: Escape 2 Africa
+	Up
+favourite_bands:
+	James Blake
+	MS MR
+	Birds of Tokyo
+	The National
+	Arcade Fire
+	John Newman
+	Karnivool
+	Robert DeLong
+	Lorde
+favourite_TV_shows:
+	Buckwild
+	Suits
+hair_colour:
+	brown
+username:
+	FunPuppy23
+degree:
+	Science/Computer Science
+email:
+	J.Rogge@ugrad.unsw.edu.au
+favourite_hobbies:
+	Computer Games
+	Church Activities
+	Vintage Books
+	Vintage clothing
+	Juggling
+	Digital arts
+	Sand castle building
+	Family Time
+	Shell scripting
+	Fossil hunting

@@ -1,0 +1,44 @@
+favourite_bands:
+	Chet Faker
+	Max Frost
+	Flight Facilities
+username:
+	SillyLover95
+favourite_movies:
+	Monsters University
+	True Grit
+	Pirates of the Caribbean: The Curse of the Black Pearl
+	Spider-Man 3
+	Ice Age: Dawn of the Dinosaurs
+	The King's Speech
+height:
+	1.84m
+favourite_TV_shows:
+	The Lost World
+	Camp
+favourite_books:
+	Discworld
+	The Purpose Driven Life
+	Virgin Soil Upturned
+	Goosebumps
+	The Little Prince
+	Sophie's World
+	One Hundred Years of Solitude
+	Flowers in the Attic
+	Ramona
+	Kane and Abel
+birthdate:
+	1979/12/27
+name:
+	Carson Palmer
+hair_colour:
+	black
+favourite_hobbies:
+	Computer Games
+	Driving
+email:
+	C.Palmer@ugrad.unsw.edu.au
+gender:
+	male
+password:
+	angela

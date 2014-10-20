@@ -1,0 +1,38 @@
+hair_colour:
+	black
+email:
+	L.Horna@ugrad.unsw.edu.au
+favourite_hobbies:
+	Volunteer Work
+height:
+	1.83m
+favourite_books:
+	The Shack
+	The Cat in the Hat
+	The Hitchhiker's Guide to the Galaxy
+	Who Moved My Cheese?
+	Star Wars
+	The Lion, the Witch and the Wardrobe
+favourite_TV_shows:
+	The Lost World
+	Futurama
+	H2O: Just Add Water
+	Neighbours
+	NCIS
+birthdate:
+	1980/09/14
+name:
+	Luis Horna
+password:
+	michelle
+username:
+	DreamThinker47
+gender:
+	male
+degree:
+	Computer Science
+courses:
+	2014 S2 COMP9321
+	2014 S2 TELE9752
+	2014 S2 TELE9754
+	2014 S2 TELE9756

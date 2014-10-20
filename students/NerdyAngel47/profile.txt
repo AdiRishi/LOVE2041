@@ -1,0 +1,45 @@
+gender:
+	female
+favourite_books:
+	The Hite Report
+	Star Wars
+	Tuesdays with Morrie
+	The Grapes of Wrath
+	Redwall
+	Harry Potter and the Order of the Phoenix
+	Harry Bosch
+	The Power of Positive Thinking
+name:
+	Michelle Kwan
+weight:
+	63kg
+hair_colour:
+	blonde
+email:
+	M.Kwan@ugrad.unsw.edu.au
+favourite_TV_shows:
+	Vikings
+	American Dad
+favourite_hobbies:
+	Hooping
+	Gaming
+	Fossil hunting
+birthdate:
+	1980/07/07
+username:
+	NerdyAngel47
+password:
+	fishing
+courses:
+	2014 S2 COMP9331
+degree:
+	Computer Engineering
+favourite_bands:
+	Chet Faker
+	SAFIA
+favourite_movies:
+	Life of Pi
+	E.T.: The Extra-Terrestrial
+	Shrek Forever After
+height:
+	1.69m

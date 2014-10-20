@@ -1,0 +1,63 @@
+degree:
+	Information Technology
+birthdate:
+	1958/08/04
+gender:
+	male
+favourite_movies:
+	Life of Pi
+email:
+	S.Shalom@ugrad.unsw.edu.au
+courses:
+	2009 S1 MATH1081
+	2009 S1 PHYS1131
+	2009 S2 COMP1927
+	2009 S2 ELEC1111
+	2009 S2 MATH1231
+	2009 S2 PHYS1231
+	2010 S1 MATS1101
+	2010 S2 COMP2911
+	2010 S2 SOLA2052
+	2010 S2 SOLA2053
+	2010 S2 SOLA2060
+	2011 S1 MATH2089
+	2011 S1 SOLA2020
+	2011 S1 SOLA4012
+	2011 S1 SOLA5057
+	2011 S2 COMP2041
+	2011 S2 SOLA3507
+	2011 S2 SOLA5055
+	2012 S2 SOLA3010
+	2012 S2 SOLA5054
+	2012 S2 SOLA5056
+	2013 S1 COMP3121
+	2013 S1 COMP3331
+	2013 S2 SOLA4911
+	2014 S1 COMP3411
+	2014 S1 COMP3441
+	2014 S2 COMP3421
+	2014 S2 COMP4121
+favourite_bands:
+	Grouplove
+	Violent Soho
+	Kanye West
+	SAFIA
+	The Kite String Tangle
+password:
+	6666
+hair_colour:
+	blonde
+name:
+	Silvan Shalom
+favourite_hobbies:
+	Trainspottin
+	Seashell collecting
+	Seaglass collecting
+	Sewing
+	Debugging
+	Leaf collecting and pressing
+	Puzzles
+username:
+	FunnyBoy48
+height:
+	1.74m

@@ -1,0 +1,72 @@
+favourite_hobbies:
+	Entertaining
+	Urban exploration
+	Computer
+name:
+	Halle Berry
+username:
+	HappyPrincess47
+favourite_TV_shows:
+	Orphan Black
+	Miss Fisher's Murder Mysteries
+	Neighbours
+	The Walking Dead
+	BeastMaster
+	Terra Nova
+	Mako: Island of Secrets
+	Family Guy
+	South Park
+email:
+	H.Berry@ugrad.unsw.edu.au
+courses:
+	2013 S1 COMP9021
+	2013 S1 COMP9311
+	2013 S1 COMP9441
+	2013 S1 GSOE9820
+	2013 S2 COMP9024
+	2013 S2 COMP9032
+	2013 S2 COMP9041
+	2014 S1 COMP9319
+	2014 S1 COMP9334
+	2014 S1 GSOE9810
+	2014 S2 COMP9315
+	2014 S2 COMP9336
+	2014 S2 COMP9511
+	2014 S2 GSOE9210
+favourite_books:
+	Shannara
+	Horrible Histories
+	The Exorcist
+	Millennium Trilogy
+	American Girl
+	Little House on the Prairie
+	Paddington Bear
+	Harry Potter and the Prisoner of Azkaban
+favourite_movies:
+	World War Z
+	The Hobbit: The Desolation of Smaug
+	Guardians of the Galaxy
+	Despicable Me 2
+	Little Fockers
+degree:
+	Engineering/Commerce
+favourite_bands:
+	The Jezabels
+	Arctic Monkeys
+	Bring Me the Horizon
+	James Blake
+	Birds of Tokyo
+	Remi
+	Matt Corby
+	Chet Faker
+	Lorde
+gender:
+	female
+hair_colour:
+	brown
+height:
+	1.62m
+birthdate:
+	1966/08/14
+password:
+	tigers

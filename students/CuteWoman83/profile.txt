@@ -1,0 +1,46 @@
+email:
+	P.Anderson@ugrad.unsw.edu.au
+height:
+	1.63m
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+	2014 S2 COMP9511
+hair_colour:
+	brown
+password:
+	mine
+degree:
+	Information Technology
+name:
+	Pamela Anderson
+favourite_movies:
+	Indiana Jones and the Kingdom of the Crystal Skull
+	Toy Story 3
+	The Passion of the Christ
+	Fast Five
+favourite_TV_shows:
+	Old School
+	All Saints
+	Underbelly
+	The Black Adder
+gender:
+	female
+favourite_bands:
+	Andy Bull
+	Grouplove
+	The Amity Affliction
+favourite_hobbies:
+	Playing Music
+	Scrapbooking
+	Yoga
+	Air sports
+	Mineral collecting
+	Church Activities
+	Letterboxing
+	Backpacking
+birthdate:
+	1967/07/01
+username:
+	CuteWoman83

@@ -1,0 +1,62 @@
+degree:
+	Computer Science
+username:
+	SexyWoman13
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 COMP9032
+	2014 S2 COMP9311
+password:
+	golf
+favourite_movies:
+	Titanic
+	Clash of the Titans
+	2012
+	War of the Worlds
+	22 Jump Street
+	Shrek 2
+	True Grit
+	The Twilight Saga: Eclipse
+name:
+	Michelle Yeoh
+favourite_hobbies:
+	Working on Cars
+	Yoga
+	Sudoku
+	Graffiti
+	Gymnastics
+	Model Building
+	Video gaming
+	Leather crafting
+	Juggling
+favourite_books:
+	Night
+	Eye of the Needle
+	The Hobbit
+	The Secret
+	Guin Saga
+favourite_bands:
+	The Preatures
+	James Blake
+	Touch Sensitive
+	The National
+	San Cisco
+	Childish Gambino
+	Empire of the Sun
+hair_colour:
+	black
+email:
+	M.Yeoh@ugrad.unsw.edu.au
+height:
+	1.68m
+weight:
+	55kg
+gender:
+	female
+birthdate:
+	1962/08/06
+favourite_TV_shows:
+	Terra Nova
+	South Park
+	Danger 5

@@ -1,0 +1,66 @@
+name:
+	Monica Lewinsky
+degree:
+	Computer Science and Eng
+favourite_hobbies:
+	Electronics
+	Housework
+	Roller Derby
+	Breakdancing
+	Baton Twirling
+	Metal detecting
+	Airsoft
+	Amateur radio
+	Ping Pong
+	Playing Cards
+weight:
+	61kg
+courses:
+	2014 S2 BIOS1101
+	2014 S2 COMP1917
+	2014 S2 MATH1131
+	2014 S2 MATS1192
+favourite_books:
+	The Secret
+	Peyton Place
+	A Brief History of Time
+	Dirk Pitt
+	Percy Jackson & the Olympians
+	The Power of Positive Thinking
+	The Revolt of Mamie Stover
+	Flowers in the Attic
+height:
+	1.60m
+favourite_TV_shows:
+	My Kitchen Rules
+	Rake
+	Teen Mom
+	Dance Academy
+	The Big Bang Theory
+	Camp
+username:
+	NerdyThinker87
+favourite_movies:
+	Kung Fu Panda
+	The Heat
+	Transformers: Revenge of the Fallen
+	Fast & Furious 6
+	Man of Steel
+	Ice Age: Dawn of the Dinosaurs
+	The Sixth Sense
+	Kung Fu Panda 2
+	Tangled
+	Shrek 2
+birthdate:
+	1973/07/23
+gender:
+	female
+hair_colour:
+	black
+favourite_bands:
+	Violent Soho
+	Dillon Francis
+password:
+	ferrari
+email:
+	M.Lewinsky@ugrad.unsw.edu.au

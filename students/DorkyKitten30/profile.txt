@@ -1,0 +1,60 @@
+height:
+	1.63m
+password:
+	smokey
+username:
+	DorkyKitten30
+courses:
+	2013 S1 COMP1917
+	2013 S2 COMP1927
+	2014 S1 MATH1131
+	2014 S2 COMP2041
+	2014 S2 COMP3331
+degree:
+	Information Technology
+favourite_TV_shows:
+	Orphan Black
+	True Detective
+	Homeland
+	South Park
+email:
+	C.Bolocco@ugrad.unsw.edu.au
+favourite_books:
+	Harry Potter and the Deathly Hallows
+	The Hite Report
+	The Dukan Diet
+	The Secret Diary of Adrian Mole, Aged 13
+	Lolita
+	Goodnight Moon
+	To Kill a Mockingbird
+	Harry Potter and the Philosopher's Stone
+	The Gruffalo
+gender:
+	female
+hair_colour:
+	black
+favourite_movies:
+	The Twilight Saga: Breaking Dawn Part 2
+	E.T.: The Extra-Terrestrial
+	Harry Potter and the Philosopher's Stone
+	Ratatouille
+	Star Wars: Episode II - Attack of the Clones
+	2012
+birthdate:
+	1965/05/19
+favourite_hobbies:
+	Working on Cars
+	Tai Chi
+	Hunting
+	Gambling
+	Worldbuilding
+	Woodworking
+	Dance
+	Coin collecting
+favourite_bands:
+	Lana Del Rey
+	Empire of the Sun
+weight:
+	71kg
+name:
+	Cecilia Bolocco

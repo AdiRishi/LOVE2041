@@ -1,0 +1,68 @@
+favourite_movies:
+	Star Wars: Episode I - The Phantom Menace
+	Titanic
+	Thor: The Dark World
+	Pirates of the Caribbean: The Curse of the Black Pearl
+	Lucy
+	Star Wars
+favourite_books:
+	The Kite Runner
+	The Girl with the Dragon Tattoo
+	The Shack
+birthdate:
+	1976/05/31
+email:
+	C.Farrell@ugrad.unsw.edu.au
+courses:
+	2012 S1 COMP1917
+	2012 S1 MATH1141
+	2012 S1 PHYS1131
+	2012 S1 SCIF1121
+	2012 S2 COMP1927
+	2012 S2 MATH1081
+	2012 S2 MATH1241
+	2012 S2 PHYS1231
+	2013 S1 COMP2911
+	2013 S1 COMP9447
+	2013 S1 MATH2111
+	2013 S1 MATH2901
+	2013 S2 COMP2041
+	2013 S2 COMP3171
+	2013 S2 COMP3331
+	2014 S1 COMP2121
+	2014 S1 COMP3411
+	2014 S1 COMP3821
+	2014 S2 COMP3161
+	2014 S2 COMP4121
+favourite_hobbies:
+	Singing
+	Creative writing
+	Dating Online
+	Computer Games
+	Church Activities
+	Fencing
+	Housework
+	Leather crafting
+gender:
+	male
+username:
+	FunMan15
+favourite_TV_shows:
+	Neighbours
+	Futurama
+	Falling Skies
+	Nine News
+	Ja'mie: Private School Girl
+	The Blacklist
+weight:
+	71kg
+degree:
+	Science/Computer Science
+height:
+	1.71m
+hair_colour:
+	red
+name:
+	Colin Farrell
+password:
+	newyork

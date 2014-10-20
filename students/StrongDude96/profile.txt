@@ -1,0 +1,48 @@
+favourite_TV_shows:
+	Falling Skies
+	Seinfeld
+	Ja'mie: Private School Girl
+	Doctor Who
+	Old School
+	Elementary
+	Home and Away
+email:
+	S.Abraham@ugrad.unsw.edu.au
+favourite_hobbies:
+	Stamp collecting
+	Sleeping
+gender:
+	male
+favourite_books:
+	The Happy Hooker: My Own Story
+	The Gospel According to Peanuts
+	The Girl with the Dragon Tattoo
+	The Prophet
+	What Color is Your Parachute?
+password:
+	gemini
+favourite_movies:
+	The Hunger Games: Catching Fire
+	Transformers: Dark of the Moon
+	How to Train Your Dragon
+	War of the Worlds
+	Guardians of the Galaxy
+hair_colour:
+	black
+username:
+	StrongDude96
+height:
+	1.87m
+birthdate:
+	1952/06/12
+favourite_bands:
+	Lorde
+	Empire of the Sun
+	Chvrches
+	Flume & Chet Faker
+	Birds of Tokyo
+	St. Lucia
+weight:
+	66kg
+name:
+	Spencer Abraham

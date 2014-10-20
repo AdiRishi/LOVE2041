@@ -1,0 +1,46 @@
+gender:
+	female
+weight:
+	55kg
+name:
+	Christine Gregoire
+favourite_TV_shows:
+	Downton Abbey
+	Suits
+	Upper Middle Bogan
+	H2O: Just Add Water
+	The Walking Dead
+	Blue Heelers
+	The Force - Behind The Line
+	Terra Nova
+	How I Met Your Mother
+username:
+	StrongLover62
+favourite_books:
+	Black Beauty: His Grooms and Companions: The autobiography of a horse
+	Vampire Hunter D
+	American Girl
+hair_colour:
+	red
+height:
+	1.68m
+degree:
+	Engineering/Commerce
+courses:
+	2014 S2 COMP9021
+	2014 S2 COMP9032
+	2014 S2 COMP9311
+	2014 S2 COMP9511
+favourite_hobbies:
+	Mineral collecting
+	Fishing
+	Figure skating
+email:
+	C.Gregoire@ugrad.unsw.edu.au
+password:
+	butthead
+favourite_movies:
+	The Lord of the Rings: The Two Towers
+	Harry Potter and the Philosopher's Stone
+birthdate:
+	1947/03/24

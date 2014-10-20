@@ -1,0 +1,47 @@
+email:
+	C.Aguilera@ugrad.unsw.edu.au
+username:
+	DreamLover27
+degree:
+	Commerce/Science
+gender:
+	female
+favourite_bands:
+	Thundamentals
+	Childish Gambino
+favourite_movies:
+	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+	Iron Man 2
+	We're the Millers
+	The LEGO Movie
+	Iron Man 3
+	Harry Potter and the Order of the Phoenix
+	Django Unchained
+	The Lion King
+favourite_hobbies:
+	Video game collecting
+hair_colour:
+	brown
+name:
+	Christina Aguilera
+favourite_TV_shows:
+	Prisoner
+	Hemlock Grove
+	A Country Practice
+	The Blacklist
+courses:
+	2014 S2 ARCH1162
+	2014 S2 ARCH1390
+	2014 S2 BENV2423
+	2014 S2 COMP1400
+favourite_books:
+	The Da Vinci Code
+	Goosebumps
+	You Can Heal Your Life
+	A Song of Ice and Fire
+	Rainbow Magic
+	Your Erroneous Zones
+password:
+	beer
+birthdate:
+	1980/12/18

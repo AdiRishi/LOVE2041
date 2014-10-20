@@ -1,0 +1,15 @@
+weight:
+	min:
+		74kg
+	max:
+		83kg
+gender:
+	male
+hair_colours:
+	blonde
+	brown
+age:
+	min:
+		18
+	max:
+		30

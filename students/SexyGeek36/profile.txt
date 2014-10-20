@@ -1,0 +1,38 @@
+name:
+	Natalie Cole
+birthdate:
+	1950/02/06
+password:
+	1234
+favourite_books:
+	Tuesdays with Morrie
+	She: A History of Adventure
+	Valley of the Dolls
+username:
+	SexyGeek36
+favourite_TV_shows:
+	Puberty Blues
+hair_colour:
+	red
+email:
+	N.Cole@ugrad.unsw.edu.au
+height:
+	1.59m
+gender:
+	female
+favourite_hobbies:
+	Leather crafting
+	Pottery
+	Meteorology
+	Taxidermy
+	Volunteer Work
+favourite_movies:
+	Puss in Boots
+	Kung Fu Panda
+	The Hobbit: The Desolation of Smaug
+	Mamma Mia!
+favourite_bands:
+	The National
+	Josh Pyke
+	The Wombats
+	Two Door Cinema Club

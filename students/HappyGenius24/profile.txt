@@ -1,0 +1,61 @@
+degree:
+	Civil Engineering/Science
+height:
+	1.68m
+email:
+	M.Abbas@ugrad.unsw.edu.au
+courses:
+	2013 S1 COMP1917
+	2013 S1 INFS1602
+	2013 S1 MATH1081
+	2013 S1 MATH1131
+	2013 S2 COMP1927
+	2013 S2 INFS1609
+	2014 S1 COMP2911
+	2014 S1 COMP3311
+	2014 S1 MATH1081
+	2014 S2 COMP2041
+	2014 S2 COMP6771
+	2014 S2 COMP9321
+	2014 S2 INFS1603
+	2014 S2 MATH1231
+favourite_bands:
+	MS MR
+	James Blake
+	Goldroom
+	Remi
+gender:
+	male
+favourite_books:
+	Watership Down
+	James Bond
+	Love Story
+password:
+	biteme
+favourite_movies:
+	How to Train Your Dragon
+	Tangled
+	Pirates of the Caribbean: Dead Man's Chest
+	Harry Potter and the Chamber of Secrets
+	The Matrix Reloaded
+	X-Men: Days of Future Past
+weight:
+	68kg
+favourite_hobbies:
+	Animal showing
+	Computer Games
+	Association football
+	Footbag
+	Stand-Up Comedy
+	Walking
+	Listening to Music
+favourite_TV_shows:
+	Buckwild
+	MASH
+	Sea Patrol
+name:
+	Mahmoud Abbas
+birthdate:
+	1935/03/26
+username:
+	HappyGenius24

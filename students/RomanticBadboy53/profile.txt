@@ -1,0 +1,77 @@
+favourite_bands:
+	SAFIA
+	The Kite String Tangle
+	Cloud Control
+	Fatboy Slim & Riva Starr
+	MS MR
+	Daft Punk
+	Birds of Tokyo
+	John Butler Trio
+gender:
+	male
+birthdate:
+	1964/03/17
+courses:
+	2008 S1 ACCT1501
+	2008 S1 CHIN1006
+	2008 S1 ECON1101
+	2008 S2 ACCT1511
+	2008 S2 CHIN1007
+	2008 S2 ECON1102
+	2008 S2 ECON1203
+	2009 S1 ACCT2522
+	2009 S1 ARTS2450
+	2009 S1 LEGT2712
+	2009 S2 ACCT2542
+	2009 S2 ARTS2451
+	2009 S2 MGMT2002
+	2009 S2 MGMT2200
+	2010 S1 ACCT3563
+	2010 S1 ARTS1870
+	2010 S1 MGMT1001
+	2010 S1 MGMT2725
+	2010 S2 ACCT3583
+	2010 S2 ARTS1871
+	2010 S2 MGMT1002
+	2011 S1 ACCT3708
+	2011 S1 LEGT1710
+	2011 S1 MGMT2001
+	2011 S2 FINS1613
+	2011 S2 LEGT2741
+	2011 S2 STRE3101
+	2012 S1 INFS1602
+	2012 S1 LEGT2751
+	2012 S1 MGMT3721
+	2012 S2 MGMT3728
+	2014 S2 COMP9020
+	2014 S2 COMP9311
+	2014 S2 COMP9511
+email:
+	R.Lowe@ugrad.unsw.edu.au
+degree:
+	Software Engineering
+password:
+	saturn
+favourite_hobbies:
+	Cheerleading
+	Skating
+weight:
+	68kg
+username:
+	RomanticBadboy53
+favourite_movies:
+	Madagascar 3: Europe's Most Wanted
+	Pirates of the Caribbean: Dead Man's Chest
+favourite_TV_shows:
+	Terra Nova
+	The Slap
+	Underbelly
+	Boardwalk Empire
+	American Horror Story
+	Arrow
+	Secrets & Lies
+	Wonderland
+height:
+	1.73m
+name:
+	Rob Lowe

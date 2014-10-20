@@ -1,0 +1,68 @@
+height:
+	1.76m
+favourite_books:
+	Man's Search for Meaning
+	The Very Hungry Caterpillar
+	Nineteen Eighty-Four
+	Shogun
+courses:
+	2011 S2 COMP1917
+	2011 S2 MATH1081
+	2011 S2 MATH1131
+	2011 S2 PHYS1131
+	2012 X1 MATH1231
+	2012 X1 PHYS1231
+	2012 S1 COMP2041
+	2012 S1 COMP2121
+	2012 S1 COMP2911
+	2012 S1 MATH2111
+	2012 S2 COMP3421
+	2012 S2 COMP4161
+	2012 S2 COMP4181
+	2013 S1 COMP3411
+	2013 S1 COMP3891
+	2013 S2 COMP3431
+	2013 S2 COMP9242
+	2013 S2 COMP9844
+	2014 S1 COMP3153
+	2014 S1 COMP6752
+	2014 S2 COMP3151
+	2014 S2 COMP4910
+	2014 S2 COMP6741
+	2014 S2 COMP9315
+favourite_TV_shows:
+	Jonah from Tonga
+	Sunday Night
+	Teen Wolf
+	The Slap
+	Sons of Anarchy
+	Hemlock Grove
+	Home and Away
+degree:
+	Mechanical & Manufacturing Eng
+password:
+	daniel
+favourite_bands:
+	Major Lazer
+username:
+	NerdyStar41
+email:
+	T.Shalhoub@ugrad.unsw.edu.au
+weight:
+	70kg
+birthdate:
+	1953/10/09
+favourite_movies:
+	The Lord of the Rings: The Return of the King
+	Harry Potter and the Order of the Phoenix
+	Harry Potter and the Deathly Hallows Part 2
+	Alvin and the Chipmunks: Chipwrecked
+gender:
+	male
+hair_colour:
+	blonde
+favourite_hobbies:
+	Playing Cards
+	Tai Chi
+name:
+	Tony Shalhoub

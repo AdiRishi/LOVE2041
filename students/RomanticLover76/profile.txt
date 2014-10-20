@@ -1,0 +1,82 @@
+degree:
+	Computer Science
+password:
+	juice
+favourite_bands:
+	The Preatures
+	Haim
+	Busta Rhymes
+	Kingswood
+	Mikhael Paskalev
+favourite_TV_shows:
+	Lightning Point
+	The Saddle Club
+	Pretty Little Liars
+	Seinfeld
+	Homeland
+	Rush
+	The Doctor Blake Mysteries
+	Breaking Bad
+	Home and Away
+	Buckwild
+height:
+	1.81m
+name:
+	Jose Maria Aznar
+favourite_hobbies:
+	Body Building
+	Hunting
+	Housework
+	Association football
+	Lapidary
+courses:
+	2013 S1 COMP1911
+	2013 S1 ENGG1000
+	2013 S1 MATH1131
+	2013 S1 PHYS1121
+	2013 S2 COMP1921
+	2013 S2 MATH1231
+	2013 S2 MMAN1300
+	2014 X1 COMP1927
+	2014 S1 COMP2121
+	2014 S1 COMP2911
+	2014 S1 COMP3311
+	2014 S1 MATH1081
+	2014 S2 COMP2041
+	2014 S2 COMP3331
+	2014 S2 COMP3421
+	2014 S2 PHYS1160
+username:
+	RomanticLover76
+favourite_movies:
+	Dawn of the Planet of the Apes
+	Oz The Great and Powerful
+	Mamma Mia!
+	Lucy
+	Transformers: Age of Extinction
+	Shrek 2
+	Thor: The Dark World
+	Shutter Island
+	Titanic
+	Inception
+favourite_books:
+	Black Beauty: His Grooms and Companions: The autobiography of a horse
+	Harry Potter and the Philosopher's Stone
+	Maisy
+	In His Steps: What Would Jesus Do?
+	The Shack
+	A Tale of Two Cities
+	Alex Cross
+	The Hunger Games
+	To Kill a Mockingbird
+	James Bond
+birthdate:
+	1953/02/25
+gender:
+	male
+hair_colour:
+	blonde
+weight:
+	69kg
+email:
+	J.M.Aznar@ugrad.unsw.edu.au

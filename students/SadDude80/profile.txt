@@ -1,0 +1,47 @@
+password:
+	golf
+name:
+	Liam Neeson
+height:
+	1.86m
+degree:
+	Software Engineering
+favourite_hobbies:
+	Paint Ball
+	Housework
+username:
+	SadDude80
+email:
+	L.Neeson@ugrad.unsw.edu.au
+birthdate:
+	1952/06/07
+gender:
+	male
+hair_colour:
+	black
+courses:
+	2013 S2 GSOE9810
+	2014 S1 COMP9334
+	2014 S1 GSOE9820
+	2014 S2 COMP9321
+	2014 S2 COMP9331
+favourite_bands:
+	Dustin Tebbutt
+	Violent Soho
+	Goldroom
+	John Newman
+	Rudimental
+	Lana Del Rey
+	Fatboy Slim & Riva Starr
+	Dillon Francis
+weight:
+	74kg
+favourite_TV_shows:
+	Teen Wolf
+favourite_books:
+	Flowers in the Attic
+	The Giver
+	The Tale of Peter Rabbit
+	Heidi's Years of Learning and Travel
+	Clifford the Big Red Dog
+	Life After Life

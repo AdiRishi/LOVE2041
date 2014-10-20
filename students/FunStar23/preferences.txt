@@ -1,0 +1,10 @@
+gender:
+	male
+height:
+	min:
+		1.63m
+	max:
+		2.05m
+hair_colours:
+	black
+	blonde

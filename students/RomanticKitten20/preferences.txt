@@ -1,0 +1,14 @@
+gender:
+	male
+age:
+	min:
+		18
+	max:
+		27
+height:
+	min:
+		1.47m
+	max:
+		1.95m
+hair_colours:
+	black

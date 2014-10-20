@@ -4,11 +4,16 @@ body {
 	background-image: url(index_background.jpg);
 }
 
+a {
+	text-decoration: none;
+	color: black;
+}
+
 #nav_main {
 	border:1px solid black;
 	width: 100%;
 	margin:0 auto;
-	background-color: #FF85B5;
+	background-color: #B2F0F0;
 	text-align: center;
 }
 

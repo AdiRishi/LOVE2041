@@ -1,0 +1,64 @@
+courses:
+	2012 S2 COMP9021
+	2012 S2 GSOE9820
+	2013 S1 COMP9024
+	2013 S1 COMP9414
+	2013 S2 COMP9151
+	2013 S2 COMP9844
+	2014 S1 COMP9101
+	2014 S1 COMP9417
+	2014 S2 COMP4121
+	2014 S2 COMP6771
+username:
+	DesperateThinker29
+gender:
+	male
+favourite_bands:
+	Chvrches
+	Queens of the Stone Age
+	Violent Soho
+	A$AP Rocky
+	John Newman
+	Empire of the Sun
+	Lorde
+	The Kite String Tangle
+password:
+	florida
+hair_colour:
+	brown
+height:
+	1.79m
+birthdate:
+	22/10/1986
+email:
+	J.Koizumi@ugrad.unsw.edu.au
+weight:
+	59kg
+favourite_TV_shows:
+	Modern Family
+	Revenge
+	Hemlock Grove
+	NCIS
+degree:
+	Computer Science
+favourite_books:
+	And Then There Were None
+	Guess How Much I Love You
+	Flowers in the Attic
+name:
+	Junichiro Koizumi
+favourite_hobbies:
+	Mahjong
+	Art collecting
+	Fencing
+	Color Guard
+	Drama
+	Bicycling
+favourite_movies:
+	Star Trek Into Darkness
+	The Matrix Reloaded
+	Avatar
+	Pirates of the Caribbean: The Curse of the Black Pearl
+	Shrek 2
+	The Twilight Saga: Eclipse
+	Captain America: The Winter Soldier

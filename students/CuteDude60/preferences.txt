@@ -1,0 +1,15 @@
+hair_colours:
+	blonde
+	red
+weight:
+	min:
+		57kg
+	max:
+		67kg
+gender:
+	female
+age:
+	min:
+		18
+	max:
+		30

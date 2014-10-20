@@ -1,0 +1,47 @@
+hair_colour:
+	brown
+gender:
+	female
+degree:
+	Computer Science
+courses:
+	2014 S1 COMP9021
+	2014 S1 COMP9311
+	2014 S1 COMP9814
+	2014 S1 GSOE9820
+	2014 S2 COMP4418
+	2014 S2 COMP9024
+	2014 S2 COMP9032
+	2014 S2 COMP9041
+password:
+	hockey
+favourite_movies:
+	Star Wars: Episode III - Revenge of the Sith
+	Avatar
+	Guardians of the Galaxy
+favourite_bands:
+	Birds of Tokyo
+	Thundamentals
+	The Kite String Tangle
+	Sticky Fingers
+	Foals
+username:
+	HotTiger81
+weight:
+	62kg
+height:
+	1.63m
+birthdate:
+	1964/11/11
+name:
+	Calista Flockhart
+email:
+	C.Flockhart@ugrad.unsw.edu.au
+favourite_books:
+	The Hite Report
+	The Joy of Sex
+	The Outsiders
+	The Gospel According to Peanuts
+	The Cat in the Hat
+favourite_hobbies:
+	BASE jumping

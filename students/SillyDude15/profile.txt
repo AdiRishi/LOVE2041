@@ -1,0 +1,45 @@
+username:
+	SillyDude15
+gender:
+	male
+favourite_TV_shows:
+	Under the Dome
+	American Horror Story
+	Under The Dome
+	Wentworth
+favourite_movies:
+	Skyfall
+	War of the Worlds
+	Harry Potter and the Prisoner of Azkaban
+	Fast & Furious 6
+name:
+	John Abizaid
+birthdate:
+	1951/04/01
+password:
+	helpme
+favourite_hobbies:
+	Dating Online
+	Element collecting
+	Seaglass collecting
+	Crafts
+	Electronics
+	Entertaining
+	Flower collecting and pressing
+	Color Guard
+	Watching Sports
+	Auto racing
+favourite_books:
+	God's Little Acre
+	The Plague
+	Sophie's World
+	Harry Bosch
+	Tarzan
+email:
+	J.Abizaid@ugrad.unsw.edu.au
+height:
+	1.87m
+favourite_bands:
+	Kanye West
+	The Cat Empire
+	Flight Facilities

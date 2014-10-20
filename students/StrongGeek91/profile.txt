@@ -1,0 +1,42 @@
+favourite_bands:
+	Matt Corby
+	Haim
+	The National
+	Violent Soho
+	Birds of Tokyo
+email:
+	K.Raikkonen@ugrad.unsw.edu.au
+name:
+	Kimi Raikkonen
+favourite_movies:
+	Maleficent
+	Star Wars: Episode I - The Phantom Menace
+	The Matrix Reloaded
+favourite_books:
+	Valley of the Dolls
+	The Baby-sitters Club
+gender:
+	male
+weight:
+	79kg
+birthdate:
+	1979/10/17
+height:
+	1.89m
+hair_colour:
+	black
+favourite_TV_shows:
+	The Black Adder
+	Broadchurch
+	Prisoner
+	Hemlock Grove
+	Secrets & Lies
+	Suits
+	Sons of Anarchy
+	Ocean Girl
+username:
+	StrongGeek91
+favourite_hobbies:
+	Radio-controlled car racing
+password:
+	secret

@@ -1,0 +1,59 @@
+favourite_hobbies:
+	Electronics
+	Sports
+	Book collecting
+	Computer Games
+	Video game collecting
+	Sketching
+	Nordic skating
+	Computer
+height:
+	1.57m
+birthdate:
+	1966/11/17
+degree:
+	Computer Science and Eng
+favourite_books:
+	The Young Guard
+favourite_TV_shows:
+	Heartbreak High
+	Farscape
+	Boardwalk Empire
+	South Park
+	Offspring
+	A Place To Call Home
+	Danger 5
+	Miss Fisher's Murder Mysteries
+	Game of Thrones
+	True Detective
+email:
+	D.Fuentes@ugrad.unsw.edu.au
+favourite_bands:
+	SAFIA
+	Foals
+	James Blake
+	Bloc Party
+name:
+	Daisy Fuentes
+favourite_movies:
+	The Lord of the Rings: The Two Towers
+	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+weight:
+	62kg
+hair_colour:
+	black
+gender:
+	female
+password:
+	matt
+courses:
+	2014 S1 COMP1917
+	2014 S1 FINS1613
+	2014 S1 MATH1131
+	2014 S1 MGMT1001
+	2014 S2 ACCT1501
+	2014 S2 COMP1927
+	2014 S2 MATH1081
+	2014 S2 MATH1231
+username:
+	RomanticGeek10

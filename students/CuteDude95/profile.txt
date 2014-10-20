@@ -1,0 +1,85 @@
+courses:
+	2011 S1 BABS1201
+	2011 S1 CHEM1031
+	2011 S1 MATH1131
+	2011 S2 BIOS1101
+	2011 S2 CHEM1041
+	2011 S2 MATH1041
+	2011 S2 PHYS1121
+	2012 S1 BIOC2101
+	2012 S1 CHEM2011
+	2012 S1 CHEM2041
+	2012 S1 GENT0508
+	2012 S2 BIOC2201
+	2012 S2 BIOS2621
+	2012 S2 CHEM2021
+	2012 S2 CHEM2031
+	2013 X1 MATH1231
+	2013 S1 BABS3121
+	2013 S1 CHEM3011
+	2013 S1 CHEM3021
+	2013 S1 COMP1917
+	2013 S2 BENV2410
+	2013 S2 COMP1927
+	2013 S2 COMP2041
+	2014 S1 COMP2121
+	2014 S1 COMP2911
+	2014 S1 COMP3411
+	2014 S1 MATH1081
+	2014 S2 COMP3331
+	2014 S2 COMP3421
+	2014 S2 COMP3511
+	2014 S2 COMP6771
+birthdate:
+	1957/12/24
+favourite_movies:
+	Shrek 2
+	The Lion King
+favourite_hobbies:
+	Church Activities
+	Video gaming
+	Entertaining
+	Darts
+	Fossil hunting
+name:
+	Hamid Karzai
+hair_colour:
+	blonde
+height:
+	1.69m
+degree:
+	Information Technology
+gender:
+	male
+password:
+	cookie
+username:
+	CuteDude95
+favourite_books:
+	Shannara
+	Men Are from Mars, Women Are from Venus
+	The Dark Tower
+	Pippi Longstocking
+	God's Little Acre
+	The Adventures of Huckleberry Finn
+email:
+	H.Karzai@ugrad.unsw.edu.au
+favourite_TV_shows:
+	The Doctor Blake Mysteries
+	Camp
+	Danger 5
+	Home and Away
+	Friends
+	South Park
+	American Dad
+	Mako: Island of Secrets
+	Rake
+favourite_bands:
+	SAFIA
+	The Amity Affliction
+	Vampire Weekend
+	The Jezabels
+	Big Scary
+	Touch Sensitive
+	Birds of Tokyo
+	Bloc Party

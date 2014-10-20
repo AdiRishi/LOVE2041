@@ -1,0 +1,60 @@
+favourite_movies:
+	The Da Vinci Code
+	The Matrix Reloaded
+	Bridesmaids
+	The Conjuring
+	Dr. Seuss' The Lorax
+	Rio 2
+	E.T.: The Extra-Terrestrial
+email:
+	G.Popovich@ugrad.unsw.edu.au
+favourite_bands:
+	The Jezabels
+	Flume & Chet Faker
+	Busta Rhymes
+	John Newman
+courses:
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1081
+	2014 S1 MATH1131
+	2014 S2 COMP1927
+	2014 S2 COMP2041
+	2014 S2 MATH1231
+	2014 S2 SENG1031
+name:
+	Gregg Popovich
+gender:
+	male
+height:
+	1.73m
+birthdate:
+	1949/01/28
+favourite_TV_shows:
+	Nine News
+favourite_hobbies:
+	Playing Cards
+	Amateur radio
+	Camping
+	Cleaning
+	Golf
+	Modelling
+	Stand-Up Comedy
+username:
+	PrettyBadboy55
+degree:
+	Information Technology
+hair_colour:
+	brown
+weight:
+	69kg
+password:
+	firebird
+favourite_books:
+	The Wheel of Time
+	The Bridges of Madison County
+	Jonathan Livingston Seagull
+	A Tale of Two Cities
+	A Message to Garcia
+	Guess How Much I Love You
+	Goodnight Moon

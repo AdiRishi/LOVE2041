@@ -1,0 +1,73 @@
+email:
+	M.Salas@ugrad.unsw.edu.au
+favourite_TV_shows:
+	Under the Dome
+	Sons of Anarchy
+	Neighbours
+	Game of Thrones
+	Breaking Bad
+	H2O: Just Add Water
+	Puberty Blues
+	South Park
+	Homeland
+name:
+	Marcelo Salas
+gender:
+	male
+favourite_hobbies:
+	Computer
+	Breakdancing
+	Backpacking
+	Sports
+	Mountain biking
+	Lego Building
+hair_colour:
+	blonde
+favourite_books:
+	Love You Forever
+	Think and Grow Rich
+	Paddington Bear
+	OSS 117
+	Dragonlance
+	The Celestine Prophecy
+	A Tale of Two Cities
+	The Hite Report
+	Norwegian Wood
+	Kaiketsu Zorori
+height:
+	1.75m
+courses:
+	2014 S1 COMP9020
+	2014 S1 COMP9021
+	2014 S1 COMP9441
+	2014 S2 COMP9024
+	2014 S2 COMP9041
+	2014 S2 GSOE9820
+degree:
+	Information Technology
+weight:
+	73kg
+username:
+	RomanticGenius60
+favourite_bands:
+	Two Door Cinema Club
+	Boy & Bear
+	Bring Me the Horizon
+	Queens of the Stone Age
+	Birds of Tokyo
+	Daft Punk
+birthdate:
+	1974/12/24
+favourite_movies:
+	Godzilla
+	Up
+	Pirates of the Caribbean: On Stranger Tides
+	The LEGO Movie
+	Brave
+	The Twilight Saga: New Moon
+	The Da Vinci Code
+	The Lord of the Rings: The Two Towers
+	War of the Worlds
+	The Hunger Games: Catching Fire
+password:
+	bill

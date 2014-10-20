@@ -1,0 +1,56 @@
+favourite_bands:
+	John Newman
+	The Amity Affliction
+	Rudimental
+	British India
+	Lorde
+	The Cat Empire
+	The Preatures
+	Bloc Party
+height:
+	1.66m
+gender:
+	male
+favourite_movies:
+	War of the Worlds
+	Thor: The Dark World
+	Forrest Gump
+	The Lost World: Jurassic Park
+	Captain America: The Winter Soldier
+	Shrek 2
+	The Hangover Part II
+name:
+	Justin Timberlake
+hair_colour:
+	blonde
+username:
+	FunGeek59
+email:
+	J.Timberlake@ugrad.unsw.edu.au
+courses:
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1081
+	2014 S1 MATH1131
+	2014 S2 COMP1917
+	2014 S2 MATH1131
+	2014 S2 SENG1031
+favourite_hobbies:
+	Boating
+	Slot car racing
+	Shooting
+	Perl programming
+	Lacemaking
+	Model Building
+	Ping Pong
+	Movie collecting
+	Mineral collecting
+	Cooking
+weight:
+	75kg
+password:
+	bonnie
+degree:
+	Information Technology
+birthdate:
+	1981/01/31

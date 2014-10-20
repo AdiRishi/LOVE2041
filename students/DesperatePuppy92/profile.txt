@@ -1,0 +1,60 @@
+favourite_bands:
+	Grouplove
+	Bloc Party
+	Violent Soho
+	London Grammar
+	A$AP Rocky
+	John Newman
+	Boy & Bear
+	Empire of the Sun
+height:
+	1.97m
+favourite_books:
+	Guess How Much I Love You
+	Harry Potter and the Goblet of Fire
+	Kane and Abel
+	Divergent trilogy
+name:
+	Abdullah Gul
+degree:
+	Computer Science
+favourite_movies:
+	Kung Fu Panda
+	The Last Airbender
+favourite_hobbies:
+	Bicycling
+	Darts
+	Leather crafting
+	Puzzles
+birthdate:
+	1950/10/29
+password:
+	giants
+email:
+	A.Gul@ugrad.unsw.edu.au
+weight:
+	69kg
+username:
+	DesperatePuppy92
+courses:
+	2012 S1 COMM5001
+	2012 S1 INFS5731
+	2012 S1 INFS5733
+	2012 S1 INFS5984
+	2012 S2 INFS5604
+	2012 S2 INFS5732
+	2012 S2 INFS5740
+	2012 S2 MGMT5980
+favourite_TV_shows:
+	Rush
+	Teen Mom
+	Family Guy
+	Pretty Little Liars
+	Bergerac
+	Under The Dome
+	Dexter
+	The Simpsons
+hair_colour:
+	red
+gender:
+	male

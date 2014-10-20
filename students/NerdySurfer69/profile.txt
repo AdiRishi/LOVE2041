@@ -1,0 +1,71 @@
+birthdate:
+	1957/08/06
+favourite_books:
+	Norwegian Wood
+	The Hunger Games
+	Totto-chan, the Little Girl at the Window
+	A Message to Garcia
+	No Longer Human
+	The Prophet
+	The Little Prince
+	Valley of the Dolls
+	Where the Wild Things Are
+hair_colour:
+	black
+password:
+	victor
+degree:
+	Computer Science/Digital Media
+favourite_movies:
+	Monsters University
+	Neighbors
+	Star Wars: Episode III - Revenge of the Sith
+	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+	The Amazing Spider-Man
+	Thor
+	Marvel's The Avengers
+	The Da Vinci Code
+	Harry Potter and the Half-Blood Prince
+	Transformers
+favourite_TV_shows:
+	Farscape
+	Mako: Island of Secrets
+	Puberty Blues
+height:
+	1.80m
+weight:
+	76kg
+username:
+	NerdySurfer69
+courses:
+	2013 S1 COMP1911
+	2013 S1 ENGG1000
+	2013 S1 PHYS1131
+	2013 S2 COMP1921
+	2013 S2 ELEC1111
+	2013 S2 MATH1231
+	2013 S2 PHYS1231
+	2014 S1 ELEC2134
+	2014 S1 ELEC2141
+	2014 S1 GENS9004
+	2014 S1 MATH2069
+	2014 S2 COMP1921
+	2014 S2 ELEC2133
+	2014 S2 MATH2099
+gender:
+	male
+favourite_hobbies:
+	Shell scripting
+	Fossil hunting
+	Playing Musical Instruments
+	Couponing
+	Sewing
+	Horseback Riding
+	Skimboarding
+	Equestrianism
+	Letterboxing
+	Flying
+name:
+	James McGreevey
+email:
+	J.McGreevey@ugrad.unsw.edu.au

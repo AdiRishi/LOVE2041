@@ -1,0 +1,32 @@
+name:
+	Martha Stewart
+gender:
+	female
+weight:
+	52kg
+email:
+	M.Stewart@ugrad.unsw.edu.au
+hair_colour:
+	black
+birthdate:
+	1941/08/03
+password:
+	paul
+favourite_books:
+	Harry Potter and the Deathly Hallows
+favourite_hobbies:
+	Mountain biking
+	Church Activities
+	Basketball
+favourite_bands:
+	The Kite String Tangle
+	Goldroom
+	The National
+username:
+	SadAngel30
+favourite_TV_shows:
+	Packed to the Rafters
+	The Big Bang Theory
+	The Slap
+	Underbelly
+	Pretty Little Liars

@@ -1,0 +1,79 @@
+favourite_hobbies:
+	Machining
+	Beekeeping
+	Cryptography
+	Volunteer Work
+	Urban exploration
+	Ping Pong
+	Polo
+	Relaxing
+	Dancing
+	Sewing
+favourite_bands:
+	James Blake
+	RUFUS
+	Cloud Control
+	British India
+	Kanye West
+favourite_movies:
+	Spider-Man 3
+	The Smurfs
+	Pirates of the Caribbean: At World's End
+password:
+	pookie
+favourite_TV_shows:
+	McLeod's Daughters
+	Teen Mom
+	Doctor Who
+	H2O: Just Add Water
+	Vikings
+	Under the Dome
+degree:
+	Computer Science and Eng
+name:
+	Hilary Duff
+username:
+	SillyTiger37
+favourite_books:
+	The Eagle Has Landed
+	Fear Street
+	Alex Cross
+weight:
+	68kg
+birthdate:
+	1987/09/28
+courses:
+	2009 S1 ACCT1511
+	2009 S1 ECON1101
+	2009 S1 ECON2206
+	2009 S2 ECON2101
+	2009 S2 ECON2102
+	2010 S1 ECON2102
+	2010 S1 ECON2104
+	2010 S1 ECON2206
+	2010 S1 FINS1612
+	2010 S2 ECON2102
+	2010 S2 ECON2207
+	2010 S2 FINS1612
+	2011 S1 ECON2102
+	2011 S1 ECON2112
+	2011 S1 ECON3107
+	2011 S1 FINS1613
+	2011 S2 ECON2111
+	2011 S2 ECON3110
+	2011 S2 ECON3116
+	2012 X1 ARTS2374
+	2012 X1 ARTS2542
+	2012 S1 ECON2127
+	2012 S1 ECON3101
+	2014 S1 COMP9020
+	2014 S1 COMP9021
+	2014 S1 COMP9311
+gender:
+	female
+height:
+	1.65m
+hair_colour:
+	blonde
+email:
+	H.Duff@ugrad.unsw.edu.au

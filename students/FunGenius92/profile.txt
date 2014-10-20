@@ -1,0 +1,93 @@
+email:
+	M.Richt@ugrad.unsw.edu.au
+password:
+	warrior
+hair_colour:
+	black
+name:
+	Mark Richt
+gender:
+	male
+favourite_books:
+	Shogun
+	Harry Potter and the Prisoner of Azkaban
+	Harry Potter and the Philosopher's Stone
+	The Wind in the Willows
+	The Giver
+	Gone with the Wind
+	Horrible Histories
+	Life of Pi
+username:
+	FunGenius92
+height:
+	1.77m
+courses:
+	2012 S1 COMP2041
+	2012 S1 COMP3821
+	2012 S1 MATH1081
+	2012 S1 MATH1141
+	2012 S2 COMP1927
+	2012 S2 COMP2121
+	2012 S2 ELEC1111
+	2012 S2 MATH1231
+	2013 S1 COMP2911
+	2013 S1 COMP3331
+	2013 S1 COMP3891
+	2013 S1 COMP9447
+	2013 S2 COMP3171
+	2013 S2 COMP3311
+	2013 S2 COMP9242
+	2014 S1 COMP3131
+	2014 S1 COMP3141
+	2014 S1 COMP9243
+	2014 S1 PHYS1160
+	2014 S2 COMP3161
+	2014 S2 COMP3901
+	2014 S2 COMP4920
+	2014 S2 GENS9004
+	2010 S1 COMP1917
+weight:
+	74kg
+degree:
+	Mechanical & Manf Eng/Science
+favourite_hobbies:
+	Playing Cards
+	Backpacking
+	Net Ball
+	Cleaning
+	Archery
+	Boating
+	Asking Yahoo
+	Mountaineering
+	Family Time
+favourite_TV_shows:
+	Game of Thrones
+	Modern Family
+	Prisoner
+	Hemlock Grove
+	The Elephant Princess
+	Old School
+	Under the Dome
+	Rake
+	Ja'mie: Private School Girl
+favourite_bands:
+	Panama
+	Matt Corby
+	Foals
+	London Grammar
+	The Amity Affliction
+	Arcade Fire
+	San Cisco
+	Busta Rhymes
+favourite_movies:
+	The Hobbit: An Unexpected Journey
+	The Lion King
+	2012
+	Harry Potter and the Half-Blood Prince
+	Snow White and the Huntsman
+	Pirates of the Caribbean: Dead Man's Chest
+	Pirates of the Caribbean: At World's End
+	The Dark Knight
+	Spider-Man 3
+birthdate:
+	1960/02/18

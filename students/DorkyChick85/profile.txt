@@ -1,0 +1,82 @@
+favourite_hobbies:
+	Skydiving
+	Frisbee
+	Rugby league football
+	Slacklining
+	Shell scripting
+	Listening to Music
+	Astronomy
+	Couponing
+	Baton twirling
+hair_colour:
+	blonde
+favourite_movies:
+	The Da Vinci Code
+	MIB 3
+	Inception
+	Godzilla
+	Taken 2
+	Transformers
+	Skyfall
+	Jurassic Park
+	Indiana Jones and the Kingdom of the Crystal Skull
+	Avatar
+birthdate:
+	1800/01/01
+favourite_books:
+	Heidi's Years of Learning and Travel
+	The Godfather
+	The Gruffalo
+	Shogun
+gender:
+	female
+password:
+	great
+name:
+	Christine Baumgartner
+height:
+	1.71m
+email:
+	C.Baumgartner@ugrad.unsw.edu.au
+degree:
+	Information Technology
+username:
+	DorkyChick85
+favourite_TV_shows:
+	Modern Family
+	Futurama
+	Dance Academy
+	The Lost World
+favourite_bands:
+	Chvrches
+	Grouplove
+	James Blake
+	Arcade Fire
+	Foals
+	Vampire Weekend
+	Two Door Cinema Club
+	Disclosure
+	British India
+	Cloud Control
+courses:
+	2012 S2 COMP2911
+	2012 S2 MATH1081
+	2012 S2 SENG1031
+	2013 X1 MATH1231
+	2013 S1 COMP2111
+	2013 S1 COMP2121
+	2013 S1 COMP3331
+	2013 S1 SENG2011
+	2013 S2 COMP2041
+	2013 S2 MATH2400
+	2013 S2 MATH2859
+	2013 S2 PHYS1160
+	2013 S2 SENG2021
+	2014 S1 COMP2121
+	2014 S1 COMP3311
+	2014 S1 COMP3331
+	2014 S1 SENG3011
+	2014 S2 COMP2041
+	2014 S2 MATH1231
+	2014 S2 MATH2400
+	2014 S2 MATH2859

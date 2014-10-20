@@ -1,0 +1,95 @@
+name:
+	Ben Howland
+favourite_movies:
+	Transformers: Dark of the Moon
+	Avatar
+	The Dark Knight Rises
+	MIB 3
+	X-Men: Days of Future Past
+	The Hobbit: An Unexpected Journey
+	Titanic
+	Inception
+	Man of Steel
+favourite_hobbies:
+	Cricket
+	Hiking
+	Family Time
+username:
+	SillyNinja58
+favourite_bands:
+	Cloud Control
+	Boy & Bear
+	The Amity Affliction
+favourite_books:
+	Uncle Styopa
+	Harry Potter and the Half-Blood Prince
+	Harry Potter and the Philosopher's Stone
+	The Poky Little Puppy
+	The Adventures of Huckleberry Finn
+	Tokugawa Ieyasu
+	A Wrinkle in Time
+	The Women's Room
+hair_colour:
+	blonde
+email:
+	B.Howland@ugrad.unsw.edu.au
+password:
+	lovers
+courses:
+	1992 S1 BIOS1011
+	1992 S2 BIOS1021
+	1992 S2 CHEM1002
+	1992 S2 PSYC1002
+	1993 S1 GENS4529
+	1993 S1 GENS4532
+	1993 S1 PHIL1006
+	1993 S2 BIOC2312
+	1993 S2 BIOS2021
+	1993 S2 CHEM2021
+	1993 S2 MATH1032
+	1993 S2 PHIL1007
+	1994 S1 BIOS2011
+	1994 S1 GENS5180
+	1994 S1 MICR2201
+	1994 S2 BIOC3271
+	1994 S2 GENS5524
+	1994 S2 MICR2011
+	1995 S1 BIOC3111
+	1995 S1 BIOC3121
+	1995 S1 BIOT3011
+	1995 S1 BIOT3031
+	1995 S2 BIOC3281
+	1995 S2 BIOC3291
+	1995 S2 BIOT3061
+	1996 S1 BIOC3111
+	2006 S2 MATH2011
+	2006 S2 MATH2601
+	2007 S1 MATH2240
+	2007 S1 MATH2301
+	2007 S2 MATH2120
+	2007 S2 MATH2501
+	2010 S2 COMP9021
+	2011 S1 COMP9024
+	2011 S1 COMP9041
+	2012 S2 COMP9032
+	2013 S1 COMP9201
+	2014 S1 COMP9331
+	2014 S2 COMP9331
+	2001 S1 CVEN7825
+	2001 S2 COMP2011
+gender:
+	male
+favourite_TV_shows:
+	Mako: Island of Secrets
+	Dance Academy
+	Under the Dome
+	Sea Patrol
+	Revenge
+	Neighbours
+	The Walking Dead
+degree:
+	Information Technology
+birthdate:
+	1957/05/28
+height:
+	1.73m

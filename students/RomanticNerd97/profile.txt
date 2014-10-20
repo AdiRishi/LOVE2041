@@ -1,0 +1,79 @@
+gender:
+	male
+favourite_hobbies:
+	Going to Movies
+	Roller skating
+	Fishing
+	Housework
+	Electronics
+	Martial arts
+	Renting Movies
+	Photography
+	Sculling
+hair_colour:
+	black
+degree:
+	Information Technology
+weight:
+	73kg
+birthdate:
+	1983/07/23
+username:
+	RomanticNerd97
+name:
+	Aaron Peirsol
+favourite_books:
+	The Chronicles of Narnia
+	The Da Vinci Code
+	Men Are from Mars, Women Are from Venus
+email:
+	A.Peirsol@ugrad.unsw.edu.au
+password:
+	george
+favourite_bands:
+	Disclosure
+	Horrorshow
+	Childish Gambino
+	Illy
+	RUFUS
+	Thundamentals
+	James Blake
+	Kingswood
+favourite_movies:
+	Star Wars
+	The Sixth Sense
+	The Da Vinci Code
+	Guardians of the Galaxy
+	Fast Five
+	Madagascar: Escape 2 Africa
+	Fast & Furious 6
+	Man of Steel
+height:
+	1.71m
+courses:
+	2011 S1 ACCT1501
+	2011 S1 ECON1101
+	2011 S1 MATH1151
+	2011 S2 ACTL1001
+	2011 S2 COMP1917
+	2011 S2 FINS1613
+	2011 S2 MATH1251
+	2012 S1 ACTL2001
+	2012 S1 ECON1102
+	2012 S1 FINS2624
+	2012 S1 MATH2111
+	2012 S1 MATH2901
+	2012 S2 MATH2601
+	2012 S2 MATH2931
+	2013 S2 ACTL3003
+	2013 S2 MATH3311
+	2013 S2 MGMT1001
+	2014 S1 ACTL3001
+	2014 S1 ACTL3002
+	2014 S1 MATH3901
+	2014 S1 MATH3911
+	2014 S2 ACCT1511
+	2014 S2 ACTL3004
+	2014 S2 COMP4121
+	2014 S2 MATH2871
+	2014 S2 MATH3821

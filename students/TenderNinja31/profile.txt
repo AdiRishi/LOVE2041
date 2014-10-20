@@ -1,0 +1,99 @@
+username:
+	TenderNinja31
+favourite_TV_shows:
+	MASH
+	Bergerac
+	Buckwild
+	H2O: Just Add Water
+	Jonah from Tonga
+	Lightning Point
+favourite_books:
+	The 7 Habits of Highly Effective People
+	Jonathan Livingston Seagull
+	Life After Life
+email:
+	A.Zakayev@ugrad.unsw.edu.au
+password:
+	4444
+favourite_movies:
+	The Heat
+	2012
+	Harry Potter and the Prisoner of Azkaban
+	Inception
+	Harry Potter and the Deathly Hallows Part 1
+	Mamma Mia!
+	Star Wars
+	Shrek 2
+	The Amazing Spider-Man
+	Tangled
+courses:
+	2008 S1 BABS1201
+	2008 S1 CHEM1031
+	2008 S1 MATH1131
+	2008 S2 BIOS1101
+	2008 S2 CHEM1041
+	2008 S2 PHYS1121
+	2008 S2 PSYC1011
+	2009 S1 GENE1011
+	2009 S1 MATH1041
+	2009 S1 MICR2011
+	2009 S2 BABS2202
+	2009 S2 BIOC2201
+	2009 S2 BIOS2621
+	2010 S1 ARTS1630
+	2010 S1 GENE4001
+	2010 S1 GENE7801
+	2010 S1 PSYC1001
+	2010 S2 ARTS1631
+	2010 S2 BABS2202
+	2010 S2 BIOC2201
+	2011 S1 ARTS2630
+	2011 S1 BABS3021
+	2011 S1 BABS3121
+	2011 S1 BIOC3111
+	2011 S2 BABS3281
+	2011 S2 BIOC3271
+	2011 S2 CHEM2021
+	2012 S1 BINF3010
+	2012 S1 COMP1911
+	2012 S1 MICR2011
+	2013 X1 MATH1231
+	2013 S1 ENGG1000
+	2013 S2 BIOC3271
+	2013 S2 COMP1921
+	2013 S2 ELEC1111
+	2013 S2 MATH1231
+	2014 X1 COMP1927
+	2014 S1 ELEC2134
+	2014 S2 COMP1927
+	2014 S2 COMP3331
+	2014 S2 PHYS1221
+weight:
+	83kg
+favourite_hobbies:
+	Watching Movies
+	Listening to Music
+	Perl programming
+	Computer
+	Taekwondo
+	Python programming
+	Origami
+	Model aircraft making and flying
+degree:
+	Electrical Engineering/Science
+name:
+	Akhmed Zakayev
+height:
+	1.68m
+hair_colour:
+	blonde
+gender:
+	male
+birthdate:
+	1959/04/26
+favourite_bands:
+	The Wombats
+	Bring Me the Horizon
+	Queens of the Stone Age
+	Arcade Fire
+	St. Lucia

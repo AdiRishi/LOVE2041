@@ -1,0 +1,9 @@
+age:
+	min:
+		18
+	max:
+		30
+hair_colours:
+	blonde
+gender:
+	female

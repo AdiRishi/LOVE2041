@@ -1,0 +1,39 @@
+email:
+	V.Putin@ugrad.unsw.edu.au
+favourite_books:
+	Harry Potter and the Goblet of Fire
+	Winnie-the-Pooh
+	Harry Potter and the Prisoner of Azkaban
+favourite_hobbies:
+	Boating
+	Antiquing
+username:
+	TenderPuppy60
+favourite_movies:
+	300: Rise of An Empire
+	Forrest Gump
+	Godzilla
+	Shrek Forever After
+	Avatar
+hair_colour:
+	red
+password:
+	heather
+weight:
+	78kg
+gender:
+	male
+height:
+	1.87m
+favourite_TV_shows:
+	The Secret Life of Us
+	Jonah from Tonga
+	Boardwalk Empire
+	The Black Adder
+	Secrets & Lies
+	Futurama
+	MASH
+birthdate:
+	1952/10/07
+name:
+	Vladimir Putin

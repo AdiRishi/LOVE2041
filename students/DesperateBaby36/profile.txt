@@ -1,0 +1,47 @@
+degree:
+	Computer Science and Eng
+gender:
+	female
+favourite_books:
+	Divine Comedy
+	The Inheritance Cycle
+	The Ginger Man
+	Norwegian Wood
+favourite_movies:
+	The Amazing Spider-Man 2
+	Shrek Forever After
+favourite_bands:
+	Birds of Tokyo
+	Chvrches
+	James Blake
+	Thundamentals
+	Kanye West
+name:
+	Diana Krall
+height:
+	1.75m
+courses:
+	2014 S1 COMP3821
+	2014 S1 MATH1081
+	2014 S1 MATH1141
+	2014 S2 COMP1927
+	2014 S2 MATH1241
+	2014 S2 MATH3411
+	2010 S1 COMP1917
+favourite_hobbies:
+	Listening to Music
+	Badminton
+	Vehicle restoration
+	Computer programming
+	Cleaning
+	Letterboxing
+password:
+	andrew
+hair_colour:
+	brown
+email:
+	D.Krall@ugrad.unsw.edu.au
+username:
+	DesperateBaby36
+birthdate:
+	1964/11/16

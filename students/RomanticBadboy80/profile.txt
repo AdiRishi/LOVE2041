@@ -1,0 +1,63 @@
+favourite_movies:
+	The Lion King
+	The Amazing Spider-Man
+birthdate:
+	1945/10/27
+favourite_TV_shows:
+	The Code
+	A Place To Call Home
+	Nowhere Boys
+	The Slap
+	Camp
+	Modern Family
+favourite_books:
+	The Good Soldier
+	James Bond
+	Man's Search for Meaning
+	The Exorcist
+password:
+	12345
+courses:
+	2013 S1 ARTS1630
+	2013 S1 COMP1917
+	2013 S1 MATH1081
+	2013 S1 MATH1131
+	2013 S2 ARTS1631
+	2013 S2 COMP1917
+	2013 S2 MATH1231
+	2014 X1 COMP1927
+	2014 S1 COMP2121
+	2014 S1 COMP2911
+	2014 S2 COMP2041
+	2014 S2 COMP3421
+	2014 S2 PHYS1160
+weight:
+	74kg
+name:
+	Luiz Inacio Lula da Silva
+favourite_bands:
+	Panama
+	Lorde
+	Thundamentals
+	The Preatures
+	Grouplove
+	Vance Joy
+	Violent Soho
+	Daft Punk
+height:
+	1.84m
+degree:
+	Software Engineering
+favourite_hobbies:
+	Traveling
+	Beekeeping
+	Debate
+	Slot car racing
+	Stamp collecting
+	Frisbee
+gender:
+	male
+email:
+	L.I.L.da.Silva@ugrad.unsw.edu.au
+username:
+	RomanticBadboy80

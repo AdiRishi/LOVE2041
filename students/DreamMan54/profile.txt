@@ -1,0 +1,48 @@
+username:
+	DreamMan54
+courses:
+	2014 S2 COMP9323
+gender:
+	male
+degree:
+	Software Engineering
+favourite_movies:
+	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+	The Sixth Sense
+	Hancock
+	The Help
+	Frozen
+	Puss in Boots
+favourite_books:
+	Lolita
+	Night
+	Charlotte's Web
+	God's Little Acre
+	Think and Grow Rich
+	Harry Potter and the Order of the Phoenix
+	The Great Gatsby
+birthdate:
+	1974/02/13
+favourite_TV_shows:
+	Please Like Me
+	Ja'mie: Private School Girl
+	Lightning Point
+	Friends
+	Under the Dome
+	Sea Patrol
+	Hemlock Grove
+	Elementary
+name:
+	Robbie Williams
+favourite_hobbies:
+	Jewelry making
+	Gongoozling
+	Art collecting
+	Foraging
+	Exercise
+email:
+	R.Williams@ugrad.unsw.edu.au
+password:
+	william
+height:
+	1.86m

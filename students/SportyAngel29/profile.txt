@@ -1,0 +1,40 @@
+email:
+	E.Thompson@ugrad.unsw.edu.au
+username:
+	SportyAngel29
+favourite_TV_shows:
+	Camp
+favourite_bands:
+	Cloud Control
+	A$AP Rocky
+	Birds of Tokyo
+	San Cisco
+	Flume & Chet Faker
+	Thundamentals
+name:
+	Emma Thompson
+favourite_books:
+	The Young Guard
+	Jaws
+	The Happy Hooker: My Own Story
+	The Catcher in the Rye
+	Love You Forever
+	Sophie's World
+height:
+	1.69m
+birthdate:
+	1959/04/15
+hair_colour:
+	black
+weight:
+	62kg
+gender:
+	female
+favourite_movies:
+	The Twilight Saga: Eclipse
+	Life of Pi
+	Harry Potter and the Prisoner of Azkaban
+	The Lord of the Rings: The Two Towers
+	Man of Steel
+password:
+	murphy

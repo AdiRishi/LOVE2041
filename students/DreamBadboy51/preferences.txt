@@ -1,0 +1,17 @@
+height:
+	min:
+		1.48m
+	max:
+		1.98m
+age:
+	min:
+		18
+	max:
+		24
+gender:
+	female
+weight:
+	min:
+		50kg
+	max:
+		75kg

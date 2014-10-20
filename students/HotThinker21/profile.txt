@@ -1,0 +1,45 @@
+degree:
+	Engineering/Commerce
+height:
+	1.77m
+favourite_books:
+	The Railway Series
+	Frank Merriwell
+	Angels & Demons
+	The Dark Tower
+	Don Quixote
+	The Great Gatsby
+	The Kite Runner
+courses:
+	2013 S2 COMP4121
+gender:
+	male
+hair_colour:
+	black
+username:
+	HotThinker21
+favourite_TV_shows:
+	Secrets & Lies
+	Vikings
+email:
+	G.W.Bush@ugrad.unsw.edu.au
+favourite_movies:
+	Man of Steel
+	Harry Potter and the Chamber of Secrets
+	Skyfall
+favourite_bands:
+	Matt Corby
+	RUFUS
+	Robert DeLong
+	Childish Gambino
+	San Cisco
+	Dustin Tebbutt
+password:
+	ginger
+favourite_hobbies:
+	Hiking
+	Singing
+name:
+	George W Bush
+birthdate:
+	1946/07/06

@@ -1,0 +1,9 @@
+height:
+	min:
+		1.68m
+	max:
+		1.87m
+hair_colours:
+	brown
+gender:
+	male

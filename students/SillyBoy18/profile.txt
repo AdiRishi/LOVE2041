@@ -1,0 +1,95 @@
+birthdate:
+	1952/07/24
+gender:
+	male
+favourite_TV_shows:
+	Camp
+	The Walking Dead
+	Game of Thrones
+	Old School
+	The Black Adder
+	McLeod's Daughters
+	NCIS
+	Underbelly
+favourite_bands:
+	Bloc Party
+	Foals
+	Matt Corby
+	Sticky Fingers
+favourite_books:
+	The Wind in the Willows
+	The Eagle Has Landed
+	The Joy of Sex
+	The Ginger Man
+weight:
+	63kg
+name:
+	Gus Van Sant
+height:
+	1.78m
+degree:
+	Science/Computer Science
+email:
+	G.V.Sant@ugrad.unsw.edu.au
+favourite_hobbies:
+	Family Time
+	Body Building
+	Microscopy
+	Puzzles
+	Slacklining
+	Kart racing
+	Surfing
+	Hooping
+password:
+	abgrtyu
+hair_colour:
+	black
+courses:
+	2008 S1 MATH1081
+	2008 S1 MATH1141
+	2008 S1 PHYS1131
+	2008 S1 SCIF1021
+	2008 S2 MATH1241
+	2008 S2 MMAN1300
+	2009 S1 GENM0703
+	2009 S1 MATH2111
+	2009 S1 MATH2240
+	2009 S1 MATH2901
+	2009 S2 MATH2130
+	2009 S2 MATH2601
+	2009 S2 MATH2620
+	2010 S1 MATH3101
+	2010 S1 MATH3611
+	2010 S1 MATH3711
+	2010 S1 PHYS3550
+	2010 S2 MATH2400
+	2010 S2 MATH3411
+	2010 S2 MATH3701
+	2010 S2 MATH5515
+	2011 S1 ECON1101
+	2011 S1 MATH2301
+	2011 S1 MATH3560
+	2011 S1 MATH3570
+	2011 S2 GENL2032
+	2011 S2 MATH5645
+	2013 S2 COMP9020
+	2013 S2 COMP9021
+	2013 S2 COMP9311
+	2013 S2 COMP9511
+	2014 S1 COMP9024
+	2014 S1 COMP9331
+	2014 S1 COMP9414
+	2014 S1 GSOE9820
+	2014 S2 COMP4418
+	2014 S2 COMP9032
+	2014 S2 COMP9041
+	2014 S2 COMP9161
+favourite_movies:
+	X-Men: Days of Future Past
+	The Karate Kid
+	The Da Vinci Code
+	Finding Nemo
+	Pirates of the Caribbean: Dead Man's Chest
+	The Lord of the Rings: The Fellowship of the Ring
+username:
+	SillyBoy18

@@ -1,0 +1,77 @@
+favourite_hobbies:
+	Baton twirling
+	Brazilian jiu-jitsu
+	Gambling
+	Net Ball
+	Frisbee
+email:
+	P.Labelle@ugrad.unsw.edu.au
+birthdate:
+	1944/05/24
+favourite_books:
+	Harry Potter and the Half-Blood Prince
+favourite_bands:
+	John Newman
+	Lana Del Rey
+	Lorde
+	Empire of the Sun
+	MS MR
+	Flight Facilities
+	Remi
+courses:
+	2012 S1 COMP1927
+	2012 S1 ENGG1000
+	2012 S1 MATH1081
+	2012 S1 MATH1131
+	2012 S2 COMP2041
+	2012 S2 COMP2121
+	2012 S2 MATH1231
+	2013 S1 ARTS1630
+	2013 S1 COMP3411
+	2013 S1 COMP3821
+	2013 S1 COMP9447
+	2013 S2 ARTS1631
+	2013 S2 COMP3431
+	2014 S1 COMP3131
+	2014 S1 COMP3891
+	2014 S1 COMP4431
+	2014 S1 COMP9417
+	2014 S2 COMP3601
+	2014 S2 COMP4920
+	2014 S2 COMP6771
+	2011 S1 COMP1917
+weight:
+	57kg
+favourite_TV_shows:
+	Love Child
+	Seinfeld
+	Please Like Me
+	Doctor Who
+	The Walking Dead
+	Game of Thrones
+	Miss Fisher's Murder Mysteries
+	The Lost World
+degree:
+	Electrical Engineering
+height:
+	1.66m
+hair_colour:
+	black
+favourite_movies:
+	Spider-Man 2
+	Ice Age: Dawn of the Dinosaurs
+	Pirates of the Caribbean: At World's End
+	Despicable Me
+	Quantum of Solace
+	The Twilight Saga: Eclipse
+	Rio 2
+	Shrek the Third
+	Pirates of the Caribbean: The Curse of the Black Pearl
+gender:
+	female
+password:
+	scooby
+username:
+	CuteGenius15
+name:
+	Patti Labelle

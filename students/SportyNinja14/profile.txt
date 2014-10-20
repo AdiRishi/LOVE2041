@@ -1,0 +1,45 @@
+favourite_books:
+	The Thorn Birds
+	Peter Rabbit
+favourite_TV_shows:
+	Vikings
+	Sons of Anarchy
+	Breaking Bad
+	Dexter
+	Game of Thrones
+	Hamish & Andy's Gap Year Asia
+	Under The Dome
+	Friends
+	South Park
+	Teen Mom
+username:
+	SportyNinja14
+favourite_movies:
+	Transformers
+	Fast & Furious 6
+	Harry Potter and the Chamber of Secrets
+	Harry Potter and the Order of the Phoenix
+	Star Wars: Episode II - Attack of the Clones
+	Avatar
+	The Twilight Saga: Breaking Dawn Part 2
+	Tron Legacy
+favourite_hobbies:
+	Drawing
+	Pottery
+	Web surfing
+gender:
+	male
+birthdate:
+	1965/03/28
+email:
+	F.P.Roque@ugrad.unsw.edu.au
+hair_colour:
+	black
+weight:
+	68kg
+name:
+	Felipe Perez Roque
+height:
+	1.77m
+password:
+	chris

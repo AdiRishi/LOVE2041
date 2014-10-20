@@ -1,0 +1,42 @@
+courses:
+	2014 S2 COMP9021
+	2014 S2 COMP9511
+	2014 S2 GSOE9820
+degree:
+	Computer Science
+favourite_hobbies:
+	Sculpting
+	Board sports
+	Rock climbing
+	Puzzles
+favourite_books:
+	Think and Grow Rich
+	Love Story
+	Harry Potter and the Philosopher's Stone
+	The Lord of the Rings
+	What to Expect When You're Expecting
+	Dirk Pitt
+	A Tale of Two Cities
+	Jaws
+	The Good Soldier
+favourite_movies:
+	Titanic
+name:
+	Cameron Diaz
+favourite_bands:
+	Karnivool
+	Busta Rhymes
+weight:
+	61kg
+email:
+	C.Diaz@ugrad.unsw.edu.au
+gender:
+	female
+username:
+	PrettyTiger53
+birthdate:
+	1972/08/30
+password:
+	gators
+hair_colour:
+	black

@@ -1,0 +1,64 @@
+height:
+	1.71m
+favourite_movies:
+	Finding Nemo
+	Madagascar: Escape 2 Africa
+	The Lord of the Rings: The Return of the King
+	2012
+	Brave
+	Transformers: Age of Extinction
+	Spider-Man 3
+	Men in Black
+favourite_bands:
+	Robert DeLong
+	Foals
+	London Grammar
+	Goldroom
+	Violent Soho
+	John Butler Trio
+	Thundamentals
+degree:
+	Software Engineering
+favourite_hobbies:
+	Frisbee
+	Rugby
+	Watching Sports
+	Playing Cards
+	Homebrewing
+	RC cars
+	Modelling
+	Skiing
+	Knitting
+name:
+	Rebecca Romijn-Stamos
+favourite_books:
+	Tuesdays with Morrie
+	Alex Cross
+	And Then There Were None
+	The Pillars of the Earth
+	The Shack
+	Maisy
+	The Great Gatsby
+	The Hitchhiker's Guide to the Galaxy
+	The Da Vinci Code
+	Think and Grow Rich
+password:
+	sophie
+username:
+	DreamNerd35
+email:
+	R.Romijn-Stamos@ugrad.unsw.edu.au
+gender:
+	female
+courses:
+	2014 S1 COMP9021
+	2014 S1 COMP9311
+	2014 S1 COMP9414
+	2014 S1 COMP9441
+	2014 S2 COMP9024
+	2014 S2 COMP9041
+	2014 S2 GSOE9820
+hair_colour:
+	blonde
+birthdate:
+	1972/11/06

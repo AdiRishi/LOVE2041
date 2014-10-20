@@ -1,0 +1,57 @@
+birthdate:
+	1975/12/30
+courses:
+	2014 S1 ELEC1112
+	2014 S1 ELEC2141
+	2014 S1 MATH1141
+	2014 S1 PHYS1131
+	2014 S2 COMP1927
+	2014 S2 ENGG1000
+	2014 S2 MATH1241
+	2014 S2 PHYS1231
+	2012 S1 COMP1917
+favourite_books:
+	The Shack
+	The Tale of Peter Rabbit
+	Heidi's Years of Learning and Travel
+favourite_movies:
+	Despicable Me 2
+	The Lion King
+favourite_TV_shows:
+	Hemlock Grove
+	A Country Practice
+	Underbelly Squizzy launch
+	Teen Mom
+	Nowhere Boys
+	Boardwalk Empire
+	Friends
+	Family Guy
+	Doctor Who
+gender:
+	male
+password:
+	winter
+hair_colour:
+	black
+height:
+	1.75m
+favourite_hobbies:
+	Baton twirling
+	Dance
+	Hooping
+	Rugby
+weight:
+	62kg
+degree:
+	Digital Media
+email:
+	T.Woods@ugrad.unsw.edu.au
+favourite_bands:
+	Childish Gambino
+	Fatboy Slim & Riva Starr
+	Something for Kate
+	Haim
+name:
+	Tiger Woods
+username:
+	CuteMan46

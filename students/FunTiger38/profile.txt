@@ -1,0 +1,84 @@
+favourite_hobbies:
+	Shell scripting
+	Perl programming
+	Bird watching
+	Vehicle restoration
+	Traveling
+	Knitting
+	Playing Music
+	Table football
+	Relaxing
+hair_colour:
+	blonde
+gender:
+	male
+favourite_movies:
+	X-Men: First Class
+	Snow White and the Huntsman
+	Wreck-It Ralph
+password:
+	firebird
+birthdate:
+	1955/01/18
+courses:
+	2011 S2 CVEN1701
+	2011 S2 ENGG1000
+	2011 S2 MATH1131
+	2011 S2 PHYS1121
+	2012 X1 ECON1101
+	2012 X1 MATH1231
+	2012 S1 CHEM1011
+	2012 S1 COMP1917
+	2012 S2 COMP1927
+	2012 S2 MATH2400
+	2012 S2 MATH2859
+	2012 S2 SENG1031
+	2013 S1 COMP2111
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 SENG2011
+	2013 S2 COMP2041
+	2013 S2 COMP3311
+	2013 S2 COMP3331
+	2013 S2 SENG2021
+	2014 S1 COMP3131
+	2014 S1 COMP3141
+	2014 S1 COMP9321
+	2014 S1 SENG3011
+	2014 S2 COMP3421
+	2014 S2 COMP3511
+	2014 S2 COMP4920
+	2014 S2 SENG4910
+weight:
+	75kg
+height:
+	1.76m
+favourite_TV_shows:
+	The Simpsons
+	Game of Thrones
+	NCIS
+	Wentworth
+username:
+	FunTiger38
+degree:
+	Engineering / Arts
+favourite_books:
+	Goodnight Moon
+	Peyton Place
+	Virgin Soil Upturned
+	The Power of Positive Thinking
+	The Girl with the Dragon Tattoo
+	Harry Potter and the Philosopher's Stone
+	The Alchemist
+name:
+	Kevin Costner
+favourite_bands:
+	Fatboy Slim & Riva Starr
+	Robert DeLong
+	SAFIA
+	Dustin Tebbutt
+	Haim
+	The Preatures
+	Busta Rhymes
+email:
+	K.Costner@ugrad.unsw.edu.au

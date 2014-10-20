@@ -1,0 +1,55 @@
+password:
+	golden
+name:
+	Gloria Macapagal Arroyo
+favourite_hobbies:
+	Acting
+	Sand castle building
+	Mountain biking
+	Crafts
+birthdate:
+	1947/04/05
+favourite_books:
+	The Ginger Man
+	The Lion, the Witch and the Wardrobe
+	Harry Potter and the Half-Blood Prince
+	Harry Potter and the Chamber of Secrets
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+	2014 S2 COMP9511
+gender:
+	female
+favourite_movies:
+	Captain America: The Winter Soldier
+favourite_TV_shows:
+	The Black Adder
+	American Dad
+	How I Met Your Mother
+	Sunday Night
+	Please Like Me
+	Boardwalk Empire
+	H2O: Just Add Water
+	Orphan Black
+	American Horror Story
+	Sons of Anarchy
+username:
+	HotAngel63
+height:
+	1.72m
+degree:
+	Study Abroad Program
+hair_colour:
+	brown
+favourite_bands:
+	John Butler Trio
+	Flight Facilities
+	Big Scary
+	Haim
+	Dillon Francis
+	Lorde
+	The Amity Affliction
+	Horrorshow
+email:
+	G.M.Arroyo@ugrad.unsw.edu.au

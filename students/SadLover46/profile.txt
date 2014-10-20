@@ -1,0 +1,44 @@
+favourite_hobbies:
+	Hooping
+	Exercise
+	Modelling
+weight:
+	76kg
+gender:
+	male
+email:
+	G.Schroeder@ugrad.unsw.edu.au
+favourite_books:
+	She: A History of Adventure
+	Clifford the Big Red Dog
+	Flowers in the Attic
+name:
+	Gerhard Schroeder
+favourite_movies:
+	The Matrix Reloaded
+favourite_TV_shows:
+	Seinfeld
+	Dexter
+	Miss Fisher's Murder Mysteries
+degree:
+	Information Technology
+height:
+	1.72m
+favourite_bands:
+	Lana Del Rey
+password:
+	jeremy
+hair_colour:
+	black
+username:
+	SadLover46
+courses:
+	2014 S1 COMP1917
+	2014 S1 MATH1151
+	2014 S1 PHYS1141
+	2014 S1 SCIF1121
+	2014 S2 COMP1917
+	2014 S2 PHYS1160
+	2014 S2 PHYS1241
+birthdate:
+	1944/04/07

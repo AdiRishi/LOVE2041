@@ -1,0 +1,59 @@
+favourite_hobbies:
+	Acting
+	Taxidermy
+favourite_bands:
+	The Wombats
+	Robert DeLong
+	SAFIA
+	Rudimental
+	Foals
+	Disclosure
+	Kingswood
+	San Cisco
+	Thundamentals
+	Queens of the Stone Age
+gender:
+	female
+height:
+	1.68m
+name:
+	Princess Caroline
+courses:
+	2014 S1 ENGG1000
+	2014 S1 MATH1141
+	2014 S1 MATS1101
+	2014 S2 CEIC1000
+	2014 S2 COMP1917
+	2014 S2 MATH1241
+	2014 S2 MMAN1300
+hair_colour:
+	brown
+degree:
+	Information Technology
+password:
+	joseph
+email:
+	P.Caroline@ugrad.unsw.edu.au
+favourite_books:
+	How the Steel Was Tempered
+	Harry Potter and the Chamber of Secrets
+	Bridget Jones
+	Anne of Green Gables
+	The Secret
+	Junie B. Jones
+	The Ginger Man
+	Follow Your Heart
+birthdate:
+	28/02/1986
+favourite_TV_shows:
+	The Secret Life of Us
+	Please Like Me
+	Wentworth
+	Secrets & Lies
+	The Simpsons
+	MASH
+	Packed To The Rafters
+username:
+	SadBaby64
+weight:
+	60kg

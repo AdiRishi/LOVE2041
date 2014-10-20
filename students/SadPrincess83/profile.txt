@@ -1,0 +1,49 @@
+hair_colour:
+	brown
+weight:
+	59kg
+gender:
+	female
+password:
+	player
+degree:
+	Computer Science
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+favourite_books:
+	Your Erroneous Zones
+	Redwall
+height:
+	1.66m
+birthdate:
+	1940/03/26
+favourite_TV_shows:
+	American Horror Story
+	Dexter
+	Prisoner
+	Breaking Bad
+	Under the Dome
+	Sons of Anarchy
+	Falling Skies
+	South Park
+	A Place To Call Home
+favourite_hobbies:
+	Leather crafting
+	Magic
+username:
+	SadPrincess83
+favourite_bands:
+	Max Frost
+	Robert DeLong
+	Chet Faker
+	The Kite String Tangle
+	Busta Rhymes
+	Grouplove
+	Thundamentals
+	Dustin Tebbutt
+email:
+	N.Pelosi@ugrad.unsw.edu.au
+name:
+	Nancy Pelosi

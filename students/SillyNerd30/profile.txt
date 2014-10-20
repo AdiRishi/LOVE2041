@@ -1,0 +1,85 @@
+degree:
+	Information Technology
+gender:
+	female
+birthdate:
+	1969/09/09
+favourite_books:
+	Divine Comedy
+password:
+	fishing
+hair_colour:
+	black
+favourite_hobbies:
+	Relaxing
+	Watching Sports
+	Entertaining
+	Kiteboarding
+	Judo
+	Golf
+	Boating
+	Working on Cars
+	Beekeeping
+	Crocheting
+username:
+	SillyNerd30
+height:
+	1.59m
+favourite_movies:
+	Harry Potter and the Goblet of Fire
+	Avatar
+favourite_bands:
+	James Blake
+	Violent Soho
+	SAFIA
+	Matt Corby
+	Boy & Bear
+favourite_TV_shows:
+	Jonah from Tonga
+	The Doctor Blake Mysteries
+	Underbelly Squizzy launch
+	Orphan Black
+	Prisoner
+weight:
+	51kg
+courses:
+	2007 S1 BABS1201
+	2007 S1 CHEM1011
+	2007 S1 HPSC1100
+	2007 S1 PSYC1001
+	2007 S2 HPSC1200
+	2007 S2 PHIL1011
+	2007 S2 PSYC1011
+	2008 S1 GENL1061
+	2008 S1 HPSC2610
+	2008 S1 PSYC2001
+	2008 S1 PSYC2061
+	2008 S2 HPSC2630
+	2008 S2 HPSC2665
+	2008 S2 PSYC2071
+	2008 S2 PSYC2101
+	2009 S1 PSYC2081
+	2009 S1 PSYC3001
+	2009 S1 PSYC3311
+	2009 S2 PSYC3011
+	2009 S2 PSYC3121
+	2009 S2 PSYC3201
+	2010 S1 ARTS2300
+	2010 S1 HPSC3200
+	2010 S1 PSYC3241
+	2010 S2 GENS4008
+	2010 S2 GENS4010
+	2011 S1 ARTS3303
+	2011 S1 COMP1917
+	2011 S2 ARTS3300
+	2011 S2 GENE7801
+	2011 S2 GENT0911
+	2013 S1 COMP9021
+	2013 S1 COMP9311
+	2013 S2 COMP9024
+	2013 S2 COMP9032
+	2014 S2 COMP9024
+email:
+	R.Hunter@ugrad.unsw.edu.au
+name:
+	Rachel Hunter

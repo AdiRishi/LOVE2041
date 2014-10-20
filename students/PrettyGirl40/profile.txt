@@ -1,0 +1,57 @@
+password:
+	morgan
+courses:
+	2014 S1 COMP9021
+	2014 S1 COMP9311
+	2014 S1 COMP9441
+	2014 S2 COMP9021
+	2014 S2 COMP9032
+favourite_movies:
+	Marvel's The Avengers
+	Grown Ups
+	The Twilight Saga: Breaking Dawn Part 1
+	Madagascar: Escape 2 Africa
+email:
+	A.Huffington@ugrad.unsw.edu.au
+degree:
+	Computer Engineering
+gender:
+	female
+birthdate:
+	1950/07/15
+name:
+	Arianna Huffington
+favourite_bands:
+	Boy & Bear
+	The Kite String Tangle
+	Two Door Cinema Club
+	Foals
+weight:
+	64kg
+favourite_TV_shows:
+	Blue Heelers
+	The Walking Dead
+	True Detective
+	Family Guy
+	Doctor Who
+hair_colour:
+	red
+username:
+	PrettyGirl40
+height:
+	1.66m
+favourite_books:
+	Think and Grow Rich
+	Virgin Soil Upturned
+	Harry Potter and the Goblet of Fire
+favourite_hobbies:
+	Australian Football League
+	Computer Games
+	Relaxing
+	Seashell collecting
+	Coding
+	Walking
+	Modelling
+	LARPing
+	Photography
+	Bicycling

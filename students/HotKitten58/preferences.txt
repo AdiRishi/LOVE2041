@@ -1,0 +1,14 @@
+hair_colours:
+	red
+height:
+	min:
+		1.61m
+	max:
+		1.86m
+gender:
+	male
+age:
+	min:
+		18
+	max:
+		29

@@ -1,0 +1,57 @@
+name:
+	Sadie Frost
+hair_colour:
+	black
+favourite_books:
+	Brain Quest series
+	Alex Cross
+	Eye of the Needle
+	No Longer Human
+	Totto-chan, the Little Girl at the Window
+	A Message to Garcia
+	Millennium Trilogy
+	Gone with the Wind
+	Harry Potter and the Order of the Phoenix
+favourite_TV_shows:
+	The Block Sky High
+	A Place to Call Home
+	Futurama
+	American Horror Story
+	Orphan Black
+	Camp
+	Teen Mom
+favourite_hobbies:
+	Cubing
+	Bird watching
+	Digital arts
+	BASE jumping
+	Field Hockey
+weight:
+	63kg
+height:
+	1.71m
+favourite_bands:
+	Birds of Tokyo
+	Daft Punk
+	Goldroom
+	Flume & Chet Faker
+	Matt Corby
+	Lana Del Rey
+birthdate:
+	1965/06/19
+password:
+	sexsex
+email:
+	S.Frost@ugrad.unsw.edu.au
+username:
+	SportyStar55
+gender:
+	female
+favourite_movies:
+	Life of Pi
+	Spider-Man 3
+	Mamma Mia!
+	Neighbors
+	Hancock
+	Transformers
+	Harry Potter and the Chamber of Secrets

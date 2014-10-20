@@ -1,0 +1,60 @@
+degree:
+	Architectural Computing
+birthdate:
+	1971/08/12
+favourite_TV_shows:
+	Orphan Black
+	All Saints
+	Sea Patrol
+	Rush
+	American Dad
+	Ja'mie: Private School Girl
+	South Park
+favourite_movies:
+	Harry Potter and the Philosopher's Stone
+	The Lord of the Rings: The Two Towers
+	Ice Age: Dawn of the Dinosaurs
+	Pirates of the Caribbean: At World's End
+	Skyfall
+	Mamma Mia!
+	Star Wars: Episode III - Revenge of the Sith
+	Teenage Mutant Ninja Turtles
+	Spider-Man 3
+username:
+	SillyBadboy18
+courses:
+	2013 S1 COFA1001
+	2013 S1 COMP1917
+	2013 S1 MATH1131
+	2013 S1 SOMA1001
+	2013 S2 COFA1002
+	2013 S2 COMP1927
+	2013 S2 MATH1231
+	2013 S2 SOMA1002
+	2014 S1 COMP2121
+	2014 S1 MATH1081
+	2014 S1 SAHT1101
+	2014 S1 SOMA2412
+	2014 S2 COMP2041
+	2014 S2 COMP3331
+email:
+	P.Sampras@ugrad.unsw.edu.au
+hair_colour:
+	brown
+gender:
+	male
+favourite_books:
+	Virgin Soil Upturned
+favourite_hobbies:
+	Writing
+	Football
+name:
+	Pete Sampras
+favourite_bands:
+	Grouplove
+	Arctic Monkeys
+	Fatboy Slim & Riva Starr
+password:
+	melissa
+height:
+	1.80m

@@ -1,0 +1,62 @@
+name:
+	Intisar Ajouri
+birthdate:
+	3100/01/01
+favourite_hobbies:
+	Pigeon racing
+	Baton twirling
+	Ghost Hunting
+	Frisbee
+username:
+	RomanticLover53
+weight:
+	55kg
+courses:
+	2013 S1 COFA1001
+	2013 S1 SART1001
+	2013 S2 COFA1002
+	2013 S2 SAHT1102
+	2013 S2 SART1002
+	2013 S2 SART1502
+	2014 S1 ARCH1101
+	2014 S1 BENV1042
+	2014 S1 BENV2428
+	2014 S2 ARCH1162
+	2014 S2 ARCH1390
+	2014 S2 BENV2423
+	2014 S2 COMP1400
+favourite_books:
+	The Exorcist
+	To Kill a Mockingbird
+	The Wheel of Time
+	The Plague
+hair_colour:
+	black
+favourite_bands:
+	John Newman
+	London Grammar
+	Violent Soho
+height:
+	1.67m
+favourite_movies:
+	Ice Age: Dawn of the Dinosaurs
+	Captain America: The First Avenger
+	Harry Potter and the Order of the Phoenix
+	Harry Potter and the Half-Blood Prince
+	Pirates of the Caribbean: The Curse of the Black Pearl
+	Rio
+	Indiana Jones and the Kingdom of the Crystal Skull
+	Jurassic Park
+password:
+	rock
+favourite_TV_shows:
+	The Blacklist
+	Underbelly
+	Under The Dome
+	Old School
+degree:
+	Information Technology
+gender:
+	female
+email:
+	I.Ajouri@ugrad.unsw.edu.au

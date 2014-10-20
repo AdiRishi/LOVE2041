@@ -1,0 +1,50 @@
+birthdate:
+	1953/06/21
+username:
+	SadPrincess44
+password:
+	theman
+favourite_bands:
+	Arcade Fire
+	John Newman
+	Cloud Control
+hair_colour:
+	red
+degree:
+	Information Technology
+gender:
+	female
+favourite_hobbies:
+	Book collecting
+	Taxidermy
+	Dance
+	Electronics
+	Gaming
+	Perl programming
+	Shell scripting
+name:
+	Benazir Bhutto
+email:
+	B.Bhutto@ugrad.unsw.edu.au
+height:
+	1.61m
+favourite_books:
+	A Tale of Two Cities
+	Heidi's Years of Learning and Travel
+	To Kill a Mockingbird
+	The Wheel of Time
+	The Adventures of Huckleberry Finn
+favourite_movies:
+	Quantum of Solace
+	Captain America: The Winter Soldier
+	Transformers: Dark of the Moon
+	Iron Man 2
+	E.T.: The Extra-Terrestrial
+	Harry Potter and the Deathly Hallows Part 2
+	Gravity
+courses:
+	2014 S2 FINS2624
+	2014 S2 FINS3635
+	2014 S2 MATH3841
+weight:
+	64kg

@@ -1,0 +1,59 @@
+hair_colour:
+	red
+degree:
+	Study Abroad Program
+name:
+	Hugo Chavez
+favourite_TV_shows:
+	Wonderland
+	Hemlock Grove
+	South Park
+	Offspring
+	Dancing With The Stars
+	How I Met Your Mother
+	Farscape
+courses:
+	2014 S2 ARTS1062
+	2014 S2 ARTS1811
+	2014 S2 COMP3511
+	2014 S2 MGMT2010
+favourite_bands:
+	Empire of the Sun
+	John Butler Trio
+	Busta Rhymes
+	The Preatures
+gender:
+	male
+favourite_books:
+	The Outsiders
+	Little House on the Prairie
+	Millennium Trilogy
+	The Vampire Chronicles
+	How to Win Friends and Influence People
+	Uncle Styopa
+	Fifty Shades of Grey
+	Rainbow Fish
+	Love Story
+email:
+	H.Chavez@ugrad.unsw.edu.au
+username:
+	SillyDude44
+weight:
+	67kg
+password:
+	orange
+birthdate:
+	1954/07/28
+favourite_movies:
+	Iron Man 2
+	The Twilight Saga: Breaking Dawn Part 1
+	The Sixth Sense
+	Shrek Forever After
+	The Fault in our Stars
+	Spider-Man
+	Finding Nemo
+	Forrest Gump
+	Pirates of the Caribbean: On Stranger Tides
+	Harry Potter and the Order of the Phoenix
+favourite_hobbies:
+	Crocheting

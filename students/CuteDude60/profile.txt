@@ -1,0 +1,50 @@
+favourite_TV_shows:
+	Home and Away
+	Old School
+	Packed to the Rafters
+	Under the Dome
+	Utopia
+	Teen Mom
+	Offspring
+	Wentworth
+favourite_bands:
+	The Jezabels
+	Chvrches
+	Kanye West
+	Illy
+hair_colour:
+	brown
+username:
+	CuteDude60
+password:
+	prince
+height:
+	1.74m
+gender:
+	male
+weight:
+	73kg
+favourite_books:
+	What Color is Your Parachute?
+	The Poky Little Puppy
+	The Neverending Story
+	The Women's Room
+favourite_movies:
+	Titanic
+	Pirates of the Caribbean: At World's End
+	Harry Potter and the Prisoner of Azkaban
+	Ratatouille
+	Tron Legacy
+	Jurassic Park
+email:
+	G.Carter@ugrad.unsw.edu.au
+name:
+	Gary Carter
+favourite_hobbies:
+	Bridge
+	Golf
+	Cooking
+	Baton Twirling
+	Disc golf
+birthdate:
+	07/01/1994

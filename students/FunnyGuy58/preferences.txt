@@ -1,0 +1,16 @@
+gender:
+	female
+hair_colours:
+	red
+	brown
+	blonde
+weight:
+	min:
+		45kg
+	max:
+		67kg
+height:
+	min:
+		1.4m
+	max:
+		1.68m

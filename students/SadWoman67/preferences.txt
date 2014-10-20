@@ -1,0 +1,19 @@
+gender:
+	male
+age:
+	min:
+		18
+	max:
+		22
+weight:
+	min:
+		60kg
+	max:
+		73kg
+hair_colours:
+	blonde
+height:
+	min:
+		1.66m
+	max:
+		1.82m

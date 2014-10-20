@@ -1,0 +1,66 @@
+password:
+	michael
+courses:
+	2013 S1 COMP1927
+	2013 S1 COMP2121
+	2013 S1 COMP3411
+	2013 S1 MATH1081
+	2013 S2 COMP2041
+	2013 S2 COMP3311
+	2013 S2 COMP4920
+	2013 S2 COMP9444
+	2014 S1 COMP2911
+	2014 S1 COMP3821
+	2014 S1 COMP3891
+	2014 S1 COMP4128
+	2014 S2 COMP3431
+	2014 S2 COMP4121
+	2014 S2 COMP6741
+	2014 S2 COMP9242
+gender:
+	male
+favourite_hobbies:
+	Traveling
+	Cryptography
+	Writing
+	Handball
+	Walking
+	Perl programming
+	Socializing
+	Going to Movies
+	Auto racing
+birthdate:
+	1957/05/25
+weight:
+	65kg
+name:
+	Alastair Campbell
+height:
+	1.89m
+favourite_bands:
+	Violent Soho
+	Daft Punk
+	Birds of Tokyo
+favourite_TV_shows:
+	Nowhere Boys
+	Futurama
+	Sea Patrol
+username:
+	PrettyNerd16
+email:
+	A.Campbell@ugrad.unsw.edu.au
+favourite_books:
+	The Hitchhiker's Guide to the Galaxy
+	Shogun
+	The Diary of a Young Girl, The Diary of Anne Frank
+	The Hobbit
+	Totto-chan, the Little Girl at the Window
+degree:
+	Software Engineering
+favourite_movies:
+	The Hobbit: The Desolation of Smaug
+	The Twilight Saga: New Moon
+	The Da Vinci Code
+	X-Men: Days of Future Past
+hair_colour:
+	black

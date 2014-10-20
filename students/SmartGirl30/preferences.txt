@@ -1,0 +1,15 @@
+hair_colours:
+	black
+	blonde
+age:
+	min:
+		18
+	max:
+		22
+height:
+	min:
+		1.2m
+	max:
+		1.64m
+gender:
+	male

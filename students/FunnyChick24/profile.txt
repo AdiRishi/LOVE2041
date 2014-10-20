@@ -1,0 +1,54 @@
+favourite_bands:
+	Remi
+	Flume & Chet Faker
+username:
+	FunnyChick24
+favourite_TV_shows:
+	Wentworth
+	Lightning Point
+	American Dad
+	Mako: Island of Secrets
+	Packed to the Rafters
+	Vikings
+	Breaking Bad
+height:
+	1.68m
+name:
+	Madonna
+favourite_movies:
+	The Hunger Games: Catching Fire
+	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+	Thor: The Dark World
+	The Lord of the Rings: The Two Towers
+courses:
+	2014 S1 ENGG1000
+	2014 S1 MATH1081
+	2014 S1 MATH1131
+	2014 S2 COMP2041
+	2014 S2 GENS9005
+	2014 S2 MATH1231
+birthdate:
+	15/05/1976
+email:
+	Madonna@ugrad.unsw.edu.au
+hair_colour:
+	brown
+degree:
+	Chemical Engineering
+favourite_books:
+	Flowers in the Attic
+	Kane and Abel
+	The Lord of the Rings
+	Santa Evita
+	The Ginger Man
+	Kaiketsu Zorori
+	The Vampire Chronicles
+	The Hobbit
+password:
+	tennis
+favourite_hobbies:
+	Net Ball
+	Mushroom Hunting
+	Stand-Up Comedy
+gender:
+	female

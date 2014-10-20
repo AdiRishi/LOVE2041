@@ -1,0 +1,53 @@
+favourite_movies:
+	Jurassic Park
+favourite_hobbies:
+	Insect collecting
+	Lego Building
+	Yo-yoing
+hair_colour:
+	black
+password:
+	einstein
+birthdate:
+	1957/11/27
+email:
+	C.Kennedy@ugrad.unsw.edu.au
+favourite_TV_shows:
+	Dexter
+	Futurama
+	Homeland
+	The Black Adder
+username:
+	FunGirl32
+favourite_books:
+	No Longer Human
+	Star Wars
+	The Thorn Birds
+	The Adventures of Pinocchio
+	Martine
+	Where's Wally?
+	The Alchemist
+courses:
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+	2014 S2 COMP9511
+	2014 S2 GSOE9820
+name:
+	Caroline Kennedy
+gender:
+	female
+favourite_bands:
+	Sticky Fingers
+	The Kite String Tangle
+	Rudimental
+	Lana Del Rey
+	John Newman
+	Josh Pyke
+	The Preatures
+	Major Lazer
+weight:
+	64kg
+degree:
+	Information Technology
+height:
+	1.84m

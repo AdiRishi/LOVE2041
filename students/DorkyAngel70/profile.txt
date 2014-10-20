@@ -1,0 +1,75 @@
+favourite_movies:
+	The Sixth Sense
+height:
+	1.56m
+birthdate:
+	1947/12/23
+name:
+	Kwon Yang-sook
+favourite_hobbies:
+	Debugging
+password:
+	beer
+hair_colour:
+	blonde
+courses:
+	2009 S1 COMP1917
+	2009 S1 ENGG1000
+	2009 S1 MATH1131
+	2009 S1 PHYS1131
+	2009 S2 COMP1927
+	2009 S2 ELEC1111
+	2009 S2 MATH1231
+	2009 S2 PHYS1231
+	2010 X1 MATH1231
+	2010 S1 COMP1927
+	2010 S1 MATH2069
+	2010 S2 COMP2911
+	2011 X1 PHYS1221
+	2011 S1 ARTS2366
+	2011 S1 COMP2911
+	2011 S2 COMP3222
+	2011 S2 MATH2099
+	2012 S1 COMP2121
+	2012 S1 COMP3211
+	2012 S1 ELEC2134
+	2012 S1 PHYS1160
+	2012 S2 MATH2099
+	2013 S1 COMP3231
+	2013 S1 COMP3331
+	2013 S2 MATH2099
+	2014 S1 ELEC2134
+	2014 S2 COMP3421
+	2014 S2 MATH2099
+email:
+	K.Yang-sook@ugrad.unsw.edu.au
+degree:
+	Software Engineering
+favourite_bands:
+	Touch Sensitive
+	Vance Joy
+favourite_TV_shows:
+	The Elephant Princess
+	American Horror Story
+	New Tricks
+	Upper Middle Bogan
+	True Blood
+	South Park
+	The Code
+	Terra Nova
+gender:
+	female
+favourite_books:
+	The Young Guard
+	The Hunger Games
+	The Ginger Man
+	Man's Search for Meaning
+	The Purpose Driven Life
+	The Gospel According to Peanuts
+	Flowers in the Attic
+	What to Expect When You're Expecting
+	The Total Woman
+weight:
+	62kg
+username:
+	DorkyAngel70

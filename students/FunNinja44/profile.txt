@@ -1,0 +1,75 @@
+degree:
+	Computer Science and Eng
+favourite_hobbies:
+	Magic
+courses:
+	2011 S1 COMP1917
+	2011 S1 INFS1603
+	2011 S1 MATH1081
+	2011 S1 MATH1131
+	2011 S2 INFS2603
+	2011 S2 SENG1031
+	2012 S1 COMP2111
+	2012 S1 COMP2911
+	2012 S1 COMP3711
+	2012 S1 SENG2010
+	2012 S2 ARTS1453
+	2012 S2 COMP2121
+	2012 S2 GENC3004
+	2012 S2 SENG2020
+	2013 S1 ARTS2461
+	2013 S1 COMP3141
+	2013 S1 COMP3891
+	2013 S1 SENG3011
+	2013 S2 ARTS2462
+	2013 S2 COMP3171
+	2013 S2 COMP3311
+	2013 S2 COMP3331
+	2014 S1 COMP3121
+	2014 S1 COMP3141
+	2014 S1 COMP3411
+	2014 S1 COMP3441
+	2014 S2 COMP9315
+	2014 S2 COMP9321
+	2014 S2 COMP9336
+	2014 S2 COMP9415
+birthdate:
+	1964/09/04
+height:
+	1.73m
+email:
+	S.Lavin@ugrad.unsw.edu.au
+favourite_bands:
+	Touch Sensitive
+	The National
+	The Preatures
+name:
+	Steve Lavin
+weight:
+	71kg
+gender:
+	male
+favourite_movies:
+	Captain America: The First Avenger
+	Pirates of the Caribbean: At World's End
+	Star Wars: Episode I - The Phantom Menace
+password:
+	hardcore
+hair_colour:
+	black
+favourite_TV_shows:
+	True Detective
+	Dance Academy
+	The Lost World
+	Old School
+	Suits
+	Modern Family
+	Friends
+	Falling Skies
+	The Slap
+username:
+	FunNinja44
+favourite_books:
+	The Late, Great Planet Earth
+	Men Are from Mars, Women Are from Venus
+	Kon-Tiki: Across the Pacific in a Raft

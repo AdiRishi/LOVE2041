@@ -1,0 +1,64 @@
+email:
+	G.Papandreou@ugrad.unsw.edu.au
+password:
+	batman
+favourite_movies:
+	The Incredibles
+	Up
+	Finding Nemo
+	Spider-Man
+	Harry Potter and the Deathly Hallows Part 1
+	The Matrix Reloaded
+	Django Unchained
+	Star Wars: Episode II - Attack of the Clones
+favourite_bands:
+	Lorde
+	Lana Del Rey
+weight:
+	65kg
+username:
+	SmartBadboy55
+gender:
+	male
+hair_colour:
+	black
+courses:
+	2011 S1 COMP1917
+	2011 S1 MATH1131
+	2011 S1 SOMA1600
+	2011 S1 SOMA1604
+	2011 S2 COMP1927
+	2011 S2 SOMA1608
+	2011 S2 SOMA2602
+	2012 S1 COMP2911
+	2012 S1 SOMA1603
+	2012 S1 SOMA2607
+	2012 S1 SOMA2609
+	2012 S2 COMP2041
+	2012 S2 COMP3421
+	2012 S2 MATH2400
+	2012 S2 MATH2859
+	2013 S1 COMP3441
+	2013 S1 COMP4431
+	2013 S1 SOMA3615
+	2013 S2 COMP3311
+	2013 S2 COMP4920
+	2013 S2 COMP9321
+	2013 S2 SART2832
+	2013 S2 SOMA3801
+	2014 S1 COMP3821
+	2014 S1 COMP9447
+	2014 S1 SOMA3610
+	2014 S1 SOMA3616
+	2014 S2 COMP3511
+favourite_hobbies:
+	Beauty
+	Horseback Riding
+height:
+	1.86m
+degree:
+	Information Technology
+name:
+	George Papandreou
+birthdate:
+	1952/06/16

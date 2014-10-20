@@ -1,0 +1,62 @@
+favourite_TV_shows:
+	Pretty Little Liars
+	The X Factor
+	A Place to Call Home
+	Packed to the Rafters
+	60 Minutes
+	True Blood
+	H2O: Just Add Water
+favourite_bands:
+	Thundamentals
+	Lorde
+courses:
+	2014 S2 COMP9311
+	2014 S2 GSOE9820
+name:
+	Leonardo DiCaprio
+favourite_hobbies:
+	Boating
+	Perl programming
+	Inline Skating
+	Camping
+	Socializing
+	Vintage Books
+favourite_movies:
+	Men in Black
+	The Hunger Games
+	Sherlock Holmes: A Game of Shadows
+	Pirates of the Caribbean: At World's End
+	Inception
+	Mission: Impossible - Ghost Protocol
+	Harry Potter and the Order of the Phoenix
+	Iron Man 3
+	Harry Potter and the Half-Blood Prince
+favourite_books:
+	Charlotte's Web
+	Totto-chan, the Little Girl at the Window
+	The Neverending Story
+	The Happy Hooker: My Own Story
+	The Gospel According to Peanuts
+	Kane and Abel
+	Love Story
+	The Hitchhiker's Guide to the Galaxy
+	Harry Potter and the Chamber of Secrets
+	Love You Forever
+email:
+	L.DiCaprio@ugrad.unsw.edu.au
+degree:
+	Electrical Engineering
+weight:
+	75kg
+password:
+	thunder
+username:
+	HappyBoy73
+height:
+	1.79m
+hair_colour:
+	blonde
+birthdate:
+	1974/11/11
+gender:
+	male

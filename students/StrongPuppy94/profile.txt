@@ -1,0 +1,39 @@
+favourite_TV_shows:
+	Arrow
+	H2O: Just Add Water
+	Underbelly Squizzy launch
+	Family Guy
+	Jonah from Tonga
+hair_colour:
+	brown
+name:
+	Ben Affleck
+favourite_hobbies:
+	Genealogy
+	American football
+	Debate
+password:
+	peanut
+email:
+	B.Affleck@ugrad.unsw.edu.au
+degree:
+	Engineering
+birthdate:
+	1972/08/15
+username:
+	StrongPuppy94
+favourite_bands:
+	Dustin Tebbutt
+	Empire of the Sun
+	Lorde
+favourite_books:
+	Harry Potter
+	The Catcher in the Rye
+	Noddy
+courses:
+	2013 S1 COMP9102
+	2013 S1 COMP9161
+height:
+	1.76m
+gender:
+	male

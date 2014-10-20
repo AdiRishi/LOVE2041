@@ -1,0 +1,59 @@
+courses:
+	2014 S1 COMP1917
+	2014 S1 MATH1131
+	2014 S1 PHYS1131
+	2014 S2 COMP1927
+	2014 S2 ELEC1111
+	2014 S2 MATH1231
+	2014 S2 PHYS1231
+degree:
+	Engineering Science (Ext)
+password:
+	james
+email:
+	B.Walters@ugrad.unsw.edu.au
+favourite_bands:
+	Dillon Francis
+	James Blake
+hair_colour:
+	brown
+favourite_movies:
+	Harry Potter and the Prisoner of Azkaban
+	The Lion King
+	The Hobbit: The Desolation of Smaug
+	The Twilight Saga: Breaking Dawn Part 2
+	Avatar
+birthdate:
+	1929/09/25
+height:
+	1.62m
+name:
+	Barbara Walters
+username:
+	SportyThinker98
+gender:
+	female
+weight:
+	59kg
+favourite_hobbies:
+	Playing Music
+	Hooping
+	Cooking
+	Crafts
+	Deltiology
+favourite_books:
+	The Da Vinci Code
+	Think and Grow Rich
+	Haruhi Suzumiya Series
+	Confucius from the Heart
+	You Can Heal Your Life
+	Nineteen Eighty-Four
+	Kurt Wallander
+	Gone with the Wind
+	Harry Potter and the Goblet of Fire
+	The Hobbit
+favourite_TV_shows:
+	Danger 5
+	The Walking Dead
+	Dexter
+	Homeland

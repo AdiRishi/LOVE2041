@@ -1,0 +1,56 @@
+favourite_books:
+	Onihei Hankach
+	The Shadowhunter Chronicles
+	The Exorcist
+gender:
+	male
+degree:
+	Information Technology
+favourite_movies:
+	Independence Day
+	Kung Fu Panda
+	Guardians of the Galaxy
+	Alice in Wonderland
+	Pirates of the Caribbean: Dead Man's Chest
+	Titanic
+courses:
+	2012 S2 COMP1917
+	2012 S2 ENGG1000
+	2012 S2 MATH1131
+	2012 S2 SENG1031
+	2013 X1 COMP1927
+	2013 S1 COMP1000
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 MATH1081
+	2013 S2 BENV2410
+	2013 S2 COMP2041
+	2013 S2 COMP3311
+	2013 S2 MATH2400
+	2013 S2 MATH2859
+	2014 S1 COMP2111
+	2014 S1 COMP3331
+	2014 S1 PHYS1110
+	2014 S1 SENG2011
+	2014 S2 COMP3421
+	2014 S2 COMP3511
+	2014 S2 COMP9321
+	2014 S2 SENG2021
+password:
+	leather
+favourite_TV_shows:
+	My Kitchen Rules
+email:
+	M.Reichhold@ugrad.unsw.edu.au
+username:
+	SportyPuppy76
+birthdate:
+	2800/01/01
+height:
+	1.75m
+name:
+	Mathias Reichhold
+hair_colour:
+	brown
+weight:
+	79kg

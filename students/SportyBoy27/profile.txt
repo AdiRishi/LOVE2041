@@ -1,0 +1,54 @@
+favourite_hobbies:
+	Sewing
+	Baton Twirling
+username:
+	SportyBoy27
+favourite_books:
+	Lolita
+	And Then There Were None
+	The Late, Great Planet Earth
+	Noddy
+	What to Expect When You're Expecting
+	Pippi Longstocking
+	Problems in China's Socialist Economy
+	The Old Man and the Sea
+degree:
+	Software Engineering
+favourite_bands:
+	Foals
+courses:
+	2014 S1 ACCT1501
+	2014 S1 ECON1101
+	2014 S1 ECON1203
+	2014 S2 COMP1917
+	2014 S2 ECON1102
+weight:
+	65kg
+birthdate:
+	23/11/1972
+height:
+	1.76m
+password:
+	topgun
+name:
+	Nestor Kirchner
+favourite_TV_shows:
+	McLeod's Daughters
+	Bergerac
+	Ocean Girl
+	Underbelly Squizzy launch
+favourite_movies:
+	Shrek the Third
+	Lucy
+	Indiana Jones and the Kingdom of the Crystal Skull
+	Dr. Seuss' The Lorax
+	Despicable Me
+	Hancock
+	Ted
+	Fast & Furious 6
+hair_colour:
+	red
+gender:
+	male
+email:
+	N.Kirchner@ugrad.unsw.edu.au

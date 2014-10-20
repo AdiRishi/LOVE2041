@@ -1,0 +1,59 @@
+favourite_bands:
+	San Cisco
+	Bloc Party
+	Flight Facilities
+	Sticky Fingers
+	Fatboy Slim & Riva Starr
+	Illy
+	Lana Del Rey
+	The Amity Affliction
+	Kanye West
+height:
+	1.66m
+username:
+	DorkyGeek53
+hair_colour:
+	blonde
+favourite_TV_shows:
+	Friends
+	The Slap
+	Downton Abbey
+	The Voice
+	Neighbours
+	Modern Family
+password:
+	summer
+favourite_books:
+	Sweet Valley High
+	The Little Prince
+	The Adventures of Pinocchio
+	The Purpose Driven Life
+	To Kill a Mockingbird
+	Night
+	Dune
+birthdate:
+	1981/12/02
+favourite_movies:
+	The Lord of the Rings: The Two Towers
+	22 Jump Street
+	The Sixth Sense
+	Men in Black
+favourite_hobbies:
+	Flower collecting and pressing
+	Exercise
+	Entertaining
+	Badminton
+	Theater
+	Sailing
+name:
+	Britney Spears
+email:
+	B.Spears@ugrad.unsw.edu.au
+weight:
+	65kg
+courses:
+	2013 S2 COMP9335
+degree:
+	Computer Science
+gender:
+	female

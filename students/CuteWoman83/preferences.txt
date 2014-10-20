@@ -1,0 +1,15 @@
+gender:
+	male
+weight:
+	min:
+		59kg
+	max:
+		72kg
+height:
+	min:
+		1.64m
+	max:
+		1.99m
+hair_colours:
+	red
+	blonde

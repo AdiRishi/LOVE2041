@@ -1,0 +1,52 @@
+username:
+	PrettyGuy19
+name:
+	Heath Ledger
+height:
+	1.87m
+birthdate:
+	1979/04/04
+hair_colour:
+	brown
+gender:
+	male
+degree:
+	Computer Science
+favourite_hobbies:
+	Cricket
+	Paintball
+password:
+	cool
+favourite_bands:
+	Haim
+	Matt Corby
+	Sticky Fingers
+	Lorde
+	Disclosure
+	London Grammar
+	Lana Del Rey
+courses:
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1141
+	2014 S1 PHYS1131
+	2014 S2 ELEC1111
+	2014 S2 MATH1241
+	2014 S2 PHYS1231
+email:
+	H.Ledger@ugrad.unsw.edu.au
+favourite_TV_shows:
+	Vikings
+	Sons of Anarchy
+	True Blood
+	Please Like Me
+	Sunday Night
+favourite_movies:
+	Pirates of the Caribbean: Dead Man's Chest
+	Ice Age: Dawn of the Dinosaurs
+	Pirates of the Caribbean: On Stranger Tides
+	Harry Potter and the Philosopher's Stone
+	Avatar
+	Ice Age: The Meltdown
+	Alvin and the Chipmunks: Chipwrecked
+	Frozen

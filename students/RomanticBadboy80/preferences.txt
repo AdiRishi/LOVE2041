@@ -1,0 +1,4 @@
+hair_colours:
+	black
+gender:
+	female

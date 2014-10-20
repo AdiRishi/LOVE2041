@@ -1,0 +1,84 @@
+favourite_movies:
+	Madagascar 3: Europe's Most Wanted
+	Men in Black
+	Pirates of the Caribbean: The Curse of the Black Pearl
+	Shrek the Third
+	Man of Steel
+	Spider-Man 2
+	Bridesmaids
+	2012
+	The Karate Kid
+favourite_bands:
+	Flight Facilities
+	James Blake
+	Dustin Tebbutt
+	Lana Del Rey
+	Lorde
+	British India
+	Something for Kate
+	Boy & Bear
+username:
+	SadAnimal80
+degree:
+	Mechanical & Manufacturing Eng
+height:
+	1.85m
+email:
+	P.Pettigrew@ugrad.unsw.edu.au
+favourite_TV_shows:
+	Vikings
+	Puberty Blues
+	The Saddle Club
+	Offspring
+	South Park
+	Rush
+weight:
+	66kg
+courses:
+	2012 S1 ENGG1000
+	2012 S1 MATH1131
+	2012 S2 ARTS1010
+	2012 S2 COMP1927
+	2012 S2 MATH1231
+	2012 S2 PHYS1121
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 COMP3411
+	2013 S1 INFS3608
+	2013 S2 COMP2041
+	2014 S1 COMP3821
+	2014 S1 COMP4128
+	2014 S1 COMP9417
+	2014 S2 COMP3421
+	2014 S2 COMP4920
+	2010 S1 COMP1917
+name:
+	Pierre Pettigrew
+favourite_hobbies:
+	Video game collecting
+	Traveling
+	Computer
+	Animal Care
+	Coin collecting
+	Board sports
+	Woodworking
+	Drama
+	Worldbuilding
+	Antiquities
+hair_colour:
+	blonde
+password:
+	women
+birthdate:
+	1951/04/18
+favourite_books:
+	The Bridges of Madison County
+	One Hundred Years of Solitude
+	The Sword of Truth
+	Uncle Styopa
+	Where the Wild Things Are
+	The Old Man and the Sea
+	Life After Life
+	A Brief History of Time
+gender:
+	male

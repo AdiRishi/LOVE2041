@@ -1,0 +1,63 @@
+email:
+	A.Roddick@ugrad.unsw.edu.au
+birthdate:
+	1982/08/30
+password:
+	gunner
+gender:
+	male
+weight:
+	65kg
+degree:
+	Computer Science
+username:
+	FunPuppy79
+favourite_hobbies:
+	Socializing
+	Dowsing
+	Yo-yoing
+favourite_TV_shows:
+	Hemlock Grove
+	The Voice
+	The Block Sky High
+	Old School
+	Terra Nova
+	Homeland
+	Love Child
+name:
+	Andy Roddick
+height:
+	1.73m
+favourite_books:
+	Peyton Place
+	The Women's Room
+	Fear Street
+	How the Steel Was Tempered
+	Peter Rabbit
+favourite_movies:
+	Star Wars: Episode II - Attack of the Clones
+	Titanic
+	The Lost World: Jurassic Park
+	The Twilight Saga: Breaking Dawn Part 1
+courses:
+	2013 S1 ENGG1000
+	2013 S1 MATH1081
+	2013 S1 MATH1141
+	2013 S2 COMP1927
+	2013 S2 MATH2400
+	2013 S2 MATH2859
+	2013 S2 SENG1031
+	2014 S1 COMP2121
+	2014 S1 COMP3891
+	2014 S2 COMP2041
+	2014 S2 COMP3331
+	2014 S2 COMP3421
+	2014 S2 COMP6771
+favourite_bands:
+	Arcade Fire
+	James Blake
+	Matt Corby
+	Disclosure
+	Foals
+hair_colour:
+	black

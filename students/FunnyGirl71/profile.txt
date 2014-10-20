@@ -1,0 +1,66 @@
+favourite_bands:
+	Arctic Monkeys
+	Thundamentals
+	Violent Soho
+	Lana Del Rey
+	Rudimental
+	Illy
+favourite_books:
+	The Baby-sitters Club
+	Paddington Bear
+	The Chronicles of Narnia
+	The Grapes of Wrath
+	Kaiketsu Zorori
+	The Young Guard
+name:
+	Julia Tymoshenko
+favourite_movies:
+	Jurassic Park
+	Shrek Forever After
+weight:
+	59kg
+birthdate:
+	1960/11/27
+courses:
+	2013 S1 ACCT1501
+	2013 S1 INFS1602
+	2013 S1 INFS1603
+	2013 S2 ACCT1511
+	2013 S2 INFS2603
+	2013 S2 MATH1041
+	2014 S1 COMP1917
+	2014 S1 INFS2605
+	2014 S1 MATH1011
+	2014 S2 MATH1131
+favourite_TV_shows:
+	Dexter
+	60 Minutes
+	Hemlock Grove
+	Utopia
+	The Big Bang Theory
+	Boardwalk Empire
+	Underbelly
+gender:
+	female
+favourite_hobbies:
+	Coloring
+	Yoga
+	Driving
+	Sleeping
+	Slacklining
+	Rugby league football
+	Skimboarding
+	Camping
+	Jugger
+password:
+	dolphins
+height:
+	1.65m
+hair_colour:
+	blonde
+email:
+	J.Tymoshenko@ugrad.unsw.edu.au
+degree:
+	Computer Science/Digital Media
+username:
+	FunnyGirl71

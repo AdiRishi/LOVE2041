@@ -1,0 +1,59 @@
+name:
+	Carrie-Anne Moss
+username:
+	FunnyTiger70
+favourite_movies:
+	Harry Potter and the Half-Blood Prince
+	2012
+	The Lion King
+	Star Wars: Episode I - The Phantom Menace
+	The Lord of the Rings: The Return of the King
+	The Twilight Saga: Eclipse
+	How to Train Your Dragon
+	E.T.: The Extra-Terrestrial
+	Independence Day
+courses:
+	2013 S2 COMP6714
+	2013 S2 COMP9321
+	2013 S2 COMP9336
+	2013 S2 GSOE9820
+	2014 S1 COMP9319
+	2014 S1 COMP9332
+	2014 S1 COMP9334
+	2014 S2 COMP9041
+	2014 S2 COMP9315
+favourite_TV_shows:
+	Doctor Who
+	Farscape
+	True Detective
+	H2O: Just Add Water
+gender:
+	female
+hair_colour:
+	red
+favourite_books:
+	Valley of the Dolls
+	Percy Jackson & the Olympians
+	Love You Forever
+	Charlotte's Web
+	OSS 117
+	Wild Swans
+email:
+	Carrie-A.Moss@ugrad.unsw.edu.au
+birthdate:
+	1967/08/21
+weight:
+	60kg
+password:
+	robert
+favourite_hobbies:
+	Movie collecting
+	Going to Movies
+	Board sports
+	Housework
+	Gymnastics
+	Walking
+	Shell scripting
+	Rock stacking
+degree:
+	Information Technology

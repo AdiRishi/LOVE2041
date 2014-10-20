@@ -1,0 +1,43 @@
+password:
+	boston
+favourite_movies:
+	E.T.: The Extra-Terrestrial
+	Independence Day
+	The Twilight Saga: Eclipse
+	Star Wars: Episode III - Revenge of the Sith
+	Spider-Man 2
+	Up
+	Man of Steel
+	Harry Potter and the Prisoner of Azkaban
+	The Lord of the Rings: The Two Towers
+gender:
+	male
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+	2014 S2 COMP9511
+favourite_books:
+	The Purpose Driven Life
+	Brain Quest series
+	Where the Wild Things Are
+degree:
+	Computer Science
+name:
+	Charlton Heston
+favourite_hobbies:
+	Walking
+	Foreign language learning
+	Vintage clothing
+	Stone collecting
+	Horseback Riding
+height:
+	1.79m
+username:
+	FunStar20
+weight:
+	81kg
+birthdate:
+	1923/10/04
+email:
+	C.Heston@ugrad.unsw.edu.au

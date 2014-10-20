@@ -1,0 +1,78 @@
+height:
+	1.74m
+birthdate:
+	17/01/1991
+password:
+	777777
+name:
+	Robert Bonner
+favourite_TV_shows:
+	Underbelly Squizzy launch
+	A Country Practice
+	Miss Fisher's Murder Mysteries
+	American Horror Story
+	MASH
+	Friends
+	Falling Skies
+	The Slap
+	Terra Nova
+favourite_books:
+	The Joy of Sex
+	The Chronicles of Narnia
+	Harry Potter and the Philosopher's Stone
+	Diary of a Wimpy Kid
+favourite_bands:
+	Dustin Tebbutt
+	Flume & Chet Faker
+	Grouplove
+	Sticky Fingers
+	Boy & Bear
+	The Amity Affliction
+	Lana Del Rey
+	Disclosure
+	Two Door Cinema Club
+weight:
+	74kg
+email:
+	R.Bonner@ugrad.unsw.edu.au
+favourite_hobbies:
+	Art collecting
+	Paint Ball
+	Field Hockey
+	Sleeping
+	Perl programming
+	Vehicle restoration
+hair_colour:
+	black
+favourite_movies:
+	Titanic
+	The Hobbit: The Desolation of Smaug
+	Harry Potter and the Philosopher's Stone
+	X-Men: Days of Future Past
+	Casino Royale
+	Tangled
+gender:
+	male
+courses:
+	2012 S1 COMP1917
+	2012 S1 MATH1131
+	2012 S1 PHYS1111
+	2012 S2 MATH1231
+	2012 S2 PHYS1121
+	2013 X1 COMP1927
+	2013 X1 PHYS1221
+	2013 S1 COMP2121
+	2013 S1 FINS1613
+	2013 S1 MATH2069
+	2013 S2 COMP2041
+	2013 S2 GENT0911
+	2013 S2 MATH1081
+	2014 S1 COMP2911
+	2014 S1 COMP3331
+	2014 S1 COMP3411
+	2014 S2 COMP4920
+	2014 S2 COMP6771
+degree:
+	Computer Science
+username:
+	HappyBoy76

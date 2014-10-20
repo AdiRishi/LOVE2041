@@ -1,0 +1,53 @@
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9311
+	2014 S2 GSOE9820
+name:
+	Richard Armitage
+hair_colour:
+	black
+favourite_hobbies:
+	Homebrewing
+	Bridge
+	Watching Movies
+	Graffiti
+	Couponing
+	Amateur astronomy
+	Motorcycling
+	Origami
+	Video gaming
+weight:
+	68kg
+email:
+	R.Armitage@ugrad.unsw.edu.au
+birthdate:
+	27/12/1986
+favourite_books:
+	Watership Down
+favourite_movies:
+	MIB 3
+	Thor: The Dark World
+	Bridesmaids
+	Pirates of the Caribbean: At World's End
+	The Lord of the Rings: The Return of the King
+	Monsters University
+	Ice Age: The Meltdown
+	The Lost World: Jurassic Park
+	Shrek the Third
+password:
+	diablo
+favourite_TV_shows:
+	Hamish & Andy's Gap Year Asia
+	Hemlock Grove
+	Modern Family
+	Futurama
+	Old School
+gender:
+	male
+favourite_bands:
+	Illy
+	Two Door Cinema Club
+username:
+	SportyLover42
+degree:
+	Computer Science

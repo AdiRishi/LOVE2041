@@ -1,0 +1,84 @@
+favourite_hobbies:
+	Jogging
+	Motorcycling
+	Leather crafting
+	Traveling
+	Seaglass collecting
+	Body Building
+	RC cars
+username:
+	RomanticGeek64
+password:
+	jackie
+height:
+	1.73m
+favourite_books:
+	The Purpose Driven Life
+	Paddington Bear
+	Uncle Styopa
+	Berenstain Bears
+	Miffy
+courses:
+	2009 S1 COMP1917
+	2009 S1 ENGG1000
+	2009 S1 MATH1141
+	2009 S1 PHYS1131
+	2009 S2 COMP1927
+	2009 S2 ELEC1111
+	2009 S2 MATH1241
+	2009 S2 PHYS1231
+	2010 S1 ACCT1501
+	2010 S1 COMP2121
+	2010 S1 COMP2911
+	2010 S1 MATH2069
+	2010 S2 ACCT1511
+	2010 S2 ACTL1001
+	2010 S2 ECON1101
+	2010 S2 MATH2099
+	2011 S1 ACTL2002
+	2011 S1 ELEC2134
+	2011 S1 FINS1613
+	2011 S2 ACTL2003
+	2011 S2 COMP3171
+	2011 S2 ECON1102
+	2012 S1 COMP3211
+	2012 S1 COMP3231
+	2012 S1 MGMT1001
+	2012 S2 ACTL3003
+	2012 S2 ACTL3004
+	2012 S2 COMP3601
+	2013 S1 ACTL3001
+	2013 S1 COMP3331
+	2013 S1 COMP4601
+	2013 S2 COMP3311
+	2013 S2 COMP3511
+	2013 S2 COMP4336
+	2013 S2 ELEC2133
+	2014 S1 COMP3411
+	2014 S1 FINS2624
+	2014 S2 COMP4920
+	2014 S2 COMP4931
+	2014 S2 COMP9322
+	2014 S2 FINS3635
+name:
+	Abid Hamid Mahmud Al-Tikriti
+weight:
+	75kg
+hair_colour:
+	blonde
+degree:
+	Engineering
+favourite_movies:
+	Cars 2
+	Transformers: Age of Extinction
+	Wreck-It Ralph
+	Captain America: The Winter Soldier
+email:
+	A.H.M.Al-Tikriti@ugrad.unsw.edu.au
+birthdate:
+	1700/01/01
+gender:
+	male
+favourite_TV_shows:
+	Suits
+	Homeland

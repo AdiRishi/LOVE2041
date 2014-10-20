@@ -1,0 +1,43 @@
+favourite_hobbies:
+	Auto audiophilia
+	Netball
+	Drawing
+weight:
+	74kg
+height:
+	1.87m
+hair_colour:
+	brown
+degree:
+	Information Technology
+password:
+	iloveyou
+favourite_bands:
+	Flight Facilities
+	Lorde
+	Kanye West
+	Rudimental
+	Lana Del Rey
+gender:
+	male
+email:
+	C.Moya@ugrad.unsw.edu.au
+favourite_movies:
+	Ice Age: The Meltdown
+	Harry Potter and the Goblet of Fire
+	We're the Millers
+favourite_books:
+	Dragonlance
+	How the Steel Was Tempered
+	The Bridges of Madison County
+	Shogun
+	The Gruffalo
+name:
+	Carlos Moya
+birthdate:
+	1976/08/27
+username:
+	SadPuppy65
+courses:
+	2014 S2 COMP1917
+	2014 S2 PHYS1110

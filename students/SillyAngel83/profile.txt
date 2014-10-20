@@ -1,0 +1,58 @@
+email:
+	M.Shriver@ugrad.unsw.edu.au
+favourite_books:
+	She: A History of Adventure
+	Wild Swans
+	Fifty Shades of Grey
+	Kon-Tiki: Across the Pacific in a Raft
+courses:
+	2013 S1 COMP9020
+	2013 S1 COMP9021
+	2014 S1 COMP9311
+	2014 S1 COMP9331
+	2014 S2 COMP9041
+	2014 S2 COMP9315
+	2014 S2 COMP9321
+favourite_hobbies:
+	Sketching
+	Traveling
+	Boxing
+	Drawing
+	Kiteboarding
+	Australian Football League
+	Skimboarding
+	Movie collecting
+password:
+	0
+favourite_TV_shows:
+	Summer Heights High
+	Breaking Bad
+	Orphan Black
+birthdate:
+	1955/11/06
+username:
+	SillyAngel83
+weight:
+	61kg
+height:
+	1.74m
+degree:
+	Computer Science
+name:
+	Maria Shriver
+favourite_movies:
+	Captain America: The First Avenger
+	The Lord of the Rings: The Return of the King
+	The Hunger Games: Catching Fire
+	Shrek the Third
+favourite_bands:
+	Arctic Monkeys
+	Kingswood
+	Touch Sensitive
+	Goldroom
+	John Newman
+	Lorde
+	The Wombats
+	Matt Corby
+gender:
+	female

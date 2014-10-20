@@ -1,0 +1,50 @@
+favourite_books:
+	Fear of Flying
+favourite_movies:
+	Jurassic Park
+	Teenage Mutant Ninja Turtles
+	Thor: The Dark World
+	Forrest Gump
+	Sherlock Holmes: A Game of Shadows
+favourite_TV_shows:
+	Dance Academy
+	Old School
+	Underbelly Squizzy launch
+	Futurama
+	True Blood
+	Doctor Who
+	The X Factor
+	Love Child
+username:
+	SportyPuppy75
+favourite_bands:
+	Boy & Bear
+	Illy
+	Chet Faker
+	John Newman
+	Birds of Tokyo
+	Vance Joy
+degree:
+	PV and Solar Energy/Science
+birthdate:
+	1946/03/28
+height:
+	1.73m
+name:
+	Alejandro Toledo
+email:
+	A.Toledo@ugrad.unsw.edu.au
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 COMP9311
+	2014 S2 COMP9511
+password:
+	ferrari
+gender:
+	male
+favourite_hobbies:
+	Cooking
+	Volunteer Work
+	Exhibition Drill
+	Snowboarding

@@ -1,0 +1,63 @@
+password:
+	forever
+courses:
+	2013 S1 COMP2121
+	2013 S1 MATH1081
+	2013 S2 COMP2041
+	2013 S2 COMP3311
+	2013 S2 ECON1101
+	2014 S1 COMP3121
+	2014 S1 COMP3231
+	2014 S2 COMP3511
+	2014 S2 COMP4920
+	2014 S2 COMP6771
+	2014 S2 GENC3004
+hair_colour:
+	blonde
+birthdate:
+	1945/11/21
+degree:
+	Software Engineering
+favourite_TV_shows:
+	The Secret Life of Us
+	Seinfeld
+	Teen Mom
+	Underbelly Squizzy launch
+	Sons of Anarchy
+	Dexter
+	Bergerac
+favourite_books:
+	Eye of the Needle
+	And Then There Were None
+	Flowers in the Attic
+gender:
+	female
+name:
+	Goldie Hawn
+favourite_movies:
+	2012
+	Brave
+	War of the Worlds
+	Godzilla
+	Despicable Me
+	The Lost World: Jurassic Park
+	The Lord of the Rings: The Fellowship of the Ring
+	E.T.: The Extra-Terrestrial
+username:
+	HappyGal45
+favourite_bands:
+	San Cisco
+	MS MR
+	Major Lazer
+	The Wombats
+	Matt Corby
+favourite_hobbies:
+	Hunting
+	Debugging
+	Cricket
+	Crafts
+	Surfing
+	Genealogy
+	Hiking
+email:
+	G.Hawn@ugrad.unsw.edu.au

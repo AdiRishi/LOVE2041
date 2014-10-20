@@ -1,0 +1,72 @@
+weight:
+	56kg
+favourite_bands:
+	The Wombats
+	Robert DeLong
+	Illy
+	Fatboy Slim & Riva Starr
+	Dustin Tebbutt
+	Thundamentals
+favourite_hobbies:
+	Kiteflying
+	Relaxing
+	Meteorology
+	Fencing
+	Renting Movies
+	Boating
+	Computer
+	Dating Online
+	Curling
+	Gongoozling
+height:
+	1.60m
+name:
+	Sandra Bullock
+birthdate:
+	1964/07/26
+degree:
+	Computer Science/Digital Media
+courses:
+	2014 S1 COMP1917
+	2014 S1 MATH1081
+	2014 S1 MGMT1001
+	2014 S2 COMP1927
+	2014 S2 ECON1101
+	2014 S2 MATH1231
+	2014 S2 SENG1031
+password:
+	doctor
+favourite_books:
+	Who Moved My Cheese?
+	Kane and Abel
+	The Great Gatsby
+	Harry Potter and the Philosopher's Stone
+	One Hundred Years of Solitude
+	Berenstain Bears
+	Things Fall Apart
+	The Eagle Has Landed
+	Harry Hole
+gender:
+	female
+favourite_TV_shows:
+	Farscape
+	Heartbreak High
+	Doctor Who
+	Seinfeld
+	Game of Thrones
+	Utopia
+	Old School
+username:
+	SexyGal66
+favourite_movies:
+	The Hangover Part II
+	The Twilight Saga: Breaking Dawn Part 2
+	Independence Day
+	Despicable Me
+	The Hunger Games
+	Dawn of the Planet of the Apes
+	Star Trek Into Darkness
+	The Da Vinci Code
+	The Karate Kid
+email:
+	S.Bullock@ugrad.unsw.edu.au

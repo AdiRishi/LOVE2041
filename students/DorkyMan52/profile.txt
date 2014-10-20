@@ -1,0 +1,55 @@
+favourite_TV_shows:
+	Pretty Little Liars
+	True Blood
+	Under The Dome
+hair_colour:
+	blonde
+password:
+	peaches
+favourite_movies:
+	Shrek 2
+	Ice Age: Continental Drift
+	Pirates of the Caribbean: Dead Man's Chest
+courses:
+	2013 S2 ELEC1111
+	2013 S2 ENGG1000
+	2013 S2 MATH1131
+	2013 S2 PHYS1131
+	2014 S1 COMP1911
+	2014 S1 ECON1101
+	2014 S1 ELEC2134
+	2014 S1 ELEC2141
+	2014 S2 COMP1917
+	2014 S2 MATH1231
+	2014 S2 PHYS1160
+	2014 S2 PHYS1231
+weight:
+	79kg
+favourite_hobbies:
+	Bus spotting
+	Darts
+	Working on Cars
+	Web surfing
+favourite_books:
+	The Great Gatsby
+	Totto-chan, the Little Girl at the Window
+gender:
+	male
+birthdate:
+	1948/04/12
+height:
+	1.74m
+name:
+	Joschka Fischer
+username:
+	DorkyMan52
+email:
+	J.Fischer@ugrad.unsw.edu.au
+degree:
+	Computer Science
+favourite_bands:
+	Karnivool
+	Boy & Bear
+	Lana Del Rey
+	San Cisco
+	Grouplove

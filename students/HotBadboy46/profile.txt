@@ -1,0 +1,63 @@
+courses:
+	2014 S2 COMP9020
+	2014 S2 COMP9021
+	2014 S2 COMP9032
+	2014 S2 COMP9311
+email:
+	B.Assad@ugrad.unsw.edu.au
+favourite_bands:
+	Birds of Tokyo
+weight:
+	71kg
+favourite_TV_shows:
+	Under the Dome
+	Modern Family
+	Orphan Black
+	The Walking Dead
+	NCIS
+	Pretty Little Liars
+	The Black Adder
+	American Dad
+	Terra Nova
+favourite_books:
+	The Young Guard
+	Virgin Soil Upturned
+	A Tale of Two Cities
+	Charlotte's Web
+	Horrible Histories
+	The Alchemist
+	Kon-Tiki: Across the Pacific in a Raft
+	Miffy
+	In His Steps: What Would Jesus Do?
+birthdate:
+	1965/09/11
+username:
+	HotBadboy46
+favourite_hobbies:
+	Walking
+	Coin collecting
+	Parkour
+	Relaxing
+favourite_movies:
+	The Lost World: Jurassic Park
+	22 Jump Street
+	The Hangover Part II
+	The Passion of the Christ
+	Star Wars: Episode II - Attack of the Clones
+	2012
+	Titanic
+	Madagascar: Escape 2 Africa
+	Harry Potter and the Deathly Hallows Part 1
+	Ice Age: Dawn of the Dinosaurs
+name:
+	Bashar Assad
+hair_colour:
+	black
+gender:
+	male
+height:
+	1.85m
+degree:
+	Software Engineering
+password:
+	london

@@ -1,0 +1,55 @@
+favourite_books:
+	Harry Potter and the Goblet of Fire
+favourite_bands:
+	Mikhael Paskalev
+	Violent Soho
+	Kanye West
+	The Amity Affliction
+	The Kite String Tangle
+	Panama
+favourite_movies:
+	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+	Harry Potter and the Goblet of Fire
+	Up
+password:
+	beach
+name:
+	Angela Bassett
+favourite_hobbies:
+	LARPing
+	Digital arts
+	Ghost Hunting
+	Lego Building
+	Amateur radio
+courses:
+	2013 S1 COMP2121
+	2013 S1 COMP3331
+	2013 S1 MATH1081
+	2013 S2 COMP2041
+	2013 S2 COMP3311
+	2013 S2 ECON1101
+	2014 S1 COMP3121
+	2014 S1 COMP3231
+	2014 S1 COMP9447
+	2014 S2 COMP3511
+	2014 S2 COMP4920
+	2014 S2 GENC3004
+gender:
+	female
+height:
+	1.72m
+degree:
+	Information Technology
+username:
+	FunnyAngel23
+favourite_TV_shows:
+	True Blood
+	Secrets & Lies
+	Sons of Anarchy
+	Teen Wolf
+	American Dad
+	Gruen Nation
+email:
+	A.Bassett@ugrad.unsw.edu.au
+birthdate:
+	1958/08/16

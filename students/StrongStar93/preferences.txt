@@ -1,0 +1,10 @@
+gender:
+	male
+hair_colours:
+	red
+	brown
+height:
+	min:
+		1.54m
+	max:
+		1.88m

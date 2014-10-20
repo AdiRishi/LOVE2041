@@ -1,0 +1,76 @@
+favourite_bands:
+	Flight Facilities
+	James Blake
+height:
+	1.81m
+degree:
+	Computer Science and Eng
+gender:
+	male
+courses:
+	2012 S1 COMP1917
+	2012 S1 ENGG1000
+	2012 S1 MATH1081
+	2012 S1 MATH1131
+	2012 S2 COMP1927
+	2012 S2 COMP2041
+	2012 S2 MATH1231
+	2012 S2 PSYC1011
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 COMP3331
+	2013 S2 COMP3171
+	2013 S2 COMP3311
+	2013 S2 COMP3421
+	2014 S1 ARTS2630
+	2014 S1 COMP3141
+	2014 S1 COMP3891
+	2014 S2 ARTS2631
+	2014 S2 COMP3161
+	2014 S2 COMP4920
+weight:
+	70kg
+favourite_TV_shows:
+	Dancing With The Stars
+	Boardwalk Empire
+	MASH
+	Elementary
+	Dexter
+	Secrets & Lies
+email:
+	M.Bloomberg@ugrad.unsw.edu.au
+favourite_movies:
+	X-Men: Days of Future Past
+	Captain America: The First Avenger
+	Avatar
+	Maleficent
+	The Croods
+	How to Train Your Dragon
+birthdate:
+	1942/02/14
+favourite_books:
+	Problems in China's Socialist Economy
+	Think and Grow Rich
+	She: A History of Adventure
+	Harry Hole
+	The Gospel According to Peanuts
+	The Naked Ape
+	Alex Cross
+password:
+	raiders
+name:
+	Michael Bloomberg
+favourite_hobbies:
+	Auto audiophilia
+	Squash
+	Jewelry making
+	Video game collecting
+	Fishing
+	Going to Movies
+	Embroidery
+	Juggling
+	Woodworking
+username:
+	NerdyLover44
+hair_colour:
+	black

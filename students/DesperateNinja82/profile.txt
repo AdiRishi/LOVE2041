@@ -1,0 +1,48 @@
+name:
+	Luis Ernesto Derbez Bautista
+password:
+	iceman
+birthdate:
+	2900/01/01
+email:
+	L.E.D.Bautista@ugrad.unsw.edu.au
+height:
+	1.75m
+weight:
+	79kg
+favourite_bands:
+	Flume & Chet Faker
+	The National
+	Kingswood
+	San Cisco
+	Dustin Tebbutt
+	Bloc Party
+	Lorde
+	Illy
+favourite_books:
+	Harry Potter and the Chamber of Secrets
+	Black Beauty: His Grooms and Companions: The autobiography of a horse
+	Guess How Much I Love You
+	A Tale of Two Cities
+hair_colour:
+	brown
+gender:
+	male
+username:
+	DesperateNinja82
+favourite_hobbies:
+	Movie collecting
+	Camping
+	Paintball
+	Magic
+favourite_movies:
+	War of the Worlds
+	Transformers: Revenge of the Fallen
+	Star Wars: Episode III - Revenge of the Sith
+favourite_TV_shows:
+	A Place to Call Home
+	Underbelly Squizzy launch
+	Orphan Black
+	Dexter
+	Game of Thrones
+	Offspring

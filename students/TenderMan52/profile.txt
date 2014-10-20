@@ -1,0 +1,65 @@
+favourite_TV_shows:
+	The Simpsons
+	Under The Dome
+	Please Like Me
+	Doctor Who
+	South Park
+	Underbelly
+	NCIS
+	Farscape
+email:
+	A.Agassi@ugrad.unsw.edu.au
+weight:
+	70kg
+height:
+	1.76m
+birthdate:
+	1970/04/29
+username:
+	TenderMan52
+courses:
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1141
+	2014 S2 COMP1927
+	2014 S2 ELEC1111
+	2014 S2 MATH1231
+	2014 S2 PHYS1231
+favourite_bands:
+	The Preatures
+	MS MR
+	James Blake
+	A$AP Rocky
+	Fatboy Slim & Riva Starr
+	The Kite String Tangle
+	Something for Kate
+name:
+	Andre Agassi
+favourite_movies:
+	Jurassic Park
+	Harry Potter and the Goblet of Fire
+	Ice Age: The Meltdown
+	Pirates of the Caribbean: The Curse of the Black Pearl
+	Fast Five
+	Alice in Wonderland
+	Titanic
+	Star Wars: Episode I - The Phantom Menace
+	Spider-Man 2
+gender:
+	male
+degree:
+	Computer Science
+favourite_hobbies:
+	Housework
+	Dance
+	Net Ball
+	Quilting
+	Video Games
+	Exercise
+	Relaxing
+	LARPing
+	People watching
+password:
+	12345678
+hair_colour:
+	blonde

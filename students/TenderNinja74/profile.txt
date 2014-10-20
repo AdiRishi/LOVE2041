@@ -1,0 +1,67 @@
+birthdate:
+	1933/02/03
+favourite_movies:
+	Transformers: Revenge of the Fallen
+	The Passion of the Christ
+	Life of Pi
+favourite_hobbies:
+	Working on Cars
+	Rafting
+	Hunting
+	Coding
+	Color Guard
+	Vintage Books
+degree:
+	Computer Science
+gender:
+	male
+courses:
+	2012 S1 ENGG1000
+	2012 S1 MATH1081
+	2012 S1 MATH1131
+	2012 S2 COMP1927
+	2012 S2 GENC7002
+	2012 S2 MATH1231
+	2012 S2 SENG1031
+	2013 S1 COMP2111
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 SENG2011
+	2013 S2 COMP2041
+	2013 S2 GENC3004
+	2013 S2 MATH2400
+	2013 S2 MATH2859
+	2013 S2 SENG2021
+	2014 S1 COMP3141
+	2014 S1 COMP3311
+	2014 S1 PHYS1160
+	2014 S1 SENG3011
+	2014 S2 COMP3331
+	2014 S2 COMP3421
+	2014 S2 COMP4920
+	2014 S2 COMP9321
+favourite_bands:
+	Two Door Cinema Club
+	Something for Kate
+	The Wombats
+	MS MR
+	Grouplove
+	Birds of Tokyo
+	San Cisco
+height:
+	1.72m
+name:
+	Paul Sarbanes
+email:
+	P.Sarbanes@ugrad.unsw.edu.au
+weight:
+	79kg
+password:
+	walter
+username:
+	TenderNinja74
+favourite_TV_shows:
+	Elementary
+	Futurama
+	Jonah from Tonga
+	A Place To Call Home

@@ -1,0 +1,10 @@
+weight:
+	min:
+		46kg
+	max:
+		78kg
+hair_colours:
+	brown
+	black
+gender:
+	female

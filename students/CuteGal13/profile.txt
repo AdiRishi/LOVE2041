@@ -1,0 +1,60 @@
+username:
+	CuteGal13
+favourite_TV_shows:
+	American Dad
+	Rush
+	Mako: Island of Secrets
+	Dancing With The Stars
+	Secrets & Lies
+	Neighbours
+	Breaking Bad
+	Prisoner
+favourite_bands:
+	The National
+	San Cisco
+	Disclosure
+	Lana Del Rey
+	London Grammar
+	Illy
+name:
+	Jennifer Lopez
+height:
+	1.56m
+degree:
+	Computer Science and Eng
+courses:
+	2014 S1 COMP1927
+	2014 S1 COMP3441
+	2014 S1 MATH2069
+	2014 S2 COMP3331
+	2014 S2 COMP4920
+hair_colour:
+	blonde
+favourite_books:
+	She: A History of Adventure
+	The Late, Great Planet Earth
+	The Inheritance Cycle
+	Sweet Valley High
+	The Little Prince
+	Robert Langdon
+	Flowers in the Attic
+	Harry Potter
+favourite_hobbies:
+	Foreign language learning
+	Homebrewing
+	Beauty
+	Embroidery
+	Field Hockey
+birthdate:
+	1969/07/24
+favourite_movies:
+	Harry Potter and the Order of the Phoenix
+	The Lost World: Jurassic Park
+password:
+	winter
+weight:
+	54kg
+email:
+	J.Lopez@ugrad.unsw.edu.au
+gender:
+	female

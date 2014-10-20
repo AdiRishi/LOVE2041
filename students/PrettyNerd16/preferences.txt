@@ -1,0 +1,14 @@
+hair_colours:
+	brown
+age:
+	min:
+		18
+	max:
+		25
+height:
+	min:
+		1.54m
+	max:
+		2.02m
+gender:
+	female

@@ -1,0 +1,62 @@
+email:
+	B.Frist@ugrad.unsw.edu.au
+favourite_hobbies:
+	Digital arts
+	Bowling
+	Amateur radio
+	Web surfing
+degree:
+	Software Engineering/Science
+birthdate:
+	1952/02/22
+weight:
+	75kg
+gender:
+	male
+favourite_bands:
+	John Butler Trio
+	Goldroom
+	Birds of Tokyo
+	Mikhael Paskalev
+	Arctic Monkeys
+	Flume & Chet Faker
+	Flight Facilities
+password:
+	bronco
+name:
+	Bill Frist
+favourite_TV_shows:
+	Prisoner
+	All Saints
+	Underbelly Squizzy launch
+	Love Child
+	Mako: Island of Secrets
+	Pretty Little Liars
+	Family Guy
+favourite_movies:
+	Independence Day
+	The Twilight Saga: Breaking Dawn Part 1
+	Harry Potter and the Chamber of Secrets
+	Ted
+	Star Wars: Episode II - Attack of the Clones
+courses:
+	2013 S2 COMP9020
+	2013 S2 COMP9021
+	2013 S2 COMP9311
+	2014 S1 COMP9024
+	2014 S1 COMP9331
+	2014 S1 COMP9334
+	2014 S1 COMP9441
+	2014 S2 COMP9032
+	2014 S2 COMP9321
+	2014 S2 COMP9336
+	2014 S2 COMP9511
+height:
+	1.74m
+hair_colour:
+	brown
+favourite_books:
+	Goodnight Moon
+	Problems in China's Socialist Economy
+username:
+	StrongThinker19

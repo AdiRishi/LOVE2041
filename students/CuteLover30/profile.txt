@@ -1,0 +1,34 @@
+height:
+	1.78m
+hair_colour:
+	blonde
+favourite_books:
+	How to Win Friends and Influence People
+	Redwall
+	A Series of Unfortunate Events
+email:
+	J.Ullrich@ugrad.unsw.edu.au
+weight:
+	77kg
+favourite_TV_shows:
+	The Walking Dead
+password:
+	gators
+gender:
+	male
+name:
+	Jan Ullrich
+username:
+	CuteLover30
+favourite_hobbies:
+	Hooping
+favourite_movies:
+	Star Wars: Episode II - Attack of the Clones
+	The Heat
+	The Lion King
+	Finding Nemo
+	Ice Age: Dawn of the Dinosaurs
+	Forrest Gump
+	The Hunger Games: Catching Fire
+birthdate:
+	1973/12/02

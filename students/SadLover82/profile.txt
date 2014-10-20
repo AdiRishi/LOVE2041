@@ -1,0 +1,57 @@
+height:
+	1.76m
+favourite_hobbies:
+	Vehicle restoration
+hair_colour:
+	brown
+courses:
+	2014 S1 COMP1917
+	2014 S1 MATH1081
+	2014 S1 MATH1131
+	2014 S1 PSYC1001
+	2014 S2 COMP2041
+	2014 S2 MATH1131
+favourite_books:
+	Pippi Longstocking
+	Black Beauty: His Grooms and Companions: The autobiography of a horse
+	Harry Potter and the Order of the Phoenix
+	A Wrinkle in Time
+favourite_movies:
+	Transformers
+	Pirates of the Caribbean: At World's End
+	The Amazing Spider-Man 2
+	Casino Royale
+	Harry Potter and the Half-Blood Prince
+	2012
+	Transformers: Dark of the Moon
+name:
+	Juan Pablo Montoya
+birthdate:
+	1975/09/20
+favourite_TV_shows:
+	Sons of Anarchy
+	Under the Dome
+	The Saddle Club
+	Doctor Who
+	The Black Adder
+	Rake
+email:
+	J.P.Montoya@ugrad.unsw.edu.au
+password:
+	giants
+degree:
+	Computer Engineering
+gender:
+	male
+username:
+	SadLover82
+favourite_bands:
+	Two Door Cinema Club
+	John Newman
+	Rudimental
+	Fatboy Slim & Riva Starr
+	The Kite String Tangle
+	Empire of the Sun
+	Flight Facilities
+	Flume & Chet Faker
+	The National

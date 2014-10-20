@@ -1,0 +1,45 @@
+name:
+	Tony Stewart
+favourite_TV_shows:
+	McLeod's Daughters
+	Orphan Black
+	Sea Patrol
+	Underbelly Squizzy launch
+	Vikings
+favourite_hobbies:
+	Perl programming
+	Sleeping
+	Electronics
+	Embroidery
+email:
+	T.Stewart@ugrad.unsw.edu.au
+favourite_books:
+	Discworld
+password:
+	thomas
+gender:
+	male
+hair_colour:
+	blonde
+favourite_bands:
+	The Preatures
+	Touch Sensitive
+	Arcade Fire
+	Foals
+	A$AP Rocky
+	Fatboy Slim & Riva Starr
+	Illy
+	Robert DeLong
+	Panama
+birthdate:
+	1971/05/20
+height:
+	1.72m
+username:
+	SadNinja30
+weight:
+	75kg
+favourite_movies:
+	The Amazing Spider-Man 2
+	Snow White and the Huntsman
+	How to Train Your Dragon 2

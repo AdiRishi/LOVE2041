@@ -1,0 +1,12 @@
+age:
+	min:
+		18
+	max:
+		25
+height:
+	min:
+		1.63m
+	max:
+		2.01m
+gender:
+	male

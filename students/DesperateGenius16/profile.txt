@@ -1,0 +1,47 @@
+username:
+	DesperateGenius16
+favourite_hobbies:
+	Roller skating
+	Relaxing
+	Camping
+	Kiteflying
+	Walking
+	Crocheting
+	Watching Movies
+	Writing
+	Boating
+	Astronomy
+email:
+	C.Deneuve@ugrad.unsw.edu.au
+favourite_TV_shows:
+	How I Met Your Mother
+	Teen Wolf
+	Mako: Island of Secrets
+	True Detective
+	A Country Practice
+	Prisoner
+	H2O: Just Add Water
+	American Horror Story
+favourite_movies:
+	The Twilight Saga: New Moon
+	Titanic
+	Fast & Furious 6
+password:
+	jack
+name:
+	Catherine Deneuve
+weight:
+	56kg
+degree:
+	Engineering / Arts
+birthdate:
+	1943/10/22
+favourite_bands:
+	The National
+gender:
+	female
+height:
+	1.61m
+courses:
+	2014 S2 COMP9311
+	2014 S2 GSOE9210

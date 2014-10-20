@@ -1,0 +1,85 @@
+name:
+	Lleyton Hewitt
+gender:
+	male
+password:
+	enter
+weight:
+	62kg
+favourite_movies:
+	Pirates of the Caribbean: The Curse of the Black Pearl
+	Transformers: Age of Extinction
+	The Help
+	Dr. Seuss' The Lorax
+	Pirates of the Caribbean: Dead Man's Chest
+	Harry Potter and the Chamber of Secrets
+	Madagascar: Escape 2 Africa
+	The Da Vinci Code
+	X-Men: Days of Future Past
+hair_colour:
+	black
+username:
+	SillyGenius28
+favourite_hobbies:
+	Book collecting
+	Astrology
+courses:
+	2010 S1 COMP1917
+	2010 S1 ENGG1000
+	2010 S1 STRE2010
+	2010 S2 COMP1917
+	2010 S2 INFS1602
+	2010 S2 MATH1081
+	2010 S2 MATH1131
+	2011 X1 MATH1231
+	2011 S1 ARTS1660
+	2011 S1 COMP1927
+	2011 S1 MATH1081
+	2011 S2 ARTS1661
+	2011 S2 COMP2121
+	2011 S2 COMP2911
+	2011 S2 MATH1231
+	2013 S1 COMP2911
+	2013 S1 COMP3141
+	2013 S1 COMP3331
+	2013 S1 COMP3411
+	2013 S2 COMP2041
+	2013 S2 INFS1603
+	2013 S2 MATH1231
+	2014 S1 COMP3821
+	2014 S1 COMP4128
+	2014 S1 INFS1602
+	2014 S2 COMP4920
+	2014 S2 COMP6771
+	2014 S2 GEOS1601
+	2014 S2 MATH1231
+height:
+	1.79m
+favourite_bands:
+	Remi
+	Kingswood
+	James Blake
+	Illy
+	Empire of the Sun
+	A$AP Rocky
+birthdate:
+	1981/02/24
+email:
+	L.Hewitt@ugrad.unsw.edu.au
+favourite_TV_shows:
+	Under The Dome
+	The Simpsons
+	Nowhere Boys
+	How I Met Your Mother
+	Offspring
+	Falling Skies
+favourite_books:
+	Where the Wild Things Are
+	Jonathan Livingston Seagull
+	The Little Prince
+	Watership Down
+	Heidi's Years of Learning and Travel
+	The Young Guard
+	Discworld
+degree:
+	Software Engineering/Commerce

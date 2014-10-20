@@ -1,0 +1,66 @@
+weight:
+	82kg
+favourite_bands:
+	Panama
+name:
+	Tony Blair
+password:
+	xxxxxxxx
+gender:
+	male
+username:
+	SexyThinker12
+degree:
+	Information Technology
+favourite_movies:
+	The Lost World: Jurassic Park
+	Indiana Jones and the Kingdom of the Crystal Skull
+	Marvel's The Avengers
+	The Sixth Sense
+	Maleficent
+	Harry Potter and the Half-Blood Prince
+	Harry Potter and the Philosopher's Stone
+	Fast & Furious 6
+	Sherlock Holmes: A Game of Shadows
+	The King's Speech
+favourite_books:
+	The Total Woman
+	The Old Man and the Sea
+	Uncle Styopa
+favourite_TV_shows:
+	Teen Wolf
+	Homeland
+	Pretty Little Liars
+	Breaking Bad
+	Orphan Black
+	A Country Practice
+	Utopia
+	Under the Dome
+birthdate:
+	1953/05/06
+email:
+	T.Blair@ugrad.unsw.edu.au
+favourite_hobbies:
+	Sudoku
+	Animal Care
+	Skiing
+	Wood carving
+	Gymnastics
+	Graffiti
+	Watching Movies
+	Color Guard
+	Socializing
+	Scuba Diving
+height:
+	1.79m
+hair_colour:
+	black
+courses:
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1141
+	2014 S1 PHYS1131
+	2014 S2 COMP1927
+	2014 S2 ELEC1111
+	2014 S2 MATH1241
+	2014 S2 PHYS1231

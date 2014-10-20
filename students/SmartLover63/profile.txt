@@ -1,0 +1,96 @@
+favourite_TV_shows:
+	McLeod's Daughters
+	Family Guy
+	Doctor Who
+	Bergerac
+	Neighbours
+	Home and Away
+	Suits
+	House Husbands
+	Underbelly Squizzy launch
+	Dance Academy
+degree:
+	Telecommunications
+password:
+	secret
+hair_colour:
+	black
+courses:
+	2001 S1 COMP1711
+	2001 S1 INFS1603
+	2001 S1 MATH1081
+	2001 S1 MATH1141
+	2001 S2 COMP1021
+	2001 S2 INFS1603
+	2001 S2 MATH1081
+	2002 S1 COMP2011
+	2002 S1 COMP2021
+	2002 S1 INFS1603
+	2002 S2 COMP2041
+	2002 S2 GENM0510
+	2002 S2 INFS1611
+	2002 S2 INFS2603
+	2002 S2 MATH2400
+	2002 S2 SENG1010
+	2002 S2 SENG1020
+	2003 X1 COMP4001
+	2003 S1 COMP2110
+	2003 S1 COMP3121
+	2003 S1 COMP3231
+	2003 S1 INFS3608
+	2003 S1 SENG2010
+	2003 S2 COMP3331
+	2003 S2 COMP9316
+	2003 S2 INFS2607
+	2003 S2 SENG2020
+	2004 S1 COMP2110
+	2004 S1 COMP9332
+	2004 S1 SENG3010
+	2004 S1 SENG4921
+	2004 S2 COMP3511
+	2004 S2 ECON1101
+	2004 S2 SENG3020
+	2005 X1 GENS8003
+	2005 X1 GENS8005
+	2006 S1 ACCT1501
+	2006 S1 COMP3141
+	2006 S1 COMP9322
+	2006 S1 MATH2400
+	2006 S2 GENS8004
+	2007 S1 INFS3605
+	2009 S1 COMP9417
+	2009 S1 MATH5846
+	2009 S1 MATH5856
+email:
+	M.Jackson@ugrad.unsw.edu.au
+username:
+	SmartLover63
+birthdate:
+	1958/08/29
+height:
+	1.60m
+favourite_hobbies:
+	Python programming
+	Animal Care
+	Theater
+gender:
+	female
+name:
+	Michael Jackson
+favourite_bands:
+	Matt Corby
+	Panama
+	Chet Faker
+	The Jezabels
+	Flight Facilities
+	The Preatures
+	Remi
+favourite_books:
+	The Tale of Peter Rabbit
+	The Little Prince
+	The Name of the Rose
+	The 7 Habits of Highly Effective People
+	Life After Life
+	Harry Potter and the Deathly Hallows
+	Night
+	The Exorcist

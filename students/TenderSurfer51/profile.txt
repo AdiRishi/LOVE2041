@@ -1,0 +1,41 @@
+birthdate:
+	1961/03/29
+email:
+	M.Winterbottom@ugrad.unsw.edu.au
+favourite_TV_shows:
+	BeastMaster
+	Secrets & Lies
+	Wonderland
+	Under the Dome
+	The Slap
+	How I Met Your Mother
+	Teen Mom
+hair_colour:
+	black
+username:
+	TenderSurfer51
+weight:
+	69kg
+favourite_books:
+	The Hite Report
+	Onihei Hankach
+	The Poky Little Puppy
+password:
+	brazil
+favourite_movies:
+	Sherlock Holmes: A Game of Shadows
+	2012
+	Pirates of the Caribbean: The Curse of the Black Pearl
+	True Grit
+	Mamma Mia!
+gender:
+	male
+favourite_bands:
+	James Blake
+	Thundamentals
+	Arcade Fire
+	Lana Del Rey
+	The Wombats
+	Cloud Control
+name:
+	Michael Winterbottom

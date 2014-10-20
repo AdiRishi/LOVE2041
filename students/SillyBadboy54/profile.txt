@@ -1,0 +1,52 @@
+birthdate:
+	1949/08/31
+height:
+	1.77m
+email:
+	R.Gere@ugrad.unsw.edu.au
+name:
+	Richard Gere
+courses:
+	2014 S2 COMP3421
+	2014 S2 ELEC2133
+	2014 S2 MATH3411
+	2014 S2 TELE3113
+hair_colour:
+	black
+weight:
+	89kg
+gender:
+	male
+password:
+	scooby
+favourite_hobbies:
+	Stone collecting
+	Australian Football League
+	Leather crafting
+	Coin collecting
+	Crafts
+	Knitting
+	Swimming
+	Astrology
+	Coding
+	Dating Online
+username:
+	SillyBadboy54
+favourite_bands:
+	Arctic Monkeys
+	RUFUS
+	The Wombats
+favourite_movies:
+	The Lord of the Rings: The Fellowship of the Ring
+	The Hangover Part II
+	Mamma Mia!
+	Dawn of the Planet of the Apes
+	Jurassic Park
+	The Dark Knight
+	Star Wars: Episode I - The Phantom Menace
+	Titanic
+	Alice in Wonderland
+degree:
+	Information Technology
+favourite_TV_shows:
+	Wentworth

@@ -1,0 +1,49 @@
+weight:
+	65kg
+birthdate:
+	1971/09/15
+gender:
+	male
+favourite_bands:
+	MS MR
+	Matt Corby
+	The Kite String Tangle
+hair_colour:
+	red
+email:
+	W.Ferreira@ugrad.unsw.edu.au
+password:
+	lover
+favourite_TV_shows:
+	Falling Skies
+	American Dad
+	BeastMaster
+	Home and Away
+	Game of Thrones
+	Hemlock Grove
+	Revenge
+	Under The Dome
+degree:
+	Telecommunications
+courses:
+	2013 S2 COMP9021
+	2013 S2 COMP9311
+	2013 S2 GSOE9210
+	2013 S2 GSOE9820
+	2014 S1 COMP9024
+	2014 S1 COMP9331
+	2014 S1 COMP9334
+	2014 S2 COMP9041
+	2014 S2 COMP9321
+	2014 S2 COMP9336
+	2014 S2 COMP9511
+username:
+	CuteDude11
+height:
+	1.83m
+name:
+	Wayne Ferreira
+favourite_books:
+	Martine
+	A Wrinkle in Time
+	Lolita

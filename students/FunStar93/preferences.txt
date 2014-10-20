@@ -1,0 +1,9 @@
+hair_colours:
+	black
+height:
+	min:
+		1.48m
+	max:
+		1.75m
+gender:
+	female

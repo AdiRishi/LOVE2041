@@ -1,0 +1,80 @@
+courses:
+	2012 S1 COMP1917
+	2012 S1 ENGG1000
+	2012 S1 MATH1081
+	2012 S1 MATH1131
+	2012 S2 COMP1927
+	2012 S2 GENC7002
+	2012 S2 MATH1231
+	2012 S2 SENG1031
+	2013 S1 COMP2111
+	2013 S1 COMP2121
+	2013 S1 COMP2911
+	2013 S1 SENG2011
+	2013 S2 COMP2041
+	2013 S2 GENC3004
+	2013 S2 MATH2400
+	2013 S2 MATH2859
+	2013 S2 SENG2021
+	2014 S1 COMP3141
+	2014 S1 COMP3311
+	2014 S1 PHYS1160
+	2014 S1 SENG3011
+	2014 S2 COMP3421
+	2014 S2 COMP4920
+	2014 S2 COMP9321
+favourite_books:
+	And Then There Were None
+	Eye of the Needle
+	The Exorcist
+	To Kill a Mockingbird
+	The Dukan Diet
+	Kane and Abel
+	The Sword of Truth
+hair_colour:
+	black
+name:
+	Natasha McElhone
+gender:
+	female
+birthdate:
+	2000/01/01
+favourite_bands:
+	Touch Sensitive
+	Remi
+	Arctic Monkeys
+	Grouplove
+	British India
+username:
+	SadLover89
+favourite_hobbies:
+	Homebrewing
+	Walking
+	Brazilian jiu-jitsu
+	Cleaning
+	Hooping
+	Housework
+	Australian Football League
+	Kiteflying
+	Baseball
+weight:
+	58kg
+favourite_TV_shows:
+	Modern Family
+	Blue Heelers
+	Revenge
+	Secrets & Lies
+	The Voice
+	Vikings
+	Suits
+	Underbelly Squizzy launch
+	Love Child
+	Offspring
+degree:
+	Software Engineering
+password:
+	football
+height:
+	1.71m
+email:
+	N.McElhone@ugrad.unsw.edu.au

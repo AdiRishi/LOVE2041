@@ -1,0 +1,63 @@
+email:
+	Q.Beatrix@ugrad.unsw.edu.au
+hair_colour:
+	blonde
+height:
+	1.66m
+favourite_movies:
+	Shrek Forever After
+favourite_hobbies:
+	Stamp collecting
+	Rafting
+	Gardening
+	Cleaning
+	Skimboarding
+	Kiteflying
+	Beach Volleyball
+username:
+	FunnyStar88
+favourite_TV_shows:
+	NCIS
+	Dancing With The Stars
+	Secrets & Lies
+	Neighbours
+	Game of Thrones
+	Breaking Bad
+	Prisoner
+favourite_books:
+	The Adventures of Pinocchio
+	Perfume
+	Harry Potter and the Order of the Phoenix
+	Valley of the Dolls
+	Black Beauty: His Grooms and Companions: The autobiography of a horse
+	The Name of the Rose
+	Curious George
+	The Shadow of the Wind
+name:
+	Queen Beatrix
+gender:
+	female
+password:
+	blue
+favourite_bands:
+	Something for Kate
+	The Kite String Tangle
+	Robert DeLong
+	Dustin Tebbutt
+	Flume & Chet Faker
+	Arctic Monkeys
+	Flight Facilities
+	Bring Me the Horizon
+	The Preatures
+courses:
+	2014 S1 COMP1917
+	2014 S1 ENGG1000
+	2014 S1 MATH1131
+	2014 S2 COMP1927
+	2014 S2 MATH1081
+	2014 S2 MATH1231
+	2014 S2 SENG1031
+birthdate:
+	1948/09/06
+degree:
+	Software Engineering
