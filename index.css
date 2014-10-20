@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url(index_background.jpg);
+}
+
+#nav_main {
+	border:1px solid black;
+	width: 100%;
+	margin:0 auto;
+	background-color: #FF85B5;
+	text-align: center;
+}
+
+#navbar {
+	list-style-type: none;
+	position: relative;
+	margin:0;
+	padding:0;
+}
+
+#navbar li {
+	display: inline-block;
+	font-size: 2em;
+	margin-right: 50px;
+}
