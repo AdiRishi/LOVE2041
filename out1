@@ -1,0 +1,4 @@
+#!/usr/bin/perl
+foreach $file (glob "students/*") {
+	print "$file\n";
+}
