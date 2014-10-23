@@ -9,7 +9,15 @@
 <div id="nav_main">
 	<ul id = "navbar">
 		<li><a href="http://cgi.cse.unsw.edu.au/~z5011984/love2041.cgi">Home</a></li>
-		<li><a href="http://cgi.cse.unsw.edu.au/~z5011984/love2041.cgi?page=browse_profile">Browse Profiles</li>
+		<li><a href="http://cgi.cse.unsw.edu.au/~z5011984/love2041.cgi?page=browse_profile">Browse Profiles</a></li>
 		<li>View Matches</li>
 	</ul>
+</div>
+<div id="login_div">
+	<form name="login" action="http://cgi.cse.unsw.edu.au/~z5011984/love2041.cgi?login=true" method="post">
+		<ul>
+		<li><label for="username" form="login_div">Username: </label><input name="username" type="email" placeholder="youremail@example.com" required></li>
+		<li><label for="password" form="login_div">Password: </label><input name="password" type="password" placeholder="Enter Password" required></li>
+		</ul>
+	</form>
 </div>
