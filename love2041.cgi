@@ -6,7 +6,7 @@ use CGI::Carp qw(fatalsToBrowser warningsToBrowser);
 warningsToBrowser(1);
 use Data::Dumper;
 
-print_index() if (not defined $ENV{'QUERY_STRING'});
+print_index() if ($ENV{'QUERY_STRING'} eq "");
 browse_page() if (url_param('page') eq "browse_profile");
 
 
@@ -21,7 +21,7 @@ sub browse_page {
 
 sub print_index {
 	print header;
-	open (INDEX,"../LOVE2041/index.html") or die "Cannot open index.html\n";
+	open (INDEX,"index.html") or die "Cannot open index.html\n";
 	while (<INDEX>) {
 		print;
 	}

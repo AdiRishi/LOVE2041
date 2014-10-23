@@ -1,7 +1,8 @@
 body {
 	margin: 0;
 	padding: 0;
-	background-image: url(index_background.jpg);
+	background-image: url('index_background.jpg');
+	/*background-color: blue;*/
 }
 
 a {
@@ -12,8 +13,9 @@ a {
 #nav_main {
 	border:1px solid black;
 	width: 100%;
-	margin-top:300px;
-	background-color: #B2F0F0;
+	margin-top:0px;
+	/*background-color: #B2F0F0;*/
+	background-color: #666;
 	text-align: center;
 }
 
@@ -28,4 +30,10 @@ a {
 	display: inline-block;
 	font-size: 2em;
 	margin-right: 50px;
+}
+
+#login_fields li {
+	display: block;
+	font-size: 2em;
+	float: center;
 }
