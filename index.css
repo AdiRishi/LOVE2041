@@ -14,8 +14,8 @@ a {
 	border:1px solid black;
 	width: 100%;
 	margin-top:0px;
-	/*background-color: #B2F0F0;*/
-	background-color: #666;
+	background-color: #B2F0F0;
+	/*background-color: #666;*/
 	text-align: center;
 }
 
@@ -36,4 +36,14 @@ a {
 	display: block;
 	font-size: 2em;
 	float: center;
+}
+
+#login_info li {
+	display: block;
+
+}
+
+input {
+	resize : horizontal;
+	width: 200px;
 }

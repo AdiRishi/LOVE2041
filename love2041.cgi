@@ -6,9 +6,10 @@ use CGI::Carp qw(fatalsToBrowser warningsToBrowser);
 warningsToBrowser(1);
 use Data::Dumper;
 
-print_index() if ($ENV{'QUERY_STRING'} eq "");
-browse_page() if (url_param('page') eq "browse_profile");
-
+if ($ENV{'QUERY_STRING'} eq "") {
+	print_index();
+	exit(0);
+}
 
 sub browse_page {
 	print header;
