@@ -1,4 +1,8 @@
 #!/usr/bin/perl
-foreach $file (glob "students/*") {
-	print "$file\n";
+`chmod 755 students`;
+foreach $folder (glob "students/*") {
+	`chmod 755 $folder`;
+	foreach $file (glob "$folder/*.jpg") {
+		`chmod 666 "$file"`;
+	}
 }
