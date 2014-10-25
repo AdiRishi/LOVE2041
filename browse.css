@@ -1,0 +1,40 @@
+.user_box {
+	border: 2px double black;
+	box-shadow: 10px 10px 5px #888;
+	overflow: scroll;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-left:5px;
+	width:20%;
+	height: 300px;
+	-moz-box-shadow: 0 0 5px 5px #888;
+	-webkit-box-shadow: 0 0 5px 5px#888;
+	box-shadow: 0 0 5px 5px #888;
+}
+
+.inner_pic {
+	/*border: 1px solid blue;*/
+	margin-top: 1px;
+	overflow: scroll;
+	height: 40%;
+	position: relative;
+}
+
+.inner_pic img {
+	position: absolute;
+	left:30%;
+	border-radius: 50%;
+}
+
+.inner_data {
+	/*border: 2px solid orange;*/
+	height: 100%;
+}
+
+.inner_data pre {
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 2px;
+	font-family: "Fertigo", "Vollkorn", "Open Sans";
+	font-style: oblique;
+}
