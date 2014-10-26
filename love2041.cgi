@@ -1,90 +1,73 @@
-#!/usr/bin/perl
+#!/usr/bin/perl --
 use warnings;
 use strict;
 use CGI qw/:all/;
 use CGI::Carp qw(fatalsToBrowser warningsToBrowser);
-# use CGI::Cookie;
+use CGI::Cookie;
 warningsToBrowser(1);
 use Data::Dumper;
+use HTML::Template;
 
-if ($ENV{'QUERY_STRING'} eq "" and  (not defined param('login_details'))) {
-	print_index();
-	exit (0);
+use constant {
+	NUM_BROWSE_ROWS => 4,
+	BOX_PER_ROW => 4,
+	FIELD_LINE => 1,
+	FIELD_LINE_LEVEL1 => 2,
+	FIELD_LINE_LEVEL2 => 3,
+	VALUE_LINE => -1,
+};
+
+my %cookies = CGI::Cookie->fetch;
+if (not defined $cookies{'login_cookie'}) {
+	my $newCookie = CGI::Cookie->new(-name=>'login_cookie',
+									-value => {
+										username => 'UNSET',
+										login_status => 'LOGGED_OUT'
+										},
+									-expires => "+30m",
+									);
+	my $template = HTML::Template->new(filename=>'login.html');
+	print "Set-Cookie: $newCookie\n";
+  	print "Content-Type: text/html\n\n";
+  	print $template->output();
+  	exit (0);
+} else {
+	my %loginValue = $cookies{'login_cookie'}->value;
+	if (($loginValue{'login_status'} eq "LOGGED_OUT")
+		and (not defined param('login_submit'))) {
+		my $template = HTML::Template->new(filename=>'login.html');
+		print header;
+		print $template->output();
+		exit (0);
+	}
 }
 
-if (defined param('login_details')) {
-	my $username = param('username');
-	my $password = param ('password');
-	my $correct = validateLogin($username, $password);
-	if ($correct == 1) {
-		param('login',"SUCCESSFUL");
-		print_index("",$username);
+if (defined param('login_submit')) {
+	my $validation_code = validateLogin(param('username'),param('password'));
+	if ($validation_code != 1) {
+		my $template = HTML::Template->new(filename=>'login.html');
+		my $error_status = determineStatus ($validation_code);
+		if ($error_status eq "UNKNOWN_USERNAME") {
+			$template->param(ERROR=>'1',Uname=>'1');
+		} elsif ($error_status eq "INCORRECT_PASSWORD") {
+			$template->param(ERROR=>'1',pass=>'1');
+		} else {
+			$template->param (ERROR=>'1',info=>'1');
+		}
+		print header;
+		print $template->output();
 	} else {
-		my $login_fail_status = determineStatus ($correct);
-		param('login',"Attempt_Unsuccessful");
-		# print header,start_html,p("$login_fail_status"),end_html;
-		# exit (1);
-		print_index ($login_fail_status,"");
+		my $login_cookie = $cookies{'login_cookie'};
+		$login_cookie->value({username => param('username'),login_status => 'LOGGED_IN'},);
+		print "Set-Cookie: $login_cookie\n";
+  		print "Content-Type: text/html\n\n";
+  		print start_html,h1("Check the cookie");
+  		print end_html();
 	}
 }
 
-if (url_param('request') eq "logout") {
-	param('login',"FALSE");
-	print_index();
-}
-
-if (url_param('page') eq "browse_page") {
-	print header;
-	open (BROWSE_PAGE,"<browse.html") or die "Cannot open browse.html: $!\n";
-	while (<BROWSE_PAGE>) {
-		print;
-	}
-} 
-
-# print_index ($login_fail_status,$username');
-sub print_index {
-	my ($login_fail_status, $username) = @_;
-	print header;
-	print start_html(-title=>"LOVE2041",
-		             -style=>{'src'=>'navbar.css'},
-	);
-	open (NAVBAR,"navbar.html") or die "Cannot open navbar.html\n";
-	while (<NAVBAR>) {
-		print;
-	}
-	param('login',"FALSE") if (not defined param('login'));
-	if (param('login') eq "FALSE") {
-		open(LOGIN_INPUT,"<login_input.html") or die "Could not open login_input.html, $!\n";
-		while (<LOGIN_INPUT>) {
-			print;
-		}
-		close (LOGIN_INPUT);
-		print hidden('login');
-	} elsif (param('login') eq "Attempt_Unsuccessful") {
-		#the user failed at login, will check for faliure details
-		if ($login_fail_status eq "UNKNOWN_USERNAME") {
-			print h2("Unknown Username");
-			open(LOGIN_INPUT,"<login_input.html") or die "Could not open login_input.html, $!\n";
-			while (<LOGIN_INPUT>) {
-				print;
-			}
-			close (LOGIN_INPUT);
-			print hidden ('login');
-		} elsif ($login_fail_status eq "INCORRECT_PASSWORD") {
-			print h2("Incorrect password");
-			open(LOGIN_INPUT,"<login_input.html") or die "Could not open login_input.html, $!\n";
-			while (<LOGIN_INPUT>) {
-				print;
-			}
-			close (LOGIN_INPUT);
-			print hidden('login');
-		}
-	} elsif (param('login') eq "SUCCESSFUL") {
-		print h2("Welcome $username");
-		print hidden('login');
-	}
-	print end_html();
-}
+#the following part of the code will only execute if the user is logged in
+print header, start_html, h1("You are now logged in"),end_html;
 
 sub validateLogin {
 	my ($username, $password) = @_;
@@ -118,5 +101,98 @@ sub determineStatus {
 		return "UNKNOWN_USERNAME";
 	} elsif ($status == -4) {
 		return "INCORRECT_PASSWORD";
+	}
+}
+
+sub createDatabase {
+	my %userDatabase = ();
+	my $key1 = undef;
+	my $key2 = undef;
+	my $lineType;
+	foreach my $username (glob "students/*") {
+		foreach my $filename (("profile","preferences")) {
+		open (FILE,"<$username/$filename.txt") or die "Cannot open $username/$filename.txt, $!\n";
+		my @input = <FILE>;
+		my $counter = 0;
+		while ($counter <= $#input) {
+			my $line = $input[$counter];
+			chomp $line;
+			$lineType = getLineType ($line);
+			if ($lineType > 0) {
+				die "Error in line parsing, key corruption\n" if ($lineType == FIELD_LINE_LEVEL2 and (not defined $key1));
+				if ($lineType == FIELD_LINE_LEVEL1) {
+					if (defined $key1) {
+						$key1 = undef;
+						$key2 = undef;
+						next;
+					}
+					$key1 = extractData ($line, $lineType);
+				} else {
+					$key2 = extractData ($line, $lineType);
+				}
+			} else {
+				if (defined $key2) {
+					if (defined $userDatabase{$username}{$filename}{$key1}{$key2}) {
+						if (ref($userDatabase{$username}{$filename}{$key1}{$key2}) eq "ARRAY") {
+							push @{$userDatabase{$username}{$filename}{$key1}{$key2}},extractData ($line, $lineType);
+						} elsif (ref($userDatabase{$username}{$filename}{$key1}{$key2}) eq "") {
+							my $tempStore = $userDatabase{$username}{$filename}{$key1}{$key2};
+							$userDatabase{$username}{$filename}{$key1}{$key2} = [];
+							push @{$userDatabase{$username}{$filename}{$key1}{$key2}}, $tempStore;
+							push @{$userDatabase{$username}{$filename}{$key1}{$key2}}, extractData ($line, $lineType);
+						}
+					} else {
+						$userDatabase{$username}{$filename}{$key1}{$key2} = extractData ($line, $lineType);
+					}
+				} elsif (defined $key1) {
+					if (defined $userDatabase{$username}{$filename}{$key1}) {
+						if (ref($userDatabase{$username}{$filename}{$key1}) eq "ARRAY") {
+							push @{$userDatabase{$username}{$filename}{$key1}},extractData ($line, $lineType);
+						} elsif (ref($userDatabase{$username}{$filename}{$key1}) eq "") {
+							my $tempStore = $userDatabase{$username}{$filename}{$key1};
+							$userDatabase{$username}{$filename}{$key1} = [];
+							push @{$userDatabase{$username}{$filename}{$key1}}, $tempStore;
+							push @{$userDatabase{$username}{$filename}{$key1}}, extractData ($line, $lineType);
+						}
+					} else {
+						$userDatabase{$username}{$filename}{$key1} = extractData ($line, $lineType);
+					}
+				}
+			}
+			$counter++;
+		}
+		}
+	}
+	# print Dumper \%userDatabase;
+}
+
+sub getLineType {
+	my $line = $_[0];
+	my $lineType;
+	my $returnVal;
+	if ($line =~ m/^(\s*)\S+:\s*$/) {
+		my $indent = $1;
+		if ($indent eq "") {
+			$returnVal = FIELD_LINE_LEVEL1;
+		} elsif ($indent eq "\t") {
+			$returnVal = FIELD_LINE_LEVEL2;
+		} else {
+			die "Error in line parsing\n";
+		}
+	} else {
+		$returnVal = VALUE_LINE;
+	}
+	return $returnVal;
+}
+
+sub extractData {
+	my $line = $_[0];
+	my $type = $_[1];
+	if ($type > 0) {
+		$line =~ m/^\s*(.+):\s*$/;
+		return $1;
+	} else {
+		$line =~ m/^\s*(.+)\s*$/;
+		return $1;
 	}
 }

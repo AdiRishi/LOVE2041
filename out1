@@ -1,8 +1,125 @@
 #!/usr/bin/perl
-`chmod 755 students`;
-foreach $folder (glob "students/*") {
-	`chmod 755 $folder`;
-	foreach $file (glob "$folder/*.jpg") {
-		`chmod 666 "$file"`;
+use warnings;
+use strict;
+use HTML::Template;
+use CGI qw/:all/;
+use Data::Dumper;
+use constant {
+	NUM_BROWSE_ROWS => 4,
+	BOX_PER_ROW => 4,
+};
+print header;
+	param('browse_index', 0) if (not defined param('browse_index'));
+	my @students = glob ("students/*");
+	print start_html({
+      -head=>Link({-rel=>'stylesheet', -type=>'text/css', -href=>'browse.css'}).
+      Link({-rel=>'stylesheet', -type=>'text/css', -href=>'navbar.css'}),});
+	open (NAVBAR, "<navbar.html");
+	while (<NAVBAR>) {
+		print;
 	}
-}
+	close (NAVBAR);
+	my $template = HTML::Template->new(filename=>'user_box.tmpl');
+	my $rows = 0;
+	my $profile_num = param('browse_index');
+	while ($rows < NUM_BROWSE_ROWS) {
+		my @userData = ();
+		my $tempCount = 0;
+		while ($tempCount < BOX_PER_ROW) {
+			push @userData, {};
+			$tempCount++;
+		}
+		$tempCount = 0;
+		while ($profile_num < param('browse_index') + BOX_PER_ROW) {
+			my $foundGener = 0;
+			my $foundUname = 0;
+			# print "THE PROFILE NUMBER IS $profile_num\n";
+			# print "THE PROFILE IS $students[$profile_num]\n";
+			open (PROFILE, "<$students[$profile_num]/profile.txt") or die "Cannot open $students[$profile_num]/profile.txt, $!\n";
+			if (-f "$students[$profile_num]/profile.jpg") {
+				${$userData[$tempCount]}{'image_src'} = "$students[$profile_num]/profile.jpg";
+			}
+			while (my $line = <PROFILE>) {
+				chomp $line;
+				# print "THE PLAIN CORE LINE : $line\n";
+				if ($line =~ m/^\s*gender:\s*$/) {
+					# print $line,"This is the gender line\n";
+					$foundGener = 1;
+					next;
+				}
+				if ($line =~ m/^\s*username:\s*$/) {
+					# print $line,"This is the username line\n";
+					$foundUname = 1;
+					next;
+				}
+				if ($foundGener and (not defined ${$userData[$tempCount]}{'user_gender'})) {
+					# print "This is the user gender VALUE line\n",$line,"\n";
+					$line =~ m/\s*(.+)\s*/;
+					${$userData[$tempCount]}{'user_gender'} = $1;
+					next;
+				}
+				if ($foundUname and (not defined ${$userData[$tempCount]}{'user_name'})) {
+					# print $line,"This is the user name VALUE line\n",$line,"\n";
+					$line =~ m/\s*(.+)\s*/;
+					${$userData[$tempCount]}{'user_name'} = $1;
+					next;
+				}
+				last if ($foundGener and $foundUname);
+			}
+			close (PROFILE);
+			my $foundGenerPref = 0;
+			my $foundMin = 0;
+			my $foundMax = 0;
+			# print "\nFINISHED THE PROFILE.TXT\n\n";
+			open (PREFERENCES, "<$students[$profile_num]/preferences.txt") or die "Cannot open $students[$profile_num]/preferences.txt, $!\n";
+			while (my $line = <PREFERENCES>) {
+				chomp $line;
+				if ($line =~ m/^\s*gender:\s*$/) {
+					# print $line,"This is the gender pref line\n";
+					$foundGenerPref = 1;
+					next;
+				}
+				if ($line =~ m/^\s*min:\s*$/) {
+					# print $line,"This is the min line\n";
+					$foundMin = 1;
+					next;
+				}
+				if ($line =~ m/^\s*max:\s*$/) {
+					# print $line,"This is the max line\n";
+					$foundMax = 1;
+					next;
+				}
+				if ($foundGenerPref and (not defined ${$userData[$tempCount]}{'user_interest_gender'})) {
+					# print "THis is the gender pref VALUE line",$line,"\n";
+					$line =~ m/^\s*(.+)\s*$/;
+					${$userData[$tempCount]}{'user_interest_gender'} = $1;
+					next;
+				}
+				if ($foundMin and (not defined ${$userData[$tempCount]}{'min_age'})) {
+					# print "THis is the min age VALUE line",$line,"\n";
+					# print "THE VALUE OF foundGenerPref is $foundGenerPref and ${$userData[$tempCount]}{'min_age'}\n";
+					$line =~ m/^\s*(.+)\s*$/;
+					${$userData[$tempCount]}{'min_age'} = $1;
+					next;
+				}
+				if ($foundMax and (not defined ${$userData[$tempCount]}{'max_age'})) {
+					# print "THis is the max age VALUE line",$line,"\n";
+					$line =~ m/^\s*(.+)\s*$/;
+					${$userData[$tempCount]}{'max_age'} = $1;
+					next;
+				}
+				last if ($foundGenerPref and $foundMin and $foundMax);
+			}
+			close (PREFERENCES);
+			# print "\nFINISHED THE PREFERENCES.TXT\n\n";
+			$profile_num++;
+			$tempCount++;
+			print Dumper \@userData;
+		}
+		param('browse_index',$profile_num);
+		# $template->param(user_data=>\@userData);
+		print $template->output();
+		# exit (1);
+		$rows++;
+	}
+	print end_html();
