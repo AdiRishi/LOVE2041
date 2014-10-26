@@ -1,0 +1,15 @@
+<div class="main_container">
+<tmpl_loop name="user_data">
+<div class="user_box">
+	<div class="inner_pic">
+		<img src=<tmpl_var name="image_src"> alt="Profile Picture" width="120">
+	</div>
+	<div class="inner_data">
+	<pre id="top_detail">User Name : <tmpl_var name="user_name"></pre>
+	<pre>Gender: <tmpl_var name="user_gender"></pre>
+	<pre>Interested in a: <tmpl_var name="user_interest_gender"></pre>
+	<pre>Age : <tmpl_var name="min_age"> to <tmpl_var name="max_age"></pre>
+	</div>
+</div>
+</tmpl_loop>
+</div>
