@@ -1,0 +1,78 @@
+#profile_pic {
+	border-radius: 50%;
+	-moz-box-shadow: 0 0 5px 5px #888;
+	-webkit-box-shadow: 0 0 5px 5px#888;
+	box-shadow: 0 0 5px 5px #888;
+}
+
+#p_hack {
+	margin:0;
+	padding:0;
+	text-align: center;
+}
+
+#about {
+	margin:1em auto;
+	text-align: center;
+	border:1px solid black;
+	-moz-box-shadow: 0 0 5px 5px #888;
+	-webkit-box-shadow: 0 0 5px 5px#888;
+	box-shadow: 0 0 5px 5px #888;
+	font-family: "Lucida Bright", Georgia, serif;
+	font-size: 2em;
+}
+
+#pref {
+	margin:1em auto;
+	text-align: center;
+	border:1px solid black;
+	-moz-box-shadow: 0 0 5px 5px #888;
+	-webkit-box-shadow: 0 0 5px 5px#888;
+	box-shadow: 0 0 5px 5px #888;
+	font-family: "Lucida Bright", Georgia, serif;
+	font-size: 2em;
+}
+
+#pref p {
+	margin: 1 auto;
+	padding: 0;
+}
+
+#about p {
+	margin: 1 auto;
+	padding: 0;
+}
+
+.info_container {
+	width:40em;
+	margin:0 auto;
+	margin-bottom: 30px;
+	border:1px solid black;
+	-moz-box-shadow: 0 0 5px 5px #888;
+	-webkit-box-shadow: 0 0 5px 5px#888;
+	box-shadow: 0 0 5px 5px #888;
+}
+
+#data pre {
+	font-size: 1.5em;
+	text-align: center;
+}
+
+#user_name {
+	text-align: center;
+	font-family: "Brush Script MT", cursive;
+	font-size: 4em;
+	margin:1px auto;
+}
+
+#info_title {
+	background-color: grey;
+	margin:0 auto;
+}
+
+#info_title p {
+	text-align: center;
+	margin:0;
+	font-size: 2em;
+	font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
+}
