@@ -544,7 +544,7 @@ sub findIndexLocation {
 }
 
 sub generateBoxData {
-	my ($startIndex,@indexArray) = @_; 
+	my ($startIndex,@indexArray) = @_;
 	my @box_data;
 	if (defined $_[1]) {
 		my $counter = $startIndex;
@@ -696,6 +696,8 @@ sub existsInArray {
 	return 0;
 }
 
+#changes the value of the key
+#some fields have different names in the profile section
 sub sanitiseKey {
 	my $key = $_[0];
 	if ($key eq "hair_colours") {
@@ -707,6 +709,8 @@ sub sanitiseKey {
 	}
 }
 
+#function assumes the input is in the following formats
+# DD/MM/YYYY or YYYY/MM/DD
 sub calculateAge {
 	my $birthday = $_[0];
 	my ($day, $month, $year);
