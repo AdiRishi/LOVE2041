@@ -587,7 +587,6 @@ sub generateBoxData {
 	return \@box_data;
 }
 
-#check if users exist for the search
 sub getPossibleUsers {
 	my $searchWord = $_[0];
 	my @profiles = glob "students/*";
