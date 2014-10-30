@@ -14,6 +14,10 @@
 	border-radius: 1%;
 }
 
+.main_container {
+	margin-right: -175px;
+}
+
 #first_box {
 	margin-left: 60px;
 }
@@ -88,4 +92,31 @@
 
 #img_2 {
 	margin-left: 10px;
+}
+
+#showLogin {
+	border:1px solid black;
+	width: 20em;
+	height: 8em;
+	margin:15px auto;
+	position: relative;
+	text-align: center;
+	-moz-box-shadow: 0 0 5px 5px #888;
+	-webkit-box-shadow: 0 0 5px 5px#888;
+	box-shadow: 0 0 5px 5px #888;
+}
+
+#showLogin pre {
+	font-family: "Fertigo", "Vollkorn", "Open Sans";
+	font-style: oblique;
+	font-weight: bold;
+	margin:0;
+}
+
+#login_user_pic {
+	margin-top: 1px;
+	overflow: none;
+	/*height: 40%;*/
+	border-radius: 50%;
+	display: inline-block;
 }

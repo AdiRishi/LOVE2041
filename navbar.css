@@ -1,5 +1,6 @@
 body {
 	margin: 0;
+	margin-left: 5px;
 	padding: 0;
 	background-image: url('index_background.jpg');
 	/*background-color: blue;*/

@@ -17,6 +17,11 @@ use constant {
 	FIELD_LINE_LEVEL2 => 3,
 	VALUE_LINE => -1,
 	PRIVATE_DATA => ["name","password","courses","email"],
+	GENDER_POINTS => 50,
+	AGE_POINTS => 10,
+	PREFERENCES_POINTS => 5,
+	PROFILE_POINTS => 1,
+	COURSE_POINTS => 2,
 };
 
 my $userDatabase_ref;
@@ -86,6 +91,8 @@ if (defined param('login_submit')) {
  		$template = HTML::Template->new(filename=>'navbar.html');
 		print $template->output();
 		$template = HTML::Template->new(filename=>'searchBar.html');
+		my %tempHash = $login_cookie->value();
+		$template->param(username=>$tempHash{'username'});
 		print $template->output();
 		$template = HTML::Template->new(filename=>'user_box.tmpl');
 		my $counter = 0;
@@ -142,6 +149,9 @@ if ((url_param('page') || "") eq "browse") {
 EOF
 	}
 	$template = HTML::Template->new(filename=>'searchBar.html');
+	my $login_cookie = $cookies{'login_cookie'};
+	my %tempHash = $login_cookie->value();
+	$template->param(username=>"$tempHash{'username'}");
 	print $template->output();
 	$template = HTML::Template->new(filename=>'user_box.tmpl');
 	my $iterator = 0;
@@ -169,6 +179,21 @@ if ((url_param('request') || "") eq "view_profile") {
 	printUserProfile (url_param('user'));
 }
 
+if (url_param('request') eq "view_matches") {
+	print header;
+	my $login_cookie = $cookies{'login_cookie'};
+	my %hashVal = $login_cookie->value();
+	my $template = HTML::Template->new(filename=>'browse.html');
+	print $template->output();
+ 	$template = HTML::Template->new(filename=>'navbar.html');
+	print $template->output();
+	$template = HTML::Template->new(filename=>'searchBar.html');
+	$template->param(username=>$hashVal{'username'});
+	print $template->output();
+	arrayToUsers(findMatchingUsers($hashVal{'username'}));
+	print end_html;
+}
+
 if (defined url_param('submit_search')) {
 	my $usersArray = getPossibleUsers (url_param('search_username'));
 	if (scalar @{$usersArray} == 0) {
@@ -181,6 +206,9 @@ if (defined url_param('submit_search')) {
  		$template = HTML::Template->new(filename=>'navbar.html');
 		print $template->output();
 		$template = HTML::Template->new(filename=>'searchBar.html');
+		my $login_cookie = $cookies{'login_cookie'};
+		my %tempHash = $login_cookie->value();
+		$template->param(username=>$tempHash{'username'});
 		print $template->output();
 		arrayToUsers ($usersArray);
 		print end_html;
@@ -230,7 +258,7 @@ sub createDatabase {
 	my $key1 = undef;
 	my $key2 = undef;
 	my $lineType;
-	my @students = glob "students/*";
+	my @students = glob ("students/*");
 	$userDatabase{'NUM_USERS'} = $#students + 1;
 	foreach my $username (@students) {
 		foreach my $filename (("profile","preferences")) {
@@ -364,6 +392,9 @@ EOF
 	my $template = HTML::Template->new(filename=>'navbar.html');
 	print $template->output;
 	$template = HTML::Template->new(filename=>'searchBar.html');
+	my $login_cookie = $cookies{'login_cookie'};
+	my %tempHash = $login_cookie->value();
+	$template->param(username=>$tempHash{'username'});
 	print $template->output;
 	die if (not -d "students/$username");
 	print <<EOF;
@@ -468,17 +499,21 @@ sub inPrivateData {
 
 sub arrayToUsers {
 	my ($arrayOfUsers_ref) = $_[0];
+	# print Dumper $arrayOfUsers_ref;
 	my $template = HTML::Template->new(filename=>'user_box.tmpl');
 	my $counter = 0;
 	my @tempArray;
 	my $box_data_ref;
-	while ($counter < $#{$arrayOfUsers_ref}) {
+	while ($counter <= $#{$arrayOfUsers_ref}) {
 		if ($counter % 4 == 0 and $counter != 0) {
 			$box_data_ref = generateBoxData (0,@tempArray);
+			# print "<pre>";
+			# print Dumper $box_data_ref;
 			$template->param(user_data=>$box_data_ref);
 			print $template->output();
 			@tempArray = ();
 		}
+		# print "Location of ${$arrayOfUsers_ref}[$counter] is ",  findIndexLocation(${$arrayOfUsers_ref}[$counter]);
 		push @tempArray, findIndexLocation(${$arrayOfUsers_ref}[$counter]);
 		$counter++;
 	}
@@ -491,6 +526,7 @@ sub arrayToUsers {
 			$counter += 1;
 		}
 		$box_data_ref = generateBoxData (0, @tempArray);
+		# print Dumper $box_data_ref;
 		$template->param(user_data=>$box_data_ref);
 		print $template->output();
 	}
@@ -508,13 +544,11 @@ sub findIndexLocation {
 }
 
 sub generateBoxData {
-	my $startIndex = $_[0];
+	my ($startIndex,@indexArray) = @_; 
 	my @box_data;
 	if (defined $_[1]) {
-		my @indexArray = ($_[1],$_[2],$_[3],$_[4]);
 		my $counter = $startIndex;
 		my @profiles = glob ("students/*");
-		@box_data = ({},{},{},{});
 		my $iterator = 0;
 		foreach my $index (@indexArray) {
 			next if ($index == -1);
@@ -565,3 +599,128 @@ sub getPossibleUsers {
 	return \@matches;
 }
 
+sub findMatchingUsers {
+	my $username = $_[0];
+	$username = "students/".$username;
+	my %userPoints = ();
+	my @finalMatches = ();
+	foreach my $user (glob "students/*") {
+		# print "The username is $username\nThe student is $user\n";
+		next if ($user eq $username);
+		foreach my $key (keys %{${$userDatabase_ref}{$username}{'preferences'}}) {
+			# print "The key is !!$key!!\n";
+			my $sanitisedKey = sanitiseKey ($key);
+			# print "The sanitisedKey is $sanitisedKey\n";
+			if (ref (${$userDatabase_ref}{$username}{'preferences'}{$key}) eq "") {
+				# print "In scalar\n";
+				# print "The keyvalue is ${$userDatabase_ref}{$user}{'profile'}{$sanitisedKey}\n";
+				if (${$userDatabase_ref}{$user}{'profile'}{$sanitisedKey} eq ${$userDatabase_ref}{$username}{'preferences'}{$key}) {
+					$userPoints{$user} += addPoints("preferences",$key);
+				}
+			} elsif (ref (${$userDatabase_ref}{$username}{'preferences'}{$key}) eq "HASH") {
+				# print "In hash\n";
+				my $min  = ${$userDatabase_ref}{$username}{'preferences'}{$key}{"min"} || "";
+				$min =~ s/[a-zA-Z]//g;
+				# print "Min is $min\n";
+				my $max = ${$userDatabase_ref}{$username}{'preferences'}{$key}{'max'} || "";
+				$max =~ s/[a-zA-Z]//g;
+				# print "max is $max\n";
+				my $keyValue = ${$userDatabase_ref}{$user}{'profile'}{$sanitisedKey} || "";
+				if ($key eq "age") {
+					# print "The birthdate is $keyValue\n";
+					$keyValue = calculateAge ($keyValue);
+					# print "Age is $keyValue\n";
+				}
+				$keyValue =~ s/[a-zA-Z]//g;
+				# print "The keyValue is $keyValue\n";
+				if ($keyValue >= $min and $keyValue <= $max) {
+					$userPoints{$user} += addPoints ("preferences",$key);
+				}
+			} elsif (ref (${$userDatabase_ref}{$username}{'preferences'}{$key}) eq "ARRAY") {
+				# print "In array\n";
+				my $keyValue = ${$userDatabase_ref}{$user}{'profile'}{$sanitisedKey} || "";
+				# print "The keyValue is $keyValue\n";
+				if (existsInArray ($keyValue,${$userDatabase_ref}{$username}{'preferences'}{$key})) {
+					$userPoints{$user} += addPoints ("preferences", $key);
+				}
+			}
+		}
+		foreach my $key (keys %{${$userDatabase_ref}{$username}{'profile'}}) {
+			next if (not defined ${$userDatabase_ref}{$user}{"profile"}{$key});
+			if (ref(${$userDatabase_ref}{$username}{"profile"}{$key}) eq "ARRAY") {
+				my $core_array_ref = ${$userDatabase_ref}{$username}{"profile"}{$key};
+				foreach my $item (@{$core_array_ref}) {
+					if (ref(${$userDatabase_ref}{$user}{"profile"}{$key}) eq "ARRAY") {
+						if (existsInArray($item,${$userDatabase_ref}{$user}{"profile"}{$key})) {
+							$userPoints{$user} += addPoints ("profile",$key);
+						}
+					} else {
+						if ($item eq ${$userDatabase_ref}{$user}{"profile"}{$key}) {
+							$userPoints{$user} += addPoints ("profile",$key);
+						}
+					}
+				}
+			} else {
+				if (${$userDatabase_ref}{$username}{"profile"}{$key} eq ${$userDatabase_ref}{$user}{"profile"}{$key}) {
+					$userPoints{$user} += addPoints ("profile",$key);
+				}
+			}
+		}
+	}
+	my $counter = 0;
+	foreach my $key (sort {$userPoints{$b} <=> $userPoints{$a}} keys %userPoints) {
+		push @finalMatches, $key;
+		$counter += 1;
+		last if ($counter >= 50);
+	}
+	return \@finalMatches;
+}
+
+sub addPoints {
+	my ($type,$key) = @_;
+	if ($type eq "preferences") {
+		return AGE_POINTS if ($key eq "age");
+		return GENDER_POINTS if ($key eq "gender");
+		return PREFERENCES_POINTS;
+	} elsif ($type eq "profile") {
+		return COURSE_POINTS if ($key eq "courses");
+		return PROFILE_POINTS;
+	}
+}
+
+sub existsInArray {
+	my ($value, $array_ref) = @_;
+	foreach my $item (@{$array_ref}) {
+		return 1 if ($item eq $value);
+	}
+	return 0;
+}
+
+sub sanitiseKey {
+	my $key = $_[0];
+	if ($key eq "hair_colours") {
+		return "hair_colour";
+	} elsif ($key eq "age") {
+		return 'birthdate';
+	} else {
+		return $key;
+	}
+}
+
+sub calculateAge {
+	my $birthday = $_[0];
+	my ($day, $month, $year);
+	if ($birthday =~ m/([0-9]{4})\/([0-9]{2})\/([0-9]{2})/) {
+		($day, $month, $year) = ($3,$2,$1);
+	} elsif ($birthday =~ m/([0-9]{2})\/([0-9]{2})\/([0-9]{4})/) {
+		($day, $month, $year) = ($1,$2,$3);
+	}
+	my ($c_day, $c_month, $c_year) = (localtime)[3..5];
+	$c_month += 1;
+	$c_year += 1900;
+	my $age = $c_year - $year;
+	if (($month >= $c_month and $day >= $c_day) or $month > $c_month) {
+		$age++;
+	}
+	return $age;
+}
