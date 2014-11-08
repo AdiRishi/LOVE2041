@@ -1,0 +1,81 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+    <title>Manage your account</title>
+    <link rel="stylesheet" type="text/css" href="browse.css" />
+    <link rel="stylesheet" type="text/css" href="navbar.css"/>
+    <link rel="stylesheet" type="text/css" href="account.css"/>
+    <link rel="stylesheet" type="text/css" href="user_styles.css"/>
+</head>
+
+<body>
+    <tmpl_include name="navbar.html">
+    <div id="sidebar_parent">
+        <div id="sidebar">
+            <a href="love2041.cgi?request=view_account&page=acc_info">
+            <div class="sidebar_element">
+                <pre>Account Information</pre>
+            </div>
+            </a>
+            <a href="love2041.cgi?request=view_account&page=edit_profile">
+            <div class="sidebar_element">
+                <pre>Edit Profile</pre>
+            </div>
+            </a>
+            <a href="love2041.cgi?request=view_account&page=manage_pic">
+            <div class="sidebar_element">
+                <pre>Manage Pictures</pre>
+            </div>
+            </a>
+            <a href="love2041.cgi?request=view_account&page=change_pass">
+            <div class="sidebar_element">
+                <pre>Change Password</pre>
+            </div>
+            </a>
+        </div>
+        <div id="page_content">
+            <tmpl_if name="edit_profile">
+            <h2 class="text_centered">Edit your profile</h2>
+            <h3>Profile text</h3>
+            <form name="account_info" method="post" action="love2041.cgi?request=view_account&page=edit_profile" enctype="multipart/form-data">
+                <textarea name="input_text" rows="10" cols="80"><tmpl_var name="profile_text"></textarea>
+                <p style="text-align:left;"><input type="submit" name="prof_data_submit"></p>
+            </form>
+            </tmpl_if>
+
+            <tmpl_if name="acc_info">
+            <div class="content_centered">
+            <p><img src="students/<tmpl_var name=username>/profile.jpg" alt="Profile Picture"/></p>
+            <form action="love2041.cgi?request=view_account&page=acc_info" method="get" enctype="multipart/form-data">
+                <input type="submit" name="suspend" value="Suspend">
+                <input type="submit" name="delete" value="Delete">
+            </form>
+            </div>
+            </tmpl_if>
+            <tmpl_if name="manage_pic">
+                <div id="upload_container">
+                    <h3 style="display:inline-block;">Upload an image</h3>
+                    <form action="love2041.cgi?request=view_account&page=manage_pic" method="post" enctype="multipart/form-data">
+                        <input type="file" name="img_upload" accept="image/jpeg" required>
+                        <p style="text-align:left;"><input id="submit_image" type="submit" name="submit_upload" value="Upload Image"></p>
+                    </form>
+                </div>
+                <div id="about">
+                    Your current pictures
+                </div>
+                <tmpl_loop name="image_loop">
+                    <div id="image_container">
+                        <img src="<tmpl_var name=image_path>" alt="Picture">
+                        <form action="love2041.cgi?request=view_account&page=manage_pic" method="post" enctype="multipart/form-data">
+                            <input type="hidden" name="image_source" value="<tmpl_var name=image_path>">
+                            <input type="submit" name="image_delete" value="Delete Image">
+                        </form>
+                    </div>
+                </tmpl_loop>
+            </tmpl_if>
+        </div>
+    </div>
+</body>
+</html>

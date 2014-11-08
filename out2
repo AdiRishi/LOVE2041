@@ -1,9 +1,0 @@
-$count = 0;
-foreach $folder (glob "students/*") {
-	if (not -f "$folder/profile.jpg") {
-		print "$folder\n";
-		$count++;
-	}
-}
-print "The number of folders without profile pics is $count\n";
-

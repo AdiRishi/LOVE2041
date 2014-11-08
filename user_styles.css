@@ -22,6 +22,14 @@
 	font-size: 2em;
 }
 
+#prof_text {
+	font-size: 0.7em;
+}
+
+#me {
+	text-decoration: underline;
+}
+
 #pref {
 	margin:1em auto;
 	text-align: center;

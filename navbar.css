@@ -1,5 +1,6 @@
 body {
-	margin: 0;
+	margin-right: 0;
+	margin-top: 0;
 	margin-left: 5px;
 	padding: 0;
 	background-image: url('index_background.jpg');
@@ -15,7 +16,7 @@ body {
 	border:1px solid black;
 	width:100%;
 	margin-top:0px;
-	background-color: #B2F0F0;
+	background-color: #3E86CF;
 	/*background-color: #666;*/
 	text-align: center;
 }

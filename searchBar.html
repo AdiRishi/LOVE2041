@@ -1,11 +1,11 @@
 <div id="showLogin">
 <pre>Logged in as</pre>
-<img src="students/<tmpl_var name=username>/profile.jpg" alt="Profile picture" id="login_user_pic" width=80>
+<a href="love2041.cgi?request=view_profile&user=<tmpl_var name=username>"><img src="students/<tmpl_var name=username>/profile.jpg" alt="Profile picture" id="login_user_pic" width=80></a>
 <pre><tmpl_var name="username"></pre>
 </div>
 <div id="search_container">
-	<form method="get" action="http://cgi.cse.unsw.edu.au/~z5011984/LOVE2041/love2041.cgi" enctype="multipart/form-data">
-		<p><input id="search_box" type="text" name="search_username" placeholder="Search by username" required/></p>
+	<form method="get" action="love2041.cgi" enctype="multipart/form-data">
+		<p><input id="search_box" type="text" name="search_username" placeholder="Search all users by username" required/></p>
 		<p><input id="submit_search" type="submit" name="submit_search" value="Search"/></p>
 	</form>
 </div>
